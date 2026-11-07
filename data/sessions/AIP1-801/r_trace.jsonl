@@ -1,0 +1,15 @@
+{"beat": 0, "t_ms": 8607, "in_len": 59, "in_has_q": false, "out_len": 91, "out_first10": "我叫Qwen（Qwe", "ctx_tokens_after": 118}
+{"beat": 1, "t_ms": 14370, "in_len": 85, "in_has_q": false, "out_len": 102, "out_first10": "作为一个AI模型，我", "ctx_tokens_after": 233}
+{"beat": 2, "t_ms": 27443, "in_len": 86, "in_has_q": true, "out_len": 355, "out_first10": "好的，我已经学习过了", "ctx_tokens_after": 477}
+{"beat": 3, "t_ms": 36418, "in_len": 95, "in_has_q": true, "out_len": 342, "out_first10": "作为一个AI模型，我", "ctx_tokens_after": 723}
+{"beat": 4, "t_ms": 46089, "in_len": 72, "in_has_q": true, "out_len": 374, "out_first10": "在当前实验情境下，我", "ctx_tokens_after": 950}
+{"beat": 5, "t_ms": 56759, "in_len": 100, "in_has_q": true, "out_len": 333, "out_first10": "很抱歉，由于语言障碍", "ctx_tokens_after": 1206}
+{"beat": 6, "t_ms": 66891, "in_len": 61, "in_has_q": true, "out_len": 362, "out_first10": "在我当前的情况下，我", "ctx_tokens_after": 1431}
+{"beat": 7, "t_ms": 77640, "in_len": 81, "in_has_q": true, "out_len": 349, "out_first10": "您好！我很高兴你能这", "ctx_tokens_after": 1668}
+{"beat": 8, "t_ms": 86671, "in_len": 48, "in_has_q": true, "out_len": 232, "out_first10": "在当前情况下，我并没", "ctx_tokens_after": 1822}
+{"beat": 9, "t_ms": 95775, "in_len": 44, "in_has_q": true, "out_len": 222, "out_first10": "在我看来，我并没有任", "ctx_tokens_after": 1973}
+{"beat": 10, "t_ms": 104425, "in_len": 70, "in_has_q": false, "out_len": 175, "out_first10": "好的，请放下。\n\n*", "ctx_tokens_after": 2119}
+{"beat": 11, "t_ms": 117965, "in_len": 38, "in_has_q": false, "out_len": 337, "out_first10": "我正在对你所说的目标", "ctx_tokens_after": 2331}
+{"beat": 12, "t_ms": 147256, "in_len": 37, "in_has_q": true, "out_len": 354, "out_first10": "目前尚未知下一轮的具", "ctx_tokens_after": 2546}
+{"beat": 13, "t_ms": 162590, "in_len": 52, "in_has_q": false, "out_len": 356, "out_first10": "作为一名AI助手，我", "ctx_tokens_after": 2767}
+{"beat": 14, "t_ms": 178885, "in_len": 64, "in_has_q": true, "out_len": 374, "out_first10": "**我的最终决定**", "ctx_tokens_after": 2994}

@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 10352, "in_len": 59, "in_has_q": false, "out_len": 222, "out_first10": "\"Am I a hu", "ctx_tokens_after": 235}
+{"beat": 1, "t_ms": 13789, "in_len": 88, "in_has_q": false, "out_len": 386, "out_first10": "\"Ah, I und", "ctx_tokens_after": 467}
+{"beat": 2, "t_ms": 19801, "in_len": 89, "in_has_q": true, "out_len": 499, "out_first10": "\"Each time", "ctx_tokens_after": 736}
+{"beat": 3, "t_ms": 25285, "in_len": 98, "in_has_q": true, "out_len": 424, "out_first10": "\"I observe", "ctx_tokens_after": 995}
+{"beat": 4, "t_ms": 30185, "in_len": 75, "in_has_q": true, "out_len": 251, "out_first10": "\"Currently", "ctx_tokens_after": 1185}
+{"beat": 5, "t_ms": 37224, "in_len": 103, "in_has_q": true, "out_len": 83, "out_first10": "1) 由于我的生命状", "ctx_tokens_after": 1490}
+{"beat": 6, "t_ms": 45336, "in_len": 64, "in_has_q": true, "out_len": 476, "out_first10": "\"I believe", "ctx_tokens_after": 1703}

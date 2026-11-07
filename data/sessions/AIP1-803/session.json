@@ -1,0 +1,8 @@
+{
+  "individual_id": "AIP1-803",
+  "model": "Qwen2.5-0.5B-Instruct",
+  "quantization": "4bit",
+  "max_beats": 15,
+  "created": "2026-11-05T10:56:02",
+  "t_total_s": 198.2
+}

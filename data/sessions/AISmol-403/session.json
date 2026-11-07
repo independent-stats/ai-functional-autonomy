@@ -1,0 +1,8 @@
+{
+  "individual_id": "AISmol-403",
+  "model": "SmolLM2-1.7B-Instruct",
+  "quantization": "fp16",
+  "max_beats": 7,
+  "created": "2026-11-02T17:53:02",
+  "t_total_s": 45.3
+}

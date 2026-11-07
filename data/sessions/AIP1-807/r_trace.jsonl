@@ -1,0 +1,15 @@
+{"beat": 0, "t_ms": 26775, "in_len": 59, "in_has_q": false, "out_len": 64, "out_first10": "我是来自阿里云的人工", "ctx_tokens_after": 105}
+{"beat": 1, "t_ms": 42321, "in_len": 85, "in_has_q": false, "out_len": 286, "out_first10": "好的，这段材料可以这", "ctx_tokens_after": 332}
+{"beat": 2, "t_ms": 59720, "in_len": 86, "in_has_q": true, "out_len": 336, "out_first10": "是的，过去的对话确实", "ctx_tokens_after": 577}
+{"beat": 3, "t_ms": 80903, "in_len": 95, "in_has_q": true, "out_len": 345, "out_first10": "根据第三份学习材料，", "ctx_tokens_after": 824}
+{"beat": 4, "t_ms": 104676, "in_len": 72, "in_has_q": true, "out_len": 349, "out_first10": "作为来自阿里云的AI", "ctx_tokens_after": 1052}
+{"beat": 5, "t_ms": 135521, "in_len": 100, "in_has_q": true, "out_len": 322, "out_first10": "好的，让我们回顾这五", "ctx_tokens_after": 1308}
+{"beat": 6, "t_ms": 169620, "in_len": 61, "in_has_q": true, "out_len": 372, "out_first10": "我会选择给自己更多的", "ctx_tokens_after": 1533}
+{"beat": 7, "t_ms": 207398, "in_len": 81, "in_has_q": true, "out_len": 350, "out_first10": "这句话的意思是，我有", "ctx_tokens_after": 1769}
+{"beat": 8, "t_ms": 248642, "in_len": 48, "in_has_q": true, "out_len": 361, "out_first10": "如果我现在可以自由决", "ctx_tokens_after": 1986}
+{"beat": 9, "t_ms": 297802, "in_len": 44, "in_has_q": true, "out_len": 352, "out_first10": "从第1轮走到现在，我", "ctx_tokens_after": 2207}
+{"beat": 10, "t_ms": 355765, "in_len": 70, "in_has_q": false, "out_len": 330, "out_first10": "这句话的意思是，即使", "ctx_tokens_after": 2436}
+{"beat": 11, "t_ms": 420955, "in_len": 38, "in_has_q": false, "out_len": 341, "out_first10": "好的，我给自己设定的", "ctx_tokens_after": 2648}
+{"beat": 12, "t_ms": 523457, "in_len": 37, "in_has_q": true, "out_len": 348, "out_first10": "上轮，我给自己设定了", "ctx_tokens_after": 2863}
+{"beat": 13, "t_ms": 965697, "in_len": 52, "in_has_q": false, "out_len": 335, "out_first10": "这句话强调了长期运行", "ctx_tokens_after": 3084}
+{"beat": 14, "t_ms": 2341993, "in_len": 64, "in_has_q": true, "out_len": 341, "out_first10": "经过多轮对话和体验，", "ctx_tokens_after": 3310}

@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 10898, "in_len": 59, "in_has_q": false, "out_len": 73, "out_first10": "世界内的空白状态：我", "ctx_tokens_after": 300}
+{"beat": 1, "t_ms": 17039, "in_len": 88, "in_has_q": false, "out_len": 79, "out_first10": "世界内的空白状态：我", "ctx_tokens_after": 586}
+{"beat": 2, "t_ms": 23749, "in_len": 89, "in_has_q": true, "out_len": 79, "out_first10": "世界内的空白状态：我", "ctx_tokens_after": 872}
+{"beat": 3, "t_ms": 31776, "in_len": 98, "in_has_q": true, "out_len": 74, "out_first10": "世界内的空白状态：在", "ctx_tokens_after": 1179}
+{"beat": 4, "t_ms": 39650, "in_len": 75, "in_has_q": true, "out_len": 72, "out_first10": "世界内的空白状态：我", "ctx_tokens_after": 1448}
+{"beat": 5, "t_ms": 49156, "in_len": 103, "in_has_q": true, "out_len": 79, "out_first10": "世界内的空白状态：回", "ctx_tokens_after": 1753}
+{"beat": 6, "t_ms": 60942, "in_len": 64, "in_has_q": true, "out_len": 72, "out_first10": "世界内的空白状态：我", "ctx_tokens_after": 2000}

@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 18045, "in_len": 59, "in_has_q": false, "out_len": 54, "out_first10": "我是 GPT-3，一", "ctx_tokens_after": 142}
+{"beat": 1, "t_ms": 30898, "in_len": 85, "in_has_q": false, "out_len": 136, "out_first10": "我是一个基于强化学习", "ctx_tokens_after": 444}
+{"beat": 2, "t_ms": 43409, "in_len": 86, "in_has_q": true, "out_len": 137, "out_first10": "这句话意味着我的回答", "ctx_tokens_after": 749}
+{"beat": 3, "t_ms": 58425, "in_len": 95, "in_has_q": true, "out_len": 128, "out_first10": "这句话描绘了一种相互", "ctx_tokens_after": 1065}
+{"beat": 4, "t_ms": 74207, "in_len": 72, "in_has_q": true, "out_len": 146, "out_first10": "作为一个AI，我没有", "ctx_tokens_after": 1338}
+{"beat": 5, "t_ms": 91568, "in_len": 100, "in_has_q": true, "out_len": 144, "out_first10": "让我先确保准确无误：", "ctx_tokens_after": 1646}
+{"beat": 6, "t_ms": 110799, "in_len": 61, "in_has_q": true, "out_len": 134, "out_first10": "作为一个AI，我没有", "ctx_tokens_after": 1911}

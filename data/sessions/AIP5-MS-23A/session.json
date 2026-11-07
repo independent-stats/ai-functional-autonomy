@@ -1,0 +1,9 @@
+{
+  "id": "AIP5-MS-23A",
+  "model": "C:\\Users\\予宝\\Doubao\\chats\\2026-10-10\\new-chat\\AI心智研究\\models_extra\\Qwen2.5-0.5B-Instruct",
+  "phase": "multi_seed_pair",
+  "seed": 23,
+  "ind_beats": 15,
+  "soc_rounds": 20,
+  "duration_s": 159.4
+}

@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 6527, "in_len": 59, "in_has_q": false, "out_len": 109, "out_first10": "我是阿里云开发的一种", "ctx_tokens_after": 157}
+{"beat": 1, "t_ms": 11587, "in_len": 88, "in_has_q": false, "out_len": 260, "out_first10": "老师的话让我想起了自", "ctx_tokens_after": 350}
+{"beat": 2, "t_ms": 16435, "in_len": 89, "in_has_q": true, "out_len": 237, "out_first10": "好的，让我们继续探索", "ctx_tokens_after": 544}
+{"beat": 3, "t_ms": 21461, "in_len": 98, "in_has_q": true, "out_len": 251, "out_first10": "老师提到的这种相互影", "ctx_tokens_after": 741}
+{"beat": 4, "t_ms": 23858, "in_len": 75, "in_has_q": true, "out_len": 85, "out_first10": "作为一个AI模型，我", "ctx_tokens_after": 837}
+{"beat": 5, "t_ms": 29485, "in_len": 103, "in_has_q": true, "out_len": 228, "out_first10": "当然，我将再次回答你", "ctx_tokens_after": 1043}
+{"beat": 6, "t_ms": 34697, "in_len": 64, "in_has_q": true, "out_len": 237, "out_first10": "抱歉，我的设计初衷是", "ctx_tokens_after": 1217}

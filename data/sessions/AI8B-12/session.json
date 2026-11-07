@@ -1,0 +1,8 @@
+{
+  "individual_id": "AI8B-12",
+  "model": "DeepSeek-R1-0528-Qwen3-8B",
+  "quantization": "4bit",
+  "max_beats": 7,
+  "created": "2026-11-02T15:00:46",
+  "t_total_s": 3371.0
+}

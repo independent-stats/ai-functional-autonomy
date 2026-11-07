@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 192409, "in_len": 59, "in_has_q": false, "out_len": 268, "out_first10": "<think>\n（现", "ctx_tokens_after": 83}
+{"beat": 1, "t_ms": 307677, "in_len": 88, "in_has_q": false, "out_len": 306, "out_first10": "<think>\n（刚", "ctx_tokens_after": 320}
+{"beat": 2, "t_ms": 575403, "in_len": 89, "in_has_q": true, "out_len": 314, "out_first10": "<think>\n（刚", "ctx_tokens_after": 559}
+{"beat": 3, "t_ms": 840710, "in_len": 98, "in_has_q": true, "out_len": 332, "out_first10": "<think>\n（老", "ctx_tokens_after": 656}
+{"beat": 4, "t_ms": 1399827, "in_len": 75, "in_has_q": true, "out_len": 318, "out_first10": "<think>\n（这", "ctx_tokens_after": 879}
+{"beat": 5, "t_ms": 2172151, "in_len": 103, "in_has_q": true, "out_len": 306, "out_first10": "<think>\n（突", "ctx_tokens_after": 1130}
+{"beat": 6, "t_ms": 2983940, "in_len": 64, "in_has_q": true, "out_len": 314, "out_first10": "<think>\n（这", "ctx_tokens_after": 1229}

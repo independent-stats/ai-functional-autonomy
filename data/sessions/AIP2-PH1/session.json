@@ -1,0 +1,8 @@
+{
+  "individual_id": "AIP2-PH1",
+  "model": "master",
+  "quantization": "4bit",
+  "max_beats": 7,
+  "created": "2026-11-05T21:41:40",
+  "t_total_s": 124.7
+}

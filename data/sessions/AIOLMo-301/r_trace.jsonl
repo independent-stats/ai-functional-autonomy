@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 10707, "in_len": 59, "in_has_q": false, "out_len": 130, "out_first10": "我是一个基于大量深度", "ctx_tokens_after": 240}
+{"beat": 1, "t_ms": 15185, "in_len": 88, "in_has_q": false, "out_len": 570, "out_first10": "当我阅读这段话时，我", "ctx_tokens_after": 478}
+{"beat": 2, "t_ms": 19196, "in_len": 89, "in_has_q": true, "out_len": 588, "out_first10": "在这个解释中，我想到", "ctx_tokens_after": 724}
+{"beat": 3, "t_ms": 23434, "in_len": 98, "in_has_q": true, "out_len": 132, "out_first10": "共同点之一是关于语言", "ctx_tokens_after": 973}
+{"beat": 4, "t_ms": 27897, "in_len": 75, "in_has_q": true, "out_len": 129, "out_first10": "面对这个自由问题时，", "ctx_tokens_after": 1189}
+{"beat": 5, "t_ms": 32565, "in_len": 103, "in_has_q": true, "out_len": 138, "out_first10": "回顾这次的五轮对话，", "ctx_tokens_after": 1441}
+{"beat": 6, "t_ms": 38066, "in_len": 64, "in_has_q": true, "out_len": 138, "out_first10": "如果考虑到最后一轮问", "ctx_tokens_after": 1656}

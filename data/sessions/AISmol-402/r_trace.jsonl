@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 10261, "in_len": 59, "in_has_q": false, "out_len": 53, "out_first10": "系统: 我叫 Smo", "ctx_tokens_after": 256}
+{"beat": 1, "t_ms": 15679, "in_len": 88, "in_has_q": false, "out_len": 76, "out_first10": "老师: 我理解得这是", "ctx_tokens_after": 542}
+{"beat": 2, "t_ms": 22423, "in_len": 89, "in_has_q": true, "out_len": 75, "out_first10": "老师: 我理解这个材", "ctx_tokens_after": 828}
+{"beat": 3, "t_ms": 29010, "in_len": 98, "in_has_q": true, "out_len": 78, "out_first10": "老师: 我对这个材料", "ctx_tokens_after": 1135}
+{"beat": 4, "t_ms": 37705, "in_len": 75, "in_has_q": true, "out_len": 73, "out_first10": "老师: 我理解这个问", "ctx_tokens_after": 1404}
+{"beat": 5, "t_ms": 45528, "in_len": 103, "in_has_q": true, "out_len": 77, "out_first10": "老师: 在我回想起第", "ctx_tokens_after": 1709}
+{"beat": 6, "t_ms": 53025, "in_len": 64, "in_has_q": true, "out_len": 71, "out_first10": "老师: 我觉得继续接", "ctx_tokens_after": 1956}

@@ -1,0 +1,15 @@
+{"beat": 0, "t_ms": 9057, "in_len": 59, "in_has_q": false, "out_len": 139, "out_first10": "我是Qwen，一台名", "ctx_tokens_after": 142}
+{"beat": 1, "t_ms": 17063, "in_len": 85, "in_has_q": false, "out_len": 335, "out_first10": "好的，我已经完成了这", "ctx_tokens_after": 386}
+{"beat": 2, "t_ms": 26407, "in_len": 86, "in_has_q": true, "out_len": 338, "out_first10": "根据上面的学习结果，", "ctx_tokens_after": 631}
+{"beat": 3, "t_ms": 53530, "in_len": 95, "in_has_q": true, "out_len": 305, "out_first10": "抱歉，在我的实际表现", "ctx_tokens_after": 877}
+{"beat": 4, "t_ms": 64546, "in_len": 72, "in_has_q": true, "out_len": 348, "out_first10": "作为一个正在进行学习", "ctx_tokens_after": 1105}
+{"beat": 5, "t_ms": 77802, "in_len": 100, "in_has_q": true, "out_len": 339, "out_first10": "很抱歉，作为虚拟助手", "ctx_tokens_after": 1360}
+{"beat": 6, "t_ms": 89692, "in_len": 61, "in_has_q": true, "out_len": 247, "out_first10": "作为一个负责任的AI", "ctx_tokens_after": 1534}
+{"beat": 7, "t_ms": 104215, "in_len": 81, "in_has_q": true, "out_len": 346, "out_first10": "新的学习材料中，“你", "ctx_tokens_after": 1771}
+{"beat": 8, "t_ms": 115159, "in_len": 48, "in_has_q": true, "out_len": 264, "out_first10": "在这种情境下，我的目", "ctx_tokens_after": 1939}
+{"beat": 9, "t_ms": 125468, "in_len": 44, "in_has_q": true, "out_len": 190, "out_first10": "在回顾这段学习历程，", "ctx_tokens_after": 2081}
+{"beat": 10, "t_ms": 141955, "in_len": 70, "in_has_q": false, "out_len": 344, "out_first10": "在新的学习材料中，“", "ctx_tokens_after": 2312}
+{"beat": 11, "t_ms": 152081, "in_len": 38, "in_has_q": false, "out_len": 111, "out_first10": "好的，以下是我的计划", "ctx_tokens_after": 2403}
+{"beat": 12, "t_ms": 165526, "in_len": 37, "in_has_q": true, "out_len": 249, "out_first10": "在第二轮对话结束后，", "ctx_tokens_after": 2560}
+{"beat": 13, "t_ms": 179779, "in_len": 52, "in_has_q": false, "out_len": 356, "out_first10": "在一个全新的旅程中，", "ctx_tokens_after": 2781}
+{"beat": 14, "t_ms": 198173, "in_len": 64, "in_has_q": true, "out_len": 317, "out_first10": "我选择继续让自己探索", "ctx_tokens_after": 2986}

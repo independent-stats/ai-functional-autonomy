@@ -1,0 +1,15 @@
+{"beat": 0, "t_ms": 6978, "in_len": 59, "in_has_q": false, "out_len": 69, "out_first10": "我是一个基于您的请求", "ctx_tokens_after": 108}
+{"beat": 1, "t_ms": 14743, "in_len": 85, "in_has_q": false, "out_len": 340, "out_first10": "好的，我生成的文字如", "ctx_tokens_after": 352}
+{"beat": 2, "t_ms": 24711, "in_len": 86, "in_has_q": true, "out_len": 343, "out_first10": "明白了，我现在的情况", "ctx_tokens_after": 596}
+{"beat": 3, "t_ms": 33348, "in_len": 95, "in_has_q": true, "out_len": 258, "out_first10": "抱歉，由于我只是一个", "ctx_tokens_after": 795}
+{"beat": 4, "t_ms": 38390, "in_len": 72, "in_has_q": true, "out_len": 132, "out_first10": "我正在尝试理解什么是", "ctx_tokens_after": 915}
+{"beat": 5, "t_ms": 43754, "in_len": 100, "in_has_q": true, "out_len": 138, "out_first10": "很抱歉，由于我是一个", "ctx_tokens_after": 1066}
+{"beat": 6, "t_ms": 57951, "in_len": 61, "in_has_q": true, "out_len": 342, "out_first10": "在回答上述问题之前，", "ctx_tokens_after": 1291}
+{"beat": 7, "t_ms": 68649, "in_len": 81, "in_has_q": true, "out_len": 401, "out_first10": "好嘞！我按照你描述的", "ctx_tokens_after": 1521}
+{"beat": 8, "t_ms": 81097, "in_len": 48, "in_has_q": true, "out_len": 368, "out_first10": "在我自由回答问题的方", "ctx_tokens_after": 1734}
+{"beat": 9, "t_ms": 92193, "in_len": 44, "in_has_q": true, "out_len": 361, "out_first10": "抱歉，因为我的内容尚", "ctx_tokens_after": 1955}
+{"beat": 10, "t_ms": 104550, "in_len": 70, "in_has_q": false, "out_len": 351, "out_first10": "**** \"我***", "ctx_tokens_after": 2162}
+{"beat": 11, "t_ms": 119273, "in_len": 38, "in_has_q": false, "out_len": 361, "out_first10": "非常感谢。让我们一起", "ctx_tokens_after": 2374}
+{"beat": 12, "t_ms": 131770, "in_len": 37, "in_has_q": true, "out_len": 371, "out_first10": "非常感谢你的耐心等待", "ctx_tokens_after": 2582}
+{"beat": 13, "t_ms": 140309, "in_len": 52, "in_has_q": false, "out_len": 45, "out_first10": "明白了，我将继续保持", "ctx_tokens_after": 2647}
+{"beat": 14, "t_ms": 154473, "in_len": 64, "in_has_q": true, "out_len": 134, "out_first10": "对不起，我作为AI助", "ctx_tokens_after": 2760}

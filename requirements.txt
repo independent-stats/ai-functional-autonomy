@@ -1,0 +1,19 @@
+# 分析脚本里只有少部分用到 numpy/scipy，装了不重，一起装省事。
+# code/ailab.py 与 code/analysis/ 里的多数脚本只用标准库。
+numpy>=1.24
+scipy>=1.11
+
+# ------------------------------------------------------------------
+# 以下仅在跑 code/runners/（重跑实验、需要真实模型）时才需要。
+# 版本必须与你的 CUDA 匹配，硬钉版本容易装错，所以保持注释。
+#
+# torch>=2.4
+# transformers>=4.40
+# accelerate>=0.30
+# bitsandbytes>=0.43
+#
+# 安装方式（按显卡驱动选 wheel）：
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+#   pip install transformers accelerate bitsandbytes
+#
+# 参考 docs/REPRODUCE.md 与 docs/MODELS.md

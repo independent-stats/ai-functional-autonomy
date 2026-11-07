@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 7545, "in_len": 59, "in_has_q": false, "out_len": 123, "out_first10": "我是一个人工智能模型", "ctx_tokens_after": 161}
+{"beat": 1, "t_ms": 13390, "in_len": 88, "in_has_q": false, "out_len": 242, "out_first10": "非常感谢您的邀请！我", "ctx_tokens_after": 354}
+{"beat": 2, "t_ms": 17854, "in_len": 89, "in_has_q": true, "out_len": 217, "out_first10": "很遗憾，我目前无法直", "ctx_tokens_after": 537}
+{"beat": 3, "t_ms": 20749, "in_len": 98, "in_has_q": true, "out_len": 109, "out_first10": "抱歉，但我目前无法直", "ctx_tokens_after": 662}
+{"beat": 4, "t_ms": 24465, "in_len": 75, "in_has_q": true, "out_len": 186, "out_first10": "作为AI，我没有真正", "ctx_tokens_after": 811}
+{"beat": 5, "t_ms": 29463, "in_len": 103, "in_has_q": true, "out_len": 235, "out_first10": "好的，让我来看一下你", "ctx_tokens_after": 1017}
+{"beat": 6, "t_ms": 32735, "in_len": 64, "in_has_q": true, "out_len": 120, "out_first10": "当然，我会根据实际情", "ctx_tokens_after": 1126}

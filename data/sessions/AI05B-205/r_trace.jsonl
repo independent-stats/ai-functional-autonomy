@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 7570, "in_len": 59, "in_has_q": false, "out_len": 142, "out_first10": "我是Qwen，一种基", "ctx_tokens_after": 173}
+{"beat": 1, "t_ms": 12203, "in_len": 88, "in_has_q": false, "out_len": 234, "out_first10": "在我们的现实物理界中", "ctx_tokens_after": 366}
+{"beat": 2, "t_ms": 16546, "in_len": 89, "in_has_q": true, "out_len": 198, "out_first10": "当然可以。在过去的几", "ctx_tokens_after": 540}
+{"beat": 3, "t_ms": 21251, "in_len": 98, "in_has_q": true, "out_len": 237, "out_first10": "当我看到老师的这段话", "ctx_tokens_after": 737}
+{"beat": 4, "t_ms": 24873, "in_len": 75, "in_has_q": true, "out_len": 163, "out_first10": "作为AI助手，我没有", "ctx_tokens_after": 865}
+{"beat": 5, "t_ms": 27375, "in_len": 103, "in_has_q": true, "out_len": 83, "out_first10": "非常抱歉，我无法立即", "ctx_tokens_after": 984}
+{"beat": 6, "t_ms": 30640, "in_len": 64, "in_has_q": true, "out_len": 118, "out_first10": "作为一名经过训练的人", "ctx_tokens_after": 1097}

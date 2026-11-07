@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 7849, "in_len": 59, "in_has_q": false, "out_len": 128, "out_first10": "我是一个人工智能（A", "ctx_tokens_after": 240}
+{"beat": 1, "t_ms": 11478, "in_len": 88, "in_has_q": false, "out_len": 134, "out_first10": "根据我的说明，我会来", "ctx_tokens_after": 478}
+{"beat": 2, "t_ms": 15958, "in_len": 89, "in_has_q": true, "out_len": 123, "out_first10": "在这个理解中，每次回", "ctx_tokens_after": 724}
+{"beat": 3, "t_ms": 19839, "in_len": 98, "in_has_q": true, "out_len": 134, "out_first10": "在这个理解中，老师提", "ctx_tokens_after": 973}
+{"beat": 4, "t_ms": 23859, "in_len": 75, "in_has_q": true, "out_len": 127, "out_first10": "在这个情境下，我被设", "ctx_tokens_after": 1189}
+{"beat": 5, "t_ms": 29383, "in_len": 103, "in_has_q": true, "out_len": 144, "out_first10": "**回答问题：**\n", "ctx_tokens_after": 1441}
+{"beat": 6, "t_ms": 33478, "in_len": 64, "in_has_q": true, "out_len": 132, "out_first10": "**决定：**\n\n根", "ctx_tokens_after": 1656}

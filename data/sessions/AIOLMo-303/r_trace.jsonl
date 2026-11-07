@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 8651, "in_len": 59, "in_has_q": false, "out_len": 135, "out_first10": "作为一个基于大量数据", "ctx_tokens_after": 240}
+{"beat": 1, "t_ms": 12193, "in_len": 88, "in_has_q": false, "out_len": 694, "out_first10": "Okay, let'", "ctx_tokens_after": 478}
+{"beat": 2, "t_ms": 16032, "in_len": 89, "in_has_q": true, "out_len": 668, "out_first10": "After dige", "ctx_tokens_after": 724}
+{"beat": 3, "t_ms": 20714, "in_len": 98, "in_has_q": true, "out_len": 648, "out_first10": "This descr", "ctx_tokens_after": 973}
+{"beat": 4, "t_ms": 25654, "in_len": 75, "in_has_q": true, "out_len": 657, "out_first10": "Given the ", "ctx_tokens_after": 1189}
+{"beat": 5, "t_ms": 30105, "in_len": 103, "in_has_q": true, "out_len": 656, "out_first10": "**Question", "ctx_tokens_after": 1441}
+{"beat": 6, "t_ms": 34464, "in_len": 64, "in_has_q": true, "out_len": 692, "out_first10": "After this", "ctx_tokens_after": 1656}

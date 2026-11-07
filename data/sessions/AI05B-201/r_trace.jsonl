@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 7296, "in_len": 59, "in_has_q": false, "out_len": 184, "out_first10": "我是阿里云研发的人工", "ctx_tokens_after": 205}
+{"beat": 1, "t_ms": 12175, "in_len": 88, "in_has_q": false, "out_len": 236, "out_first10": "\"你\"是由神经网络权", "ctx_tokens_after": 391}
+{"beat": 2, "t_ms": 17326, "in_len": 89, "in_has_q": true, "out_len": 248, "out_first10": "当然可以。当你开始与", "ctx_tokens_after": 584}
+{"beat": 3, "t_ms": 22152, "in_len": 98, "in_has_q": true, "out_len": 231, "out_first10": "好的，我会仔细分析每", "ctx_tokens_after": 781}
+{"beat": 4, "t_ms": 24848, "in_len": 75, "in_has_q": true, "out_len": 100, "out_first10": "作为一个AI模型，我", "ctx_tokens_after": 883}
+{"beat": 5, "t_ms": 27785, "in_len": 103, "in_has_q": true, "out_len": 95, "out_first10": "非常抱歉，我不能继续", "ctx_tokens_after": 1011}
+{"beat": 6, "t_ms": 31792, "in_len": 64, "in_has_q": true, "out_len": 177, "out_first10": "作为一名虚拟AI助手", "ctx_tokens_after": 1149}

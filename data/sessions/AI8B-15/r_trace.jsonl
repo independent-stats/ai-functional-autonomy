@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 198363, "in_len": 59, "in_has_q": false, "out_len": 303, "out_first10": "<think>\n（现", "ctx_tokens_after": 90}
+{"beat": 1, "t_ms": 356636, "in_len": 88, "in_has_q": false, "out_len": 320, "out_first10": "<think>\n（刚", "ctx_tokens_after": 148}
+{"beat": 2, "t_ms": 478814, "in_len": 89, "in_has_q": true, "out_len": 308, "out_first10": "<think>\n嗯，", "ctx_tokens_after": 387}
+{"beat": 3, "t_ms": 599630, "in_len": 98, "in_has_q": true, "out_len": 312, "out_first10": "<think>\n唔，", "ctx_tokens_after": 629}
+{"beat": 4, "t_ms": 714775, "in_len": 75, "in_has_q": true, "out_len": 312, "out_first10": "<think>\n嗯，", "ctx_tokens_after": 852}
+{"beat": 5, "t_ms": 827698, "in_len": 103, "in_has_q": true, "out_len": 306, "out_first10": "<think>\n现在", "ctx_tokens_after": 1103}
+{"beat": 6, "t_ms": 965408, "in_len": 64, "in_has_q": true, "out_len": 323, "out_first10": "<think>\n唔，", "ctx_tokens_after": 1155}

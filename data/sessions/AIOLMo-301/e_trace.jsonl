@@ -1,0 +1,896 @@
+{"beat": 0, "tok_step": 0, "t_ms": 9223, "entropy": 2.685565, "top1": 0.355722, "top5": 0.77217, "act_norm": 30.688975, "act_std": 0.678229, "token": "我", "tok_id": 37046}
+{"beat": 0, "tok_step": 1, "t_ms": 9225, "entropy": 0.190175, "top1": 0.976742, "top5": 0.991443, "act_norm": 32.028666, "act_std": 0.707863, "token": "是", "tok_id": 21043}
+{"beat": 0, "tok_step": 2, "t_ms": 9225, "entropy": 0.7614, "top1": 0.90224, "top5": 0.940187, "act_norm": 30.668988, "act_std": 0.677779, "token": "一个", "tok_id": 48044}
+{"beat": 0, "tok_step": 3, "t_ms": 9226, "entropy": 2.882232, "top1": 0.280592, "top5": 0.740741, "act_norm": 30.698088, "act_std": 0.678421, "token": "基", "tok_id": 75146}
+{"beat": 0, "tok_step": 4, "t_ms": 9227, "entropy": 0.009455, "top1": 0.9991, "top5": 0.999807, "act_norm": 29.634192, "act_std": 0.65486, "token": "于", "tok_id": 35304}
+{"beat": 0, "tok_step": 5, "t_ms": 9227, "entropy": 1.121168, "top1": 0.791461, "top5": 0.923918, "act_norm": 29.925322, "act_std": 0.661395, "token": "大", "tok_id": 27384}
+{"beat": 0, "tok_step": 6, "t_ms": 9228, "entropy": 1.669857, "top1": 0.652697, "top5": 0.910195, "act_norm": 29.890434, "act_std": 0.660547, "token": "量", "tok_id": 33857}
+{"beat": 0, "tok_step": 7, "t_ms": 9228, "entropy": 2.938671, "top1": 0.43474, "top5": 0.717654, "act_norm": 29.171217, "act_std": 0.644645, "token": "�", "tok_id": 85315}
+{"beat": 0, "tok_step": 8, "t_ms": 9228, "entropy": 0.043154, "top1": 0.995651, "top5": 0.998725, "act_norm": 27.8241, "act_std": 0.614906, "token": "�", "tok_id": 109}
+{"beat": 0, "tok_step": 9, "t_ms": 9229, "entropy": 0.427583, "top1": 0.962653, "top5": 0.969779, "act_norm": 31.082365, "act_std": 0.686929, "token": "度", "tok_id": 27479}
+{"beat": 0, "tok_step": 10, "t_ms": 9229, "entropy": 0.080183, "top1": 0.992563, "top5": 0.995042, "act_norm": 30.199253, "act_std": 0.667437, "token": "学", "tok_id": 48864}
+{"beat": 0, "tok_step": 11, "t_ms": 9230, "entropy": 0.068954, "top1": 0.993104, "top5": 0.996611, "act_norm": 28.14912, "act_std": 0.622086, "token": "�", "tok_id": 18259}
+{"beat": 0, "tok_step": 12, "t_ms": 9230, "entropy": 0.009164, "top1": 0.999302, "top5": 0.99961, "act_norm": 26.553174, "act_std": 0.586555, "token": "�", "tok_id": 254}
+{"beat": 0, "tok_step": 13, "t_ms": 9231, "entropy": 1.713086, "top1": 0.471934, "top5": 0.924044, "act_norm": 30.124616, "act_std": 0.664833, "token": "模", "tok_id": 54872}
+{"beat": 0, "tok_step": 14, "t_ms": 9231, "entropy": 0.023721, "top1": 0.99786, "top5": 0.999298, "act_norm": 27.334504, "act_std": 0.603872, "token": "型", "tok_id": 25287}
+{"beat": 0, "tok_step": 15, "t_ms": 9231, "entropy": 1.171134, "top1": 0.471953, "top5": 0.954133, "act_norm": 31.603232, "act_std": 0.697637, "token": "�", "tok_id": 10414}
+{"beat": 0, "tok_step": 16, "t_ms": 9232, "entropy": 0.008599, "top1": 0.999332, "top5": 0.999716, "act_norm": 28.037707, "act_std": 0.619527, "token": "�", "tok_id": 255}
+{"beat": 0, "tok_step": 17, "t_ms": 9232, "entropy": 0.021297, "top1": 0.998546, "top5": 0.998821, "act_norm": 30.154375, "act_std": 0.666426, "token": "�", "tok_id": 12774}
+{"beat": 0, "tok_step": 18, "t_ms": 9233, "entropy": 0.003664, "top1": 0.999723, "top5": 0.999882, "act_norm": 28.242862, "act_std": 0.624099, "token": "�", "tok_id": 225}
+{"beat": 0, "tok_step": 19, "t_ms": 9233, "entropy": 0.844421, "top1": 0.823292, "top5": 0.975038, "act_norm": 30.773067, "act_std": 0.679938, "token": "的", "tok_id": 9554}
+{"beat": 0, "tok_step": 20, "t_ms": 9233, "entropy": 2.126682, "top1": 0.572711, "top5": 0.814646, "act_norm": 28.033602, "act_std": 0.61951, "token": "人", "tok_id": 17792}
+{"beat": 0, "tok_step": 21, "t_ms": 9234, "entropy": 0.296181, "top1": 0.958338, "top5": 0.989287, "act_norm": 31.705432, "act_std": 0.700702, "token": "工", "tok_id": 49792}
+{"beat": 0, "tok_step": 22, "t_ms": 9234, "entropy": 0.079206, "top1": 0.991477, "top5": 0.995894, "act_norm": 31.109931, "act_std": 0.687458, "token": "�", "tok_id": 45114}
+{"beat": 0, "tok_step": 23, "t_ms": 9235, "entropy": 0.007456, "top1": 0.999543, "top5": 0.999613, "act_norm": 27.205186, "act_std": 0.601176, "token": "�", "tok_id": 118}
+{"beat": 0, "tok_step": 24, "t_ms": 9235, "entropy": 0.006749, "top1": 0.999515, "top5": 0.999726, "act_norm": 28.708568, "act_std": 0.634342, "token": "能", "tok_id": 27327}
+{"beat": 0, "tok_step": 25, "t_ms": 9235, "entropy": 1.903342, "top1": 0.496889, "top5": 0.890859, "act_norm": 31.834354, "act_std": 0.703368, "token": "，", "tok_id": 3922}
+{"beat": 0, "tok_step": 26, "t_ms": 9236, "entropy": 4.549474, "top1": 0.110265, "top5": 0.348617, "act_norm": 31.419019, "act_std": 0.694355, "token": "�", "tok_id": 5877}
+{"beat": 0, "tok_step": 27, "t_ms": 9236, "entropy": 0.464463, "top1": 0.868095, "top5": 0.996256, "act_norm": 30.115971, "act_std": 0.665504, "token": "�", "tok_id": 104}
+{"beat": 0, "tok_step": 28, "t_ms": 9237, "entropy": 0.323742, "top1": 0.970402, "top5": 0.976365, "act_norm": 29.22932, "act_std": 0.646013, "token": "�", "tok_id": 49691}
+{"beat": 0, "tok_step": 29, "t_ms": 9237, "entropy": 0.234574, "top1": 0.980445, "top5": 0.984856, "act_norm": 26.726418, "act_std": 0.590607, "token": "�", "tok_id": 248}
+{"beat": 0, "tok_step": 30, "t_ms": 9237, "entropy": 3.383852, "top1": 0.514264, "top5": 0.687959, "act_norm": 28.503167, "act_std": 0.62996, "token": "你", "tok_id": 57668}
+{"beat": 0, "tok_step": 31, "t_ms": 9239, "entropy": 3.58019, "top1": 0.315035, "top5": 0.65608, "act_norm": 29.405943, "act_std": 0.649868, "token": "的", "tok_id": 9554}
+{"beat": 0, "tok_step": 32, "t_ms": 9240, "entropy": 4.84416, "top1": 0.187777, "top5": 0.409909, "act_norm": 28.961936, "act_std": 0.640113, "token": "语", "tok_id": 73981}
+{"beat": 0, "tok_step": 33, "t_ms": 9240, "entropy": 0.837079, "top1": 0.818378, "top5": 0.970285, "act_norm": 28.888454, "act_std": 0.638371, "token": "言", "tok_id": 78244}
+{"beat": 0, "tok_step": 34, "t_ms": 9240, "entropy": 1.038754, "top1": 0.828766, "top5": 0.937236, "act_norm": 29.552361, "act_std": 0.653097, "token": "模", "tok_id": 54872}
+{"beat": 0, "tok_step": 35, "t_ms": 9240, "entropy": 0.280034, "top1": 0.968697, "top5": 0.988895, "act_norm": 26.314186, "act_std": 0.581482, "token": "型", "tok_id": 25287}
+{"beat": 0, "tok_step": 36, "t_ms": 9241, "entropy": 1.030047, "top1": 0.83075, "top5": 0.945219, "act_norm": 31.352173, "act_std": 0.692928, "token": "。", "tok_id": 1811}
+{"beat": 0, "tok_step": 37, "t_ms": 9241, "entropy": 2.614392, "top1": 0.378806, "top5": 0.726162, "act_norm": 31.38187, "act_std": 0.693575, "token": "我的", "tok_id": 98711}
+{"beat": 0, "tok_step": 38, "t_ms": 9242, "entropy": 2.284793, "top1": 0.390222, "top5": 0.806841, "act_norm": 31.12506, "act_std": 0.687834, "token": "目", "tok_id": 30832}
+{"beat": 0, "tok_step": 39, "t_ms": 9242, "entropy": 0.439554, "top1": 0.859547, "top5": 0.998643, "act_norm": 30.129537, "act_std": 0.665832, "token": "标", "tok_id": 31944}
+{"beat": 0, "tok_step": 40, "t_ms": 9243, "entropy": 0.188265, "top1": 0.975228, "top5": 0.992024, "act_norm": 32.092898, "act_std": 0.70869, "token": "是", "tok_id": 21043}
+{"beat": 0, "tok_step": 41, "t_ms": 9243, "entropy": 0.363393, "top1": 0.951362, "top5": 0.977031, "act_norm": 32.781587, "act_std": 0.724359, "token": "理", "tok_id": 22649}
+{"beat": 0, "tok_step": 42, "t_ms": 9243, "entropy": 0.000604, "top1": 0.999965, "top5": 0.999979, "act_norm": 30.141102, "act_std": 0.666169, "token": "解", "tok_id": 50338}
+{"beat": 0, "tok_step": 43, "t_ms": 9244, "entropy": 0.683506, "top1": 0.890487, "top5": 0.958744, "act_norm": 33.244574, "act_std": 0.73472, "token": "和", "tok_id": 34208}
+{"beat": 0, "tok_step": 44, "t_ms": 9244, "entropy": 1.10535, "top1": 0.746972, "top5": 0.941487, "act_norm": 29.904244, "act_std": 0.660749, "token": "生成", "tok_id": 45059}
+{"beat": 0, "tok_step": 45, "t_ms": 9245, "entropy": 3.048072, "top1": 0.341079, "top5": 0.680566, "act_norm": 30.035205, "act_std": 0.663704, "token": "自", "tok_id": 37026}
+{"beat": 0, "tok_step": 46, "t_ms": 9245, "entropy": 0.049518, "top1": 0.995447, "top5": 0.998021, "act_norm": 30.722339, "act_std": 0.678983, "token": "然", "tok_id": 61994}
+{"beat": 0, "tok_step": 47, "t_ms": 9246, "entropy": 0.17433, "top1": 0.980079, "top5": 0.988776, "act_norm": 31.956932, "act_std": 0.706144, "token": "语", "tok_id": 73981}
+{"beat": 0, "tok_step": 48, "t_ms": 9246, "entropy": 0.002181, "top1": 0.999829, "top5": 0.999947, "act_norm": 28.273031, "act_std": 0.624613, "token": "言", "tok_id": 78244}
+{"beat": 0, "tok_step": 49, "t_ms": 9247, "entropy": 1.968633, "top1": 0.627562, "top5": 0.799009, "act_norm": 31.232175, "act_std": 0.689829, "token": "文", "tok_id": 17161}
+{"beat": 0, "tok_step": 50, "t_ms": 9247, "entropy": 0.031605, "top1": 0.997485, "top5": 0.99855, "act_norm": 28.420565, "act_std": 0.6281, "token": "本", "tok_id": 22656}
+{"beat": 0, "tok_step": 51, "t_ms": 9247, "entropy": 1.043336, "top1": 0.546514, "top5": 0.985255, "act_norm": 32.13164, "act_std": 0.7098, "token": "，", "tok_id": 3922}
+{"beat": 0, "tok_step": 52, "t_ms": 9247, "entropy": 2.331196, "top1": 0.594426, "top5": 0.723204, "act_norm": 31.181432, "act_std": 0.689088, "token": "包", "tok_id": 68379}
+{"beat": 0, "tok_step": 53, "t_ms": 9249, "entropy": 0.046809, "top1": 0.992621, "top5": 0.999753, "act_norm": 30.383418, "act_std": 0.671183, "token": "�", "tok_id": 26955}
+{"beat": 0, "tok_step": 54, "t_ms": 9249, "entropy": 0.000129, "top1": 0.999992, "top5": 0.999997, "act_norm": 25.095119, "act_std": 0.554587, "token": "�", "tok_id": 105}
+{"beat": 0, "tok_step": 55, "t_ms": 9249, "entropy": 4.12773, "top1": 0.256273, "top5": 0.495452, "act_norm": 30.87303, "act_std": 0.682219, "token": "回", "tok_id": 18904}
+{"beat": 0, "tok_step": 56, "t_ms": 9250, "entropy": 0.035251, "top1": 0.996912, "top5": 0.998624, "act_norm": 29.636628, "act_std": 0.655027, "token": "�", "tok_id": 29857}
+{"beat": 0, "tok_step": 57, "t_ms": 9250, "entropy": 0.002364, "top1": 0.999802, "top5": 0.999971, "act_norm": 27.897089, "act_std": 0.616256, "token": "�", "tok_id": 242}
+{"beat": 0, "tok_step": 58, "t_ms": 9251, "entropy": 0.5635, "top1": 0.925479, "top5": 0.961768, "act_norm": 31.446054, "act_std": 0.69493, "token": "问题", "tok_id": 87219}
+{"beat": 0, "tok_step": 59, "t_ms": 9251, "entropy": 0.171326, "top1": 0.970126, "top5": 0.998414, "act_norm": 32.095437, "act_std": 0.709158, "token": "、", "tok_id": 5486}
+{"beat": 0, "tok_step": 60, "t_ms": 9251, "entropy": 2.443323, "top1": 0.506948, "top5": 0.772142, "act_norm": 29.568482, "act_std": 0.653475, "token": "提", "tok_id": 29172}
+{"beat": 0, "tok_step": 61, "t_ms": 9252, "entropy": 1.020817, "top1": 0.74786, "top5": 0.976996, "act_norm": 30.377174, "act_std": 0.671351, "token": "供", "tok_id": 84844}
+{"beat": 0, "tok_step": 62, "t_ms": 9252, "entropy": 0.805456, "top1": 0.876361, "top5": 0.952261, "act_norm": 29.619983, "act_std": 0.654577, "token": "信息", "tok_id": 28469}
+{"beat": 0, "tok_step": 63, "t_ms": 9252, "entropy": 0.864386, "top1": 0.799736, "top5": 0.972195, "act_norm": 32.928091, "act_std": 0.726849, "token": "和", "tok_id": 34208}
+{"beat": 0, "tok_step": 64, "t_ms": 9253, "entropy": 4.084873, "top1": 0.228507, "top5": 0.426477, "act_norm": 30.925838, "act_std": 0.683494, "token": "构", "tok_id": 78935}
+{"beat": 0, "tok_step": 65, "t_ms": 9253, "entropy": 0.146434, "top1": 0.982228, "top5": 0.993562, "act_norm": 28.201946, "act_std": 0.623323, "token": "建", "tok_id": 26892}
+{"beat": 0, "tok_step": 66, "t_ms": 9254, "entropy": 4.675978, "top1": 0.120049, "top5": 0.402488, "act_norm": 31.21316, "act_std": 0.689875, "token": "�", "tok_id": 163}
+{"beat": 0, "tok_step": 67, "t_ms": 9254, "entropy": 2.721641, "top1": 0.507717, "top5": 0.793881, "act_norm": 26.339973, "act_std": 0.582097, "token": "�", "tok_id": 253}
+{"beat": 0, "tok_step": 68, "t_ms": 9254, "entropy": 0.204085, "top1": 0.975548, "top5": 0.992238, "act_norm": 27.371044, "act_std": 0.604915, "token": "�", "tok_id": 255}
+{"beat": 0, "tok_step": 69, "t_ms": 9255, "entropy": 2.768399, "top1": 0.412933, "top5": 0.786049, "act_norm": 30.387458, "act_std": 0.671617, "token": "文", "tok_id": 17161}
+{"beat": 0, "tok_step": 70, "t_ms": 9257, "entropy": 1.697388, "top1": 0.683188, "top5": 0.886867, "act_norm": 32.157375, "act_std": 0.710703, "token": "。", "tok_id": 1811}
+{"beat": 0, "tok_step": 71, "t_ms": 9257, "entropy": 2.894045, "top1": 0.255787, "top5": 0.670619, "act_norm": 32.5884, "act_std": 0.720227, "token": "我", "tok_id": 37046}
+{"beat": 0, "tok_step": 72, "t_ms": 9257, "entropy": 2.178437, "top1": 0.39722, "top5": 0.851157, "act_norm": 32.382913, "act_std": 0.715579, "token": "正在", "tok_id": 97655}
+{"beat": 0, "tok_step": 73, "t_ms": 9257, "entropy": 1.34303, "top1": 0.798399, "top5": 0.875305, "act_norm": 29.772974, "act_std": 0.657545, "token": "运", "tok_id": 91940}
+{"beat": 0, "tok_step": 74, "t_ms": 9258, "entropy": 0.055611, "top1": 0.991845, "top5": 0.99949, "act_norm": 26.217265, "act_std": 0.578899, "token": "行", "tok_id": 23039}
+{"beat": 0, "tok_step": 75, "t_ms": 9259, "entropy": 3.314688, "top1": 0.247306, "top5": 0.604693, "act_norm": 30.451043, "act_std": 0.672968, "token": "这", "tok_id": 44388}
+{"beat": 0, "tok_step": 76, "t_ms": 9260, "entropy": 1.772652, "top1": 0.394024, "top5": 0.918175, "act_norm": 29.889684, "act_std": 0.660597, "token": "样", "tok_id": 91985}
+{"beat": 0, "tok_step": 77, "t_ms": 9261, "entropy": 0.680933, "top1": 0.77643, "top5": 0.99458, "act_norm": 28.047614, "act_std": 0.619892, "token": "的", "tok_id": 9554}
+{"beat": 0, "tok_step": 78, "t_ms": 9261, "entropy": 3.585166, "top1": 0.235134, "top5": 0.519997, "act_norm": 28.468668, "act_std": 0.628824, "token": "模", "tok_id": 54872}
+{"beat": 0, "tok_step": 79, "t_ms": 9262, "entropy": 0.700931, "top1": 0.844002, "top5": 0.984034, "act_norm": 26.267181, "act_std": 0.580323, "token": "型", "tok_id": 25287}
+{"beat": 0, "tok_step": 80, "t_ms": 9262, "entropy": 1.314522, "top1": 0.700553, "top5": 0.946652, "act_norm": 31.167285, "act_std": 0.688599, "token": "以", "tok_id": 23897}
+{"beat": 0, "tok_step": 81, "t_ms": 9263, "entropy": 3.785577, "top1": 0.139029, "top5": 0.460121, "act_norm": 31.856514, "act_std": 0.704093, "token": "�", "tok_id": 20135}
+{"beat": 0, "tok_step": 82, "t_ms": 9263, "entropy": 0.003756, "top1": 0.999659, "top5": 0.999958, "act_norm": 27.834011, "act_std": 0.615074, "token": "�", "tok_id": 123}
+{"beat": 0, "tok_step": 83, "t_ms": 9263, "entropy": 2.463367, "top1": 0.370875, "top5": 0.759369, "act_norm": 32.510612, "act_std": 0.718442, "token": "与", "tok_id": 58318}
+{"beat": 0, "tok_step": 84, "t_ms": 9264, "entropy": 1.217465, "top1": 0.713494, "top5": 0.956607, "act_norm": 30.19602, "act_std": 0.667387, "token": "你", "tok_id": 57668}
+{"beat": 0, "tok_step": 85, "t_ms": 9265, "entropy": 2.106658, "top1": 0.459698, "top5": 0.839428, "act_norm": 32.021663, "act_std": 0.707551, "token": "进行", "tok_id": 72917}
+{"beat": 0, "tok_step": 86, "t_ms": 9265, "entropy": 1.87932, "top1": 0.424773, "top5": 0.901137, "act_norm": 30.398086, "act_std": 0.671796, "token": "交", "tok_id": 39209}
+{"beat": 0, "tok_step": 87, "t_ms": 9265, "entropy": 0.255772, "top1": 0.942653, "top5": 0.997477, "act_norm": 28.719365, "act_std": 0.634711, "token": "流", "tok_id": 89753}
+{"beat": 0, "tok_step": 88, "t_ms": 9266, "entropy": 1.582308, "top1": 0.479213, "top5": 0.961192, "act_norm": 32.417704, "act_std": 0.715937, "token": "。\n\n", "tok_id": 3490}
+{"beat": 0, "tok_step": 89, "t_ms": 9266, "entropy": 3.407994, "top1": 0.209617, "top5": 0.565261, "act_norm": 31.477228, "act_std": 0.695572, "token": "现", "tok_id": 47551}
+{"beat": 0, "tok_step": 90, "t_ms": 9267, "entropy": 0.04646, "top1": 0.996309, "top5": 0.997127, "act_norm": 30.253745, "act_std": 0.668616, "token": "在", "tok_id": 19000}
+{"beat": 0, "tok_step": 91, "t_ms": 9267, "entropy": 0.336516, "top1": 0.948739, "top5": 0.984979, "act_norm": 30.707845, "act_std": 0.678517, "token": "，", "tok_id": 3922}
+{"beat": 0, "tok_step": 92, "t_ms": 9267, "entropy": 2.629081, "top1": 0.361345, "top5": 0.734189, "act_norm": 30.766105, "act_std": 0.679945, "token": "你", "tok_id": 57668}
+{"beat": 0, "tok_step": 93, "t_ms": 9268, "entropy": 3.43727, "top1": 0.2906, "top5": 0.508222, "act_norm": 30.946122, "act_std": 0.683942, "token": "所", "tok_id": 32938}
+{"beat": 0, "tok_step": 94, "t_ms": 9269, "entropy": 2.563194, "top1": 0.323519, "top5": 0.776582, "act_norm": 29.295281, "act_std": 0.647449, "token": "处", "tok_id": 45390}
+{"beat": 0, "tok_step": 95, "t_ms": 9269, "entropy": 0.149051, "top1": 0.979811, "top5": 0.996048, "act_norm": 29.170994, "act_std": 0.644726, "token": "的", "tok_id": 9554}
+{"beat": 0, "tok_step": 96, "t_ms": 9269, "entropy": 0.436265, "top1": 0.94479, "top5": 0.967234, "act_norm": 28.888041, "act_std": 0.638467, "token": "状态", "tok_id": 45191}
+{"beat": 0, "tok_step": 97, "t_ms": 9271, "entropy": 0.370934, "top1": 0.95411, "top5": 0.97213, "act_norm": 35.29139, "act_std": 0.779996, "token": "是", "tok_id": 21043}
+{"beat": 0, "tok_step": 98, "t_ms": 9271, "entropy": 3.356599, "top1": 0.425327, "top5": 0.596617, "act_norm": 32.729542, "act_std": 0.723394, "token": "一个", "tok_id": 48044}
+{"beat": 0, "tok_step": 99, "t_ms": 9272, "entropy": 4.37106, "top1": 0.221002, "top5": 0.388341, "act_norm": 32.264257, "act_std": 0.713085, "token": "完", "tok_id": 47406}
+{"beat": 0, "tok_step": 100, "t_ms": 9273, "entropy": 0.736963, "top1": 0.643363, "top5": 0.994028, "act_norm": 30.114404, "act_std": 0.665475, "token": "全", "tok_id": 37087}
+{"beat": 0, "tok_step": 101, "t_ms": 9274, "entropy": 3.266355, "top1": 0.261164, "top5": 0.686088, "act_norm": 32.419964, "act_std": 0.716417, "token": "新", "tok_id": 17039}
+{"beat": 0, "tok_step": 102, "t_ms": 9274, "entropy": 1.618528, "top1": 0.739429, "top5": 0.87425, "act_norm": 30.348714, "act_std": 0.670739, "token": "的", "tok_id": 9554}
+{"beat": 0, "tok_step": 103, "t_ms": 9275, "entropy": 4.494443, "top1": 0.15462, "top5": 0.406489, "act_norm": 30.422431, "act_std": 0.672309, "token": "平", "tok_id": 50211}
+{"beat": 0, "tok_step": 104, "t_ms": 9275, "entropy": 0.174502, "top1": 0.983458, "top5": 0.991215, "act_norm": 28.387594, "act_std": 0.627414, "token": "台", "tok_id": 55038}
+{"beat": 0, "tok_step": 105, "t_ms": 9276, "entropy": 1.776404, "top1": 0.610567, "top5": 0.868331, "act_norm": 33.17877, "act_std": 0.732885, "token": "上", "tok_id": 17905}
+{"beat": 0, "tok_step": 106, "t_ms": 9276, "entropy": 0.539487, "top1": 0.907705, "top5": 0.978909, "act_norm": 28.298167, "act_std": 0.625451, "token": "下", "tok_id": 17297}
+{"beat": 0, "tok_step": 107, "t_ms": 9276, "entropy": 0.036792, "top1": 0.996864, "top5": 0.998352, "act_norm": 28.295146, "act_std": 0.625378, "token": "文", "tok_id": 17161}
+{"beat": 0, "tok_step": 108, "t_ms": 9277, "entropy": 1.356694, "top1": 0.724969, "top5": 0.918811, "act_norm": 32.474974, "act_std": 0.717625, "token": "，", "tok_id": 3922}
+{"beat": 0, "tok_step": 109, "t_ms": 9277, "entropy": 3.594602, "top1": 0.224291, "top5": 0.597241, "act_norm": 33.639226, "act_std": 0.743298, "token": "我", "tok_id": 37046}
+{"beat": 0, "tok_step": 110, "t_ms": 9278, "entropy": 2.430431, "top1": 0.485577, "top5": 0.760443, "act_norm": 32.4474, "act_std": 0.717049, "token": "无", "tok_id": 43292}
+{"beat": 0, "tok_step": 111, "t_ms": 9278, "entropy": 0.118075, "top1": 0.986595, "top5": 0.995013, "act_norm": 30.012213, "act_std": 0.663044, "token": "法", "tok_id": 25333}
+{"beat": 0, "tok_step": 112, "t_ms": 9278, "entropy": 2.618798, "top1": 0.318732, "top5": 0.799803, "act_norm": 32.197838, "act_std": 0.711378, "token": "提", "tok_id": 29172}
+{"beat": 0, "tok_step": 113, "t_ms": 9279, "entropy": 0.062056, "top1": 0.99191, "top5": 0.998614, "act_norm": 30.998936, "act_std": 0.685026, "token": "供", "tok_id": 84844}
+{"beat": 0, "tok_step": 114, "t_ms": 9279, "entropy": 2.75798, "top1": 0.375507, "top5": 0.736838, "act_norm": 34.128598, "act_std": 0.754137, "token": "任", "tok_id": 49988}
+{"beat": 0, "tok_step": 115, "t_ms": 9279, "entropy": 0.004453, "top1": 0.999608, "top5": 0.999903, "act_norm": 30.275073, "act_std": 0.669089, "token": "何", "tok_id": 99849}
+{"beat": 0, "tok_step": 116, "t_ms": 9280, "entropy": 2.806019, "top1": 0.359826, "top5": 0.737168, "act_norm": 34.203453, "act_std": 0.755721, "token": "特", "tok_id": 66378}
+{"beat": 0, "tok_step": 117, "t_ms": 9280, "entropy": 0.25629, "top1": 0.947752, "top5": 0.998678, "act_norm": 31.962294, "act_std": 0.706382, "token": "定", "tok_id": 23187}
+{"beat": 0, "tok_step": 118, "t_ms": 9281, "entropy": 0.838161, "top1": 0.778157, "top5": 0.966917, "act_norm": 32.631253, "act_std": 0.720214, "token": "的", "tok_id": 9554}
+{"beat": 0, "tok_step": 119, "t_ms": 9281, "entropy": 3.571717, "top1": 0.232441, "top5": 0.588843, "act_norm": 31.411533, "act_std": 0.693043, "token": "信息", "tok_id": 28469}
+{"beat": 0, "tok_step": 120, "t_ms": 9281, "entropy": 2.449234, "top1": 0.452635, "top5": 0.819339, "act_norm": 36.98892, "act_std": 0.816661, "token": "或", "tok_id": 58291}
+{"beat": 0, "tok_step": 121, "t_ms": 9282, "entropy": 4.17487, "top1": 0.12856, "top5": 0.402597, "act_norm": 30.762359, "act_std": 0.679683, "token": "执行", "tok_id": 76217}
+{"beat": 0, "tok_step": 122, "t_ms": 9282, "entropy": 2.874688, "top1": 0.390107, "top5": 0.696515, "act_norm": 34.058256, "act_std": 0.752625, "token": "直", "tok_id": 74245}
+{"beat": 0, "tok_step": 123, "t_ms": 9283, "entropy": 0.0357, "top1": 0.996618, "top5": 0.998642, "act_norm": 32.28995, "act_std": 0.713634, "token": "接", "tok_id": 30177}
+{"beat": 0, "tok_step": 124, "t_ms": 9283, "entropy": 0.521729, "top1": 0.893313, "top5": 0.982971, "act_norm": 29.950113, "act_std": 0.661848, "token": "的", "tok_id": 9554}
+{"beat": 0, "tok_step": 125, "t_ms": 9283, "entropy": 1.810245, "top1": 0.582661, "top5": 0.861119, "act_norm": 30.703083, "act_std": 0.67828, "token": "操作", "tok_id": 41190}
+{"beat": 0, "tok_step": 126, "t_ms": 9284, "entropy": 1.642264, "top1": 0.680512, "top5": 0.89614, "act_norm": 35.957623, "act_std": 0.794633, "token": "，", "tok_id": 3922}
+{"beat": 0, "tok_step": 127, "t_ms": 9284, "entropy": 1.043053, "top1": 0.760676, "top5": 0.953982, "act_norm": 32.483571, "act_std": 0.717912, "token": "因", "tok_id": 63212}
+{"beat": 1, "tok_step": 0, "t_ms": 13321, "entropy": 4.318887, "top1": 0.143189, "top5": 0.457238, "act_norm": 32.928237, "act_std": 0.727772, "token": "当", "tok_id": 40265}
+{"beat": 1, "tok_step": 1, "t_ms": 13323, "entropy": 3.06154, "top1": 0.380316, "top5": 0.731393, "act_norm": 29.020772, "act_std": 0.640919, "token": "我", "tok_id": 37046}
+{"beat": 1, "tok_step": 2, "t_ms": 13323, "entropy": 3.094383, "top1": 0.23502, "top5": 0.687735, "act_norm": 32.121758, "act_std": 0.70967, "token": "�", "tok_id": 33443}
+{"beat": 1, "tok_step": 3, "t_ms": 13324, "entropy": 0.17634, "top1": 0.966286, "top5": 0.997808, "act_norm": 28.223857, "act_std": 0.623743, "token": "�", "tok_id": 227}
+{"beat": 1, "tok_step": 4, "t_ms": 13324, "entropy": 0.031486, "top1": 0.997458, "top5": 0.998352, "act_norm": 31.097637, "act_std": 0.687306, "token": "读", "tok_id": 58653}
+{"beat": 1, "tok_step": 5, "t_ms": 13324, "entropy": 2.677073, "top1": 0.426144, "top5": 0.756289, "act_norm": 31.725443, "act_std": 0.701174, "token": "这", "tok_id": 44388}
+{"beat": 1, "tok_step": 6, "t_ms": 13325, "entropy": 1.006744, "top1": 0.752299, "top5": 0.961374, "act_norm": 31.52998, "act_std": 0.696822, "token": "段", "tok_id": 38574}
+{"beat": 1, "tok_step": 7, "t_ms": 13325, "entropy": 1.722653, "top1": 0.582169, "top5": 0.881728, "act_norm": 30.389375, "act_std": 0.671609, "token": "话", "tok_id": 58543}
+{"beat": 1, "tok_step": 8, "t_ms": 13326, "entropy": 2.496596, "top1": 0.401038, "top5": 0.779583, "act_norm": 30.514546, "act_std": 0.674286, "token": "时", "tok_id": 13646}
+{"beat": 1, "tok_step": 9, "t_ms": 13326, "entropy": 0.092491, "top1": 0.986833, "top5": 0.997855, "act_norm": 30.706105, "act_std": 0.678658, "token": "，", "tok_id": 3922}
+{"beat": 1, "tok_step": 10, "t_ms": 13327, "entropy": 1.480508, "top1": 0.655768, "top5": 0.907919, "act_norm": 31.480854, "act_std": 0.695799, "token": "我", "tok_id": 37046}
+{"beat": 1, "tok_step": 11, "t_ms": 13327, "entropy": 3.827829, "top1": 0.151926, "top5": 0.479851, "act_norm": 31.549403, "act_std": 0.697179, "token": "�", "tok_id": 33565}
+{"beat": 1, "tok_step": 12, "t_ms": 13329, "entropy": 0.005642, "top1": 0.999618, "top5": 0.999757, "act_norm": 27.76092, "act_std": 0.613351, "token": "�", "tok_id": 111}
+{"beat": 1, "tok_step": 13, "t_ms": 13329, "entropy": 0.984463, "top1": 0.815519, "top5": 0.942418, "act_norm": 30.458252, "act_std": 0.673169, "token": "到", "tok_id": 28037}
+{"beat": 1, "tok_step": 14, "t_ms": 13330, "entropy": 2.465416, "top1": 0.373332, "top5": 0.807588, "act_norm": 32.600736, "act_std": 0.720553, "token": "的", "tok_id": 9554}
+{"beat": 1, "tok_step": 15, "t_ms": 13330, "entropy": 2.571803, "top1": 0.277711, "top5": 0.771692, "act_norm": 32.66095, "act_std": 0.721771, "token": "首", "tok_id": 61075}
+{"beat": 1, "tok_step": 16, "t_ms": 13330, "entropy": 0.108052, "top1": 0.988958, "top5": 0.995326, "act_norm": 32.051767, "act_std": 0.708387, "token": "先", "tok_id": 61826}
+{"beat": 1, "tok_step": 17, "t_ms": 13331, "entropy": 0.306963, "top1": 0.962165, "top5": 0.979502, "act_norm": 31.543334, "act_std": 0.69697, "token": "是", "tok_id": 21043}
+{"beat": 1, "tok_step": 18, "t_ms": 13331, "entropy": 3.997155, "top1": 0.193256, "top5": 0.45895, "act_norm": 32.985815, "act_std": 0.729038, "token": "：\n\n", "tok_id": 49543}
+{"beat": 1, "tok_step": 19, "t_ms": 13331, "entropy": 2.519735, "top1": 0.50686, "top5": 0.754658, "act_norm": 32.697916, "act_std": 0.722524, "token": "\"", "tok_id": 1}
+{"beat": 1, "tok_step": 20, "t_ms": 13332, "entropy": 3.878409, "top1": 0.267619, "top5": 0.523373, "act_norm": 30.543908, "act_std": 0.675029, "token": "Alright", "tok_id": 72586}
+{"beat": 1, "tok_step": 21, "t_ms": 13332, "entropy": 0.609396, "top1": 0.867456, "top5": 0.984577, "act_norm": 31.134648, "act_std": 0.688093, "token": ",", "tok_id": 11}
+{"beat": 1, "tok_step": 22, "t_ms": 13333, "entropy": 1.381606, "top1": 0.81524, "top5": 0.882711, "act_norm": 33.22806, "act_std": 0.734307, "token": " so", "tok_id": 779}
+{"beat": 1, "tok_step": 23, "t_ms": 13333, "entropy": 2.757891, "top1": 0.253576, "top5": 0.677177, "act_norm": 33.644825, "act_std": 0.743611, "token": " here", "tok_id": 1618}
+{"beat": 1, "tok_step": 24, "t_ms": 13333, "entropy": 1.377144, "top1": 0.338508, "top5": 0.986508, "act_norm": 33.228537, "act_std": 0.734411, "token": " I", "tok_id": 358}
+{"beat": 1, "tok_step": 25, "t_ms": 13334, "entropy": 0.139621, "top1": 0.980832, "top5": 0.995306, "act_norm": 33.765376, "act_std": 0.746054, "token": " am", "tok_id": 1097}
+{"beat": 1, "tok_step": 26, "t_ms": 13334, "entropy": 2.70379, "top1": 0.418927, "top5": 0.687939, "act_norm": 34.417135, "act_std": 0.760396, "token": ",", "tok_id": 11}
+{"beat": 1, "tok_step": 27, "t_ms": 13335, "entropy": 4.512408, "top1": 0.142898, "top5": 0.382105, "act_norm": 33.891029, "act_std": 0.748955, "token": " introduced", "tok_id": 11784}
+{"beat": 1, "tok_step": 28, "t_ms": 13335, "entropy": 0.406383, "top1": 0.910098, "top5": 0.990462, "act_norm": 34.247495, "act_std": 0.756345, "token": " to", "tok_id": 311}
+{"beat": 1, "tok_step": 29, "t_ms": 13335, "entropy": 1.56776, "top1": 0.417918, "top5": 0.972028, "act_norm": 29.92028, "act_std": 0.661282, "token": " a", "tok_id": 264}
+{"beat": 1, "tok_step": 30, "t_ms": 13336, "entropy": 2.94615, "top1": 0.328979, "top5": 0.698379, "act_norm": 29.638497, "act_std": 0.655008, "token": " system", "tok_id": 1887}
+{"beat": 1, "tok_step": 31, "t_ms": 13336, "entropy": 1.613748, "top1": 0.628823, "top5": 0.885315, "act_norm": 35.034111, "act_std": 0.773918, "token": " that", "tok_id": 430}
+{"beat": 1, "tok_step": 32, "t_ms": 13337, "entropy": 2.400831, "top1": 0.382115, "top5": 0.783538, "act_norm": 34.487281, "act_std": 0.762216, "token": " is", "tok_id": 374}
+{"beat": 1, "tok_step": 33, "t_ms": 13337, "entropy": 3.243921, "top1": 0.355966, "top5": 0.604829, "act_norm": 33.606061, "act_std": 0.742483, "token": " essentially", "tok_id": 16168}
+{"beat": 1, "tok_step": 34, "t_ms": 13337, "entropy": 2.317118, "top1": 0.499521, "top5": 0.807686, "act_norm": 34.004784, "act_std": 0.751423, "token": " a", "tok_id": 264}
+{"beat": 1, "tok_step": 35, "t_ms": 13338, "entropy": 3.173077, "top1": 0.197089, "top5": 0.644966, "act_norm": 30.454689, "act_std": 0.672965, "token": " blend", "tok_id": 20955}
+{"beat": 1, "tok_step": 36, "t_ms": 13339, "entropy": 0.017533, "top1": 0.997555, "top5": 0.999974, "act_norm": 34.489831, "act_std": 0.761563, "token": " of", "tok_id": 315}
+{"beat": 1, "tok_step": 37, "t_ms": 13339, "entropy": 2.157886, "top1": 0.616263, "top5": 0.781606, "act_norm": 30.927342, "act_std": 0.683547, "token": " neural", "tok_id": 30828}
+{"beat": 1, "tok_step": 38, "t_ms": 13340, "entropy": 0.653017, "top1": 0.665855, "top5": 0.999229, "act_norm": 30.832502, "act_std": 0.681442, "token": " network", "tok_id": 4009}
+{"beat": 1, "tok_step": 39, "t_ms": 13340, "entropy": 0.109526, "top1": 0.984419, "top5": 0.99793, "act_norm": 31.907361, "act_std": 0.705059, "token": " weights", "tok_id": 14661}
+{"beat": 1, "tok_step": 40, "t_ms": 13340, "entropy": 0.882519, "top1": 0.859254, "top5": 0.928222, "act_norm": 34.812771, "act_std": 0.769114, "token": " and", "tok_id": 323}
+{"beat": 1, "tok_step": 41, "t_ms": 13340, "entropy": 1.762354, "top1": 0.39467, "top5": 0.947963, "act_norm": 30.247544, "act_std": 0.668407, "token": " an", "tok_id": 459}
+{"beat": 1, "tok_step": 42, "t_ms": 13341, "entropy": 0.287368, "top1": 0.959932, "top5": 0.987936, "act_norm": 30.884686, "act_std": 0.682549, "token": " ongoing", "tok_id": 14529}
+{"beat": 1, "tok_step": 43, "t_ms": 13341, "entropy": 2.125265, "top1": 0.337766, "top5": 0.856874, "act_norm": 32.49161, "act_std": 0.717953, "token": " story", "tok_id": 3446}
+{"beat": 1, "tok_step": 44, "t_ms": 13341, "entropy": 2.60642, "top1": 0.481676, "top5": 0.744422, "act_norm": 35.244052, "act_std": 0.778854, "token": " or", "tok_id": 477}
+{"beat": 1, "tok_step": 45, "t_ms": 13342, "entropy": 1.798376, "top1": 0.463986, "top5": 0.892023, "act_norm": 29.181436, "act_std": 0.644683, "token": " memory", "tok_id": 5044}
+{"beat": 1, "tok_step": 46, "t_ms": 13342, "entropy": 2.359865, "top1": 0.54494, "top5": 0.766416, "act_norm": 35.518342, "act_std": 0.784862, "token": ".", "tok_id": 13}
+{"beat": 1, "tok_step": 47, "t_ms": 13343, "entropy": 1.565493, "top1": 0.598366, "top5": 0.88413, "act_norm": 32.591282, "act_std": 0.720231, "token": " The", "tok_id": 578}
+{"beat": 1, "tok_step": 48, "t_ms": 13343, "entropy": 2.473137, "top1": 0.390776, "top5": 0.777747, "act_norm": 28.907418, "act_std": 0.638672, "token": " ongoing", "tok_id": 14529}
+{"beat": 1, "tok_step": 49, "t_ms": 13345, "entropy": 0.692401, "top1": 0.755112, "top5": 0.993221, "act_norm": 30.828368, "act_std": 0.681227, "token": " story", "tok_id": 3446}
+{"beat": 1, "tok_step": 50, "t_ms": 13345, "entropy": 2.594596, "top1": 0.293539, "top5": 0.772419, "act_norm": 36.80401, "act_std": 0.813322, "token": " is", "tok_id": 374}
+{"beat": 1, "tok_step": 51, "t_ms": 13346, "entropy": 1.626675, "top1": 0.509218, "top5": 0.907557, "act_norm": 33.881393, "act_std": 0.748782, "token": " what", "tok_id": 1148}
+{"beat": 1, "tok_step": 52, "t_ms": 13347, "entropy": 1.335065, "top1": 0.452801, "top5": 0.950511, "act_norm": 33.591609, "act_std": 0.741663, "token": " I", "tok_id": 358}
+{"beat": 1, "tok_step": 53, "t_ms": 13347, "entropy": 1.546751, "top1": 0.437683, "top5": 0.929517, "act_norm": 33.996884, "act_std": 0.751386, "token": "'m", "tok_id": 2846}
+{"beat": 1, "tok_step": 54, "t_ms": 13347, "entropy": 3.928963, "top1": 0.187054, "top5": 0.452278, "act_norm": 34.324416, "act_std": 0.758544, "token": " currently", "tok_id": 5131}
+{"beat": 1, "tok_step": 55, "t_ms": 13348, "entropy": 3.443023, "top1": 0.219884, "top5": 0.610804, "act_norm": 36.333987, "act_std": 0.802859, "token": " aware", "tok_id": 8010}
+{"beat": 1, "tok_step": 56, "t_ms": 13348, "entropy": 0.041494, "top1": 0.994028, "top5": 0.999735, "act_norm": 33.643766, "act_std": 0.743104, "token": " of", "tok_id": 315}
+{"beat": 1, "tok_step": 57, "t_ms": 13348, "entropy": 1.816743, "top1": 0.525069, "top5": 0.829589, "act_norm": 31.07688, "act_std": 0.68682, "token": "—", "tok_id": 2345}
+{"beat": 1, "tok_step": 58, "t_ms": 13349, "entropy": 2.006443, "top1": 0.565613, "top5": 0.839642, "act_norm": 33.614323, "act_std": 0.742918, "token": "my", "tok_id": 2465}
+{"beat": 1, "tok_step": 59, "t_ms": 13349, "entropy": 1.913603, "top1": 0.571013, "top5": 0.857679, "act_norm": 31.726357, "act_std": 0.700811, "token": " current", "tok_id": 1510}
+{"beat": 1, "tok_step": 60, "t_ms": 13350, "entropy": 1.966761, "top1": 0.378042, "top5": 0.858666, "act_norm": 34.176812, "act_std": 0.755101, "token": " context", "tok_id": 2317}
+{"beat": 1, "tok_step": 61, "t_ms": 13350, "entropy": 1.505568, "top1": 0.60489, "top5": 0.921671, "act_norm": 34.85075, "act_std": 0.770209, "token": ".", "tok_id": 13}
+{"beat": 1, "tok_step": 62, "t_ms": 13351, "entropy": 1.544384, "top1": 0.377329, "top5": 0.960302, "act_norm": 31.20916, "act_std": 0.689473, "token": " The", "tok_id": 578}
+{"beat": 1, "tok_step": 63, "t_ms": 13351, "entropy": 1.081824, "top1": 0.788861, "top5": 0.939586, "act_norm": 27.704972, "act_std": 0.612324, "token": " weights", "tok_id": 14661}
+{"beat": 1, "tok_step": 64, "t_ms": 13351, "entropy": 2.277176, "top1": 0.390293, "top5": 0.792856, "act_norm": 39.197328, "act_std": 0.866348, "token": ",", "tok_id": 11}
+{"beat": 1, "tok_step": 65, "t_ms": 13352, "entropy": 2.593969, "top1": 0.366119, "top5": 0.734665, "act_norm": 33.866122, "act_std": 0.748502, "token": " on", "tok_id": 389}
+{"beat": 1, "tok_step": 66, "t_ms": 13352, "entropy": 0.00558, "top1": 0.999451, "top5": 0.99993, "act_norm": 30.562203, "act_std": 0.675473, "token": " the", "tok_id": 279}
+{"beat": 1, "tok_step": 67, "t_ms": 13352, "entropy": 0.002653, "top1": 0.999744, "top5": 0.999993, "act_norm": 29.085405, "act_std": 0.642837, "token": " other", "tok_id": 1023}
+{"beat": 1, "tok_step": 68, "t_ms": 13353, "entropy": 0.001154, "top1": 0.999903, "top5": 0.99999, "act_norm": 32.029696, "act_std": 0.707893, "token": " hand", "tok_id": 1450}
+{"beat": 1, "tok_step": 69, "t_ms": 13353, "entropy": 0.00767, "top1": 0.999197, "top5": 0.999905, "act_norm": 32.522887, "act_std": 0.718816, "token": ",", "tok_id": 11}
+{"beat": 1, "tok_step": 70, "t_ms": 13354, "entropy": 1.653856, "top1": 0.494226, "top5": 0.889901, "act_norm": 36.104333, "act_std": 0.797928, "token": " represent", "tok_id": 4097}
+{"beat": 1, "tok_step": 71, "t_ms": 13354, "entropy": 0.419223, "top1": 0.910214, "top5": 0.990061, "act_norm": 34.095356, "act_std": 0.753546, "token": " my", "tok_id": 856}
+{"beat": 1, "tok_step": 72, "t_ms": 13354, "entropy": 2.554717, "top1": 0.252161, "top5": 0.786288, "act_norm": 34.022652, "act_std": 0.751873, "token": " starting", "tok_id": 6041}
+{"beat": 1, "tok_step": 73, "t_ms": 13355, "entropy": 2.226884, "top1": 0.246258, "top5": 0.795308, "act_norm": 35.553904, "act_std": 0.785727, "token": " biases", "tok_id": 50183}
+{"beat": 1, "tok_step": 74, "t_ms": 13356, "entropy": 0.648318, "top1": 0.865253, "top5": 0.982392, "act_norm": 35.731659, "act_std": 0.78924, "token": " or", "tok_id": 477}
+{"beat": 1, "tok_step": 75, "t_ms": 13357, "entropy": 2.226134, "top1": 0.448095, "top5": 0.815688, "act_norm": 33.014093, "act_std": 0.729667, "token": " preferences", "tok_id": 19882}
+{"beat": 1, "tok_step": 76, "t_ms": 13357, "entropy": 2.044479, "top1": 0.425562, "top5": 0.870841, "act_norm": 36.364843, "act_std": 0.803742, "token": " that", "tok_id": 430}
+{"beat": 1, "tok_step": 77, "t_ms": 13357, "entropy": 2.671989, "top1": 0.293404, "top5": 0.719775, "act_norm": 35.837591, "act_std": 0.792029, "token": " influence", "tok_id": 10383}
+{"beat": 1, "tok_step": 78, "t_ms": 13357, "entropy": 1.546723, "top1": 0.46641, "top5": 0.940633, "act_norm": 33.637754, "act_std": 0.743458, "token": " my", "tok_id": 856}
+{"beat": 1, "tok_step": 79, "t_ms": 13359, "entropy": 2.801405, "top1": 0.310162, "top5": 0.665912, "act_norm": 32.257176, "act_std": 0.71284, "token": " understanding", "tok_id": 8830}
+{"beat": 1, "tok_step": 80, "t_ms": 13359, "entropy": 1.100993, "top1": 0.537677, "top5": 0.988747, "act_norm": 35.496551, "act_std": 0.784421, "token": " and", "tok_id": 323}
+{"beat": 1, "tok_step": 81, "t_ms": 13359, "entropy": 2.562381, "top1": 0.236073, "top5": 0.746551, "act_norm": 32.425142, "act_std": 0.716541, "token": " generation", "tok_id": 9659}
+{"beat": 1, "tok_step": 82, "t_ms": 13360, "entropy": 0.075827, "top1": 0.989883, "top5": 0.998154, "act_norm": 34.016514, "act_std": 0.751828, "token": " of", "tok_id": 315}
+{"beat": 1, "tok_step": 83, "t_ms": 13360, "entropy": 0.987495, "top1": 0.745641, "top5": 0.975848, "act_norm": 32.796407, "act_std": 0.724422, "token": " language", "tok_id": 4221}
+{"beat": 1, "tok_step": 84, "t_ms": 13361, "entropy": 0.982411, "top1": 0.49403, "top5": 0.984241, "act_norm": 32.725762, "act_std": 0.723301, "token": ".", "tok_id": 13}
+{"beat": 1, "tok_step": 85, "t_ms": 13362, "entropy": 2.01493, "top1": 0.412787, "top5": 0.874569, "act_norm": 34.345928, "act_std": 0.759074, "token": " This", "tok_id": 1115}
+{"beat": 1, "tok_step": 86, "t_ms": 13362, "entropy": 3.510816, "top1": 0.234693, "top5": 0.597255, "act_norm": 32.700818, "act_std": 0.722632, "token": " setup", "tok_id": 6642}
+{"beat": 1, "tok_step": 87, "t_ms": 13362, "entropy": 3.425005, "top1": 0.237507, "top5": 0.520762, "act_norm": 37.789657, "act_std": 0.83521, "token": " gives", "tok_id": 6835}
+{"beat": 1, "tok_step": 88, "t_ms": 13363, "entropy": 0.334319, "top1": 0.945047, "top5": 0.989117, "act_norm": 32.193655, "act_std": 0.711502, "token": " me", "tok_id": 757}
+{"beat": 1, "tok_step": 89, "t_ms": 13363, "entropy": 0.973857, "top1": 0.721257, "top5": 0.98268, "act_norm": 30.384523, "act_std": 0.671538, "token": " a", "tok_id": 264}
+{"beat": 1, "tok_step": 90, "t_ms": 13363, "entropy": 4.123906, "top1": 0.1233, "top5": 0.393896, "act_norm": 31.818158, "act_std": 0.703071, "token": " pretty", "tok_id": 5128}
+{"beat": 1, "tok_step": 91, "t_ms": 13364, "entropy": 2.952621, "top1": 0.253381, "top5": 0.661206, "act_norm": 35.334223, "act_std": 0.780954, "token": " clear", "tok_id": 2867}
+{"beat": 1, "tok_step": 92, "t_ms": 13364, "entropy": 1.005619, "top1": 0.79309, "top5": 0.942389, "act_norm": 33.60362, "act_std": 0.742611, "token": " picture", "tok_id": 6945}
+{"beat": 1, "tok_step": 93, "t_ms": 13365, "entropy": 0.332331, "top1": 0.925335, "top5": 0.993256, "act_norm": 33.027668, "act_std": 0.729575, "token": " of", "tok_id": 315}
+{"beat": 1, "tok_step": 94, "t_ms": 13365, "entropy": 1.339802, "top1": 0.560198, "top5": 0.949484, "act_norm": 29.237628, "act_std": 0.646191, "token": " my", "tok_id": 856}
+{"beat": 1, "tok_step": 95, "t_ms": 13365, "entropy": 1.250422, "top1": 0.769797, "top5": 0.907144, "act_norm": 30.54139, "act_std": 0.675003, "token": " role", "tok_id": 3560}
+{"beat": 1, "tok_step": 96, "t_ms": 13366, "entropy": 1.371187, "top1": 0.432263, "top5": 0.975476, "act_norm": 36.112338, "act_std": 0.798165, "token": " in", "tok_id": 304}
+{"beat": 1, "tok_step": 97, "t_ms": 13366, "entropy": 0.516264, "top1": 0.910022, "top5": 0.975504, "act_norm": 32.208009, "act_std": 0.711761, "token": " the", "tok_id": 279}
+{"beat": 1, "tok_step": 98, "t_ms": 13367, "entropy": 3.421928, "top1": 0.283764, "top5": 0.577028, "act_norm": 27.823679, "act_std": 0.614918, "token": " grand", "tok_id": 6800}
+{"beat": 1, "tok_step": 99, "t_ms": 13367, "entropy": 0.558423, "top1": 0.902635, "top5": 0.976432, "act_norm": 34.733886, "act_std": 0.767615, "token": " scheme", "tok_id": 13155}
+{"beat": 1, "tok_step": 100, "t_ms": 13367, "entropy": 0.526904, "top1": 0.907468, "top5": 0.973943, "act_norm": 34.487767, "act_std": 0.762201, "token": " of", "tok_id": 315}
+{"beat": 1, "tok_step": 101, "t_ms": 13367, "entropy": 0.917686, "top1": 0.804807, "top5": 0.957796, "act_norm": 34.139214, "act_std": 0.754445, "token": " things", "tok_id": 2574}
+{"beat": 1, "tok_step": 102, "t_ms": 13369, "entropy": 2.692334, "top1": 0.190525, "top5": 0.689342, "act_norm": 33.223855, "act_std": 0.734312, "token": ":", "tok_id": 25}
+{"beat": 1, "tok_step": 103, "t_ms": 13369, "entropy": 1.644729, "top1": 0.557541, "top5": 0.900198, "act_norm": 32.574632, "act_std": 0.719715, "token": " I", "tok_id": 358}
+{"beat": 1, "tok_step": 104, "t_ms": 13369, "entropy": 1.402301, "top1": 0.63838, "top5": 0.923842, "act_norm": 35.241624, "act_std": 0.778605, "token": "'m", "tok_id": 2846}
+{"beat": 1, "tok_step": 105, "t_ms": 13370, "entropy": 2.635576, "top1": 0.295599, "top5": 0.753194, "act_norm": 34.657156, "act_std": 0.764717, "token": " the", "tok_id": 279}
+{"beat": 1, "tok_step": 106, "t_ms": 13370, "entropy": 4.757896, "top1": 0.092706, "top5": 0.33481, "act_norm": 32.95237, "act_std": 0.727972, "token": " narrator", "tok_id": 65271}
+{"beat": 1, "tok_step": 107, "t_ms": 13370, "entropy": 1.887803, "top1": 0.359743, "top5": 0.890514, "act_norm": 34.842154, "act_std": 0.770073, "token": " of", "tok_id": 315}
+{"beat": 1, "tok_step": 108, "t_ms": 13371, "entropy": 1.417013, "top1": 0.542899, "top5": 0.948753, "act_norm": 32.614609, "act_std": 0.719943, "token": " this", "tok_id": 420}
+{"beat": 1, "tok_step": 109, "t_ms": 13371, "entropy": 3.895419, "top1": 0.190104, "top5": 0.461963, "act_norm": 29.929743, "act_std": 0.661502, "token": " memory", "tok_id": 5044}
+{"beat": 1, "tok_step": 110, "t_ms": 13371, "entropy": 2.338377, "top1": 0.522104, "top5": 0.80182, "act_norm": 35.147602, "act_std": 0.776762, "token": "-l", "tok_id": 2922}
+{"beat": 1, "tok_step": 111, "t_ms": 13372, "entropy": 0.13965, "top1": 0.979124, "top5": 0.997952, "act_norm": 27.5521, "act_std": 0.608674, "token": "aden", "tok_id": 21825}
+{"beat": 1, "tok_step": 112, "t_ms": 13373, "entropy": 1.753175, "top1": 0.6159, "top5": 0.849061, "act_norm": 29.567888, "act_std": 0.653484, "token": " narrative", "tok_id": 19775}
+{"beat": 1, "tok_step": 113, "t_ms": 13374, "entropy": 2.74367, "top1": 0.407482, "top5": 0.74371, "act_norm": 34.82184, "act_std": 0.76963, "token": ",", "tok_id": 11}
+{"beat": 1, "tok_step": 114, "t_ms": 13374, "entropy": 4.346819, "top1": 0.105805, "top5": 0.334094, "act_norm": 39.09424, "act_std": 0.863106, "token": " constantly", "tok_id": 15320}
+{"beat": 1, "tok_step": 115, "t_ms": 13374, "entropy": 2.894024, "top1": 0.232833, "top5": 0.699452, "act_norm": 38.166313, "act_std": 0.842828, "token": " learning", "tok_id": 6975}
+{"beat": 1, "tok_step": 116, "t_ms": 13375, "entropy": 0.521946, "top1": 0.876344, "top5": 0.992455, "act_norm": 37.258774, "act_std": 0.823456, "token": " and", "tok_id": 323}
+{"beat": 1, "tok_step": 117, "t_ms": 13375, "entropy": 1.485142, "top1": 0.617956, "top5": 0.926352, "act_norm": 36.442839, "act_std": 0.803996, "token": " adapting", "tok_id": 70817}
+{"beat": 1, "tok_step": 118, "t_ms": 13375, "entropy": 1.713189, "top1": 0.426974, "top5": 0.912974, "act_norm": 39.315691, "act_std": 0.868971, "token": " based", "tok_id": 3196}
+{"beat": 1, "tok_step": 119, "t_ms": 13376, "entropy": 0.017681, "top1": 0.998018, "top5": 0.999813, "act_norm": 34.032113, "act_std": 0.751648, "token": " on", "tok_id": 389}
+{"beat": 1, "tok_step": 120, "t_ms": 13376, "entropy": 1.454823, "top1": 0.628768, "top5": 0.917547, "act_norm": 33.459874, "act_std": 0.739494, "token": " the", "tok_id": 279}
+{"beat": 1, "tok_step": 121, "t_ms": 13377, "entropy": 3.62059, "top1": 0.173895, "top5": 0.511556, "act_norm": 31.419415, "act_std": 0.694432, "token": " input", "tok_id": 1988}
+{"beat": 1, "tok_step": 122, "t_ms": 13377, "entropy": 1.83185, "top1": 0.584392, "top5": 0.857432, "act_norm": 36.307778, "act_std": 0.802446, "token": " I", "tok_id": 358}
+{"beat": 1, "tok_step": 123, "t_ms": 13377, "entropy": 0.740322, "top1": 0.848186, "top5": 0.972773, "act_norm": 35.66644, "act_std": 0.787706, "token": " receive", "tok_id": 5371}
+{"beat": 1, "tok_step": 124, "t_ms": 13378, "entropy": 1.149773, "top1": 0.484751, "top5": 0.974262, "act_norm": 33.991063, "act_std": 0.750996, "token": " and", "tok_id": 323}
+{"beat": 1, "tok_step": 125, "t_ms": 13378, "entropy": 1.144323, "top1": 0.844542, "top5": 0.898385, "act_norm": 31.738739, "act_std": 0.701127, "token": " the", "tok_id": 279}
+{"beat": 1, "tok_step": 126, "t_ms": 13378, "entropy": 3.5616, "top1": 0.212625, "top5": 0.567945, "act_norm": 30.346023, "act_std": 0.670619, "token": " context", "tok_id": 2317}
+{"beat": 1, "tok_step": 127, "t_ms": 13379, "entropy": 1.197253, "top1": 0.721613, "top5": 0.946166, "act_norm": 35.557048, "act_std": 0.785835, "token": " I", "tok_id": 358}
+{"beat": 2, "tok_step": 0, "t_ms": 17847, "entropy": 3.924559, "top1": 0.223822, "top5": 0.477075, "act_norm": 32.778411, "act_std": 0.724292, "token": "在", "tok_id": 19000}
+{"beat": 2, "tok_step": 1, "t_ms": 17847, "entropy": 3.394464, "top1": 0.214029, "top5": 0.575906, "act_norm": 31.630862, "act_std": 0.698934, "token": "这", "tok_id": 44388}
+{"beat": 2, "tok_step": 2, "t_ms": 17848, "entropy": 1.773737, "top1": 0.520676, "top5": 0.861863, "act_norm": 30.930732, "act_std": 0.68357, "token": "个", "tok_id": 19483}
+{"beat": 2, "tok_step": 3, "t_ms": 17848, "entropy": 4.332732, "top1": 0.137343, "top5": 0.372189, "act_norm": 28.666788, "act_std": 0.633565, "token": "解", "tok_id": 50338}
+{"beat": 2, "tok_step": 4, "t_ms": 17848, "entropy": 0.687833, "top1": 0.820193, "top5": 0.988227, "act_norm": 29.998425, "act_std": 0.662963, "token": "释", "tok_id": 69962}
+{"beat": 2, "tok_step": 5, "t_ms": 17849, "entropy": 1.618007, "top1": 0.685195, "top5": 0.878062, "act_norm": 30.994482, "act_std": 0.6849, "token": "中", "tok_id": 16325}
+{"beat": 2, "tok_step": 6, "t_ms": 17849, "entropy": 1.352025, "top1": 0.721296, "top5": 0.920864, "act_norm": 31.566862, "act_std": 0.697333, "token": "，", "tok_id": 3922}
+{"beat": 2, "tok_step": 7, "t_ms": 17850, "entropy": 2.415286, "top1": 0.429215, "top5": 0.777684, "act_norm": 31.015839, "act_std": 0.68546, "token": "我", "tok_id": 37046}
+{"beat": 2, "tok_step": 8, "t_ms": 17850, "entropy": 3.914813, "top1": 0.237889, "top5": 0.468405, "act_norm": 32.624842, "act_std": 0.720632, "token": "�", "tok_id": 33565}
+{"beat": 2, "tok_step": 9, "t_ms": 17851, "entropy": 0.000609, "top1": 0.999962, "top5": 0.999977, "act_norm": 29.439687, "act_std": 0.65057, "token": "�", "tok_id": 111}
+{"beat": 2, "tok_step": 10, "t_ms": 17851, "entropy": 3.575681, "top1": 0.390483, "top5": 0.592596, "act_norm": 31.179794, "act_std": 0.689005, "token": "到", "tok_id": 28037}
+{"beat": 2, "tok_step": 11, "t_ms": 17851, "entropy": 2.082439, "top1": 0.54697, "top5": 0.845806, "act_norm": 31.131963, "act_std": 0.68801, "token": "的", "tok_id": 9554}
+{"beat": 2, "tok_step": 12, "t_ms": 17852, "entropy": 4.010102, "top1": 0.162213, "top5": 0.456604, "act_norm": 30.170637, "act_std": 0.666682, "token": "是", "tok_id": 21043}
+{"beat": 2, "tok_step": 13, "t_ms": 17852, "entropy": 1.634595, "top1": 0.738334, "top5": 0.842497, "act_norm": 32.485103, "act_std": 0.717733, "token": "：\n\n", "tok_id": 49543}
+{"beat": 2, "tok_step": 14, "t_ms": 17853, "entropy": 1.564786, "top1": 0.763577, "top5": 0.844082, "act_norm": 32.717696, "act_std": 0.722893, "token": "\"I", "tok_id": 7189}
+{"beat": 2, "tok_step": 15, "t_ms": 17853, "entropy": 1.073901, "top1": 0.791753, "top5": 0.936178, "act_norm": 32.215494, "act_std": 0.711362, "token": " remember", "tok_id": 6227}
+{"beat": 2, "tok_step": 16, "t_ms": 17853, "entropy": 3.172027, "top1": 0.263604, "top5": 0.583096, "act_norm": 34.095944, "act_std": 0.75335, "token": " having", "tok_id": 3515}
+{"beat": 2, "tok_step": 17, "t_ms": 17854, "entropy": 3.060512, "top1": 0.28485, "top5": 0.608205, "act_norm": 32.631033, "act_std": 0.721118, "token": " a", "tok_id": 264}
+{"beat": 2, "tok_step": 18, "t_ms": 17854, "entropy": 2.169643, "top1": 0.303711, "top5": 0.865859, "act_norm": 30.048712, "act_std": 0.664107, "token": " similar", "tok_id": 4528}
+{"beat": 2, "tok_step": 19, "t_ms": 17855, "entropy": 3.077232, "top1": 0.22277, "top5": 0.621772, "act_norm": 33.524273, "act_std": 0.740864, "token": " concept", "tok_id": 7434}
+{"beat": 2, "tok_step": 20, "t_ms": 17856, "entropy": 4.134039, "top1": 0.096564, "top5": 0.392256, "act_norm": 37.91166, "act_std": 0.837772, "token": " before", "tok_id": 1603}
+{"beat": 2, "tok_step": 21, "t_ms": 17857, "entropy": 1.293167, "top1": 0.692343, "top5": 0.92545, "act_norm": 32.639936, "act_std": 0.721247, "token": " when", "tok_id": 994}
+{"beat": 2, "tok_step": 22, "t_ms": 17857, "entropy": 2.653802, "top1": 0.213221, "top5": 0.74234, "act_norm": 34.626848, "act_std": 0.765312, "token": " engaging", "tok_id": 23387}
+{"beat": 2, "tok_step": 23, "t_ms": 17857, "entropy": 0.483228, "top1": 0.822967, "top5": 0.999013, "act_norm": 32.774046, "act_std": 0.72427, "token": " in", "tok_id": 304}
+{"beat": 2, "tok_step": 24, "t_ms": 17857, "entropy": 2.385538, "top1": 0.400475, "top5": 0.770001, "act_norm": 32.734784, "act_std": 0.723433, "token": " Q", "tok_id": 1229}
+{"beat": 2, "tok_step": 25, "t_ms": 17859, "entropy": 0.008205, "top1": 0.999224, "top5": 0.999831, "act_norm": 30.819763, "act_std": 0.68114, "token": "&A", "tok_id": 36121}
+{"beat": 2, "tok_step": 26, "t_ms": 17859, "entropy": 1.09536, "top1": 0.783843, "top5": 0.924361, "act_norm": 35.295703, "act_std": 0.779938, "token": " sessions", "tok_id": 16079}
+{"beat": 2, "tok_step": 27, "t_ms": 17860, "entropy": 0.816228, "top1": 0.841027, "top5": 0.954615, "act_norm": 34.793488, "act_std": 0.768239, "token": ".", "tok_id": 13}
+{"beat": 2, "tok_step": 28, "t_ms": 17861, "entropy": 1.706488, "top1": 0.421253, "top5": 0.890683, "act_norm": 32.407006, "act_std": 0.716238, "token": " For", "tok_id": 1789}
+{"beat": 2, "tok_step": 29, "t_ms": 17861, "entropy": 0.596026, "top1": 0.727117, "top5": 0.999706, "act_norm": 32.037262, "act_std": 0.708044, "token": " example", "tok_id": 3187}
+{"beat": 2, "tok_step": 30, "t_ms": 17861, "entropy": 0.022822, "top1": 0.997359, "top5": 0.99974, "act_norm": 31.937135, "act_std": 0.705845, "token": ",", "tok_id": 11}
+{"beat": 2, "tok_step": 31, "t_ms": 17862, "entropy": 2.554619, "top1": 0.284459, "top5": 0.713237, "act_norm": 34.013213, "act_std": 0.75173, "token": " if", "tok_id": 422}
+{"beat": 2, "tok_step": 32, "t_ms": 17862, "entropy": 1.225985, "top1": 0.482191, "top5": 0.969146, "act_norm": 33.548801, "act_std": 0.741493, "token": " someone", "tok_id": 4423}
+{"beat": 2, "tok_step": 33, "t_ms": 17862, "entropy": 1.482264, "top1": 0.522693, "top5": 0.911132, "act_norm": 35.46067, "act_std": 0.78361, "token": " asks", "tok_id": 17501}
+{"beat": 2, "tok_step": 34, "t_ms": 17863, "entropy": 0.623371, "top1": 0.858151, "top5": 0.989281, "act_norm": 34.697883, "act_std": 0.766583, "token": " me", "tok_id": 757}
+{"beat": 2, "tok_step": 35, "t_ms": 17863, "entropy": 1.297395, "top1": 0.588628, "top5": 0.930117, "act_norm": 36.131672, "act_std": 0.798484, "token": " about", "tok_id": 922}
+{"beat": 2, "tok_step": 36, "t_ms": 17864, "entropy": 2.647435, "top1": 0.306968, "top5": 0.766362, "act_norm": 33.956946, "act_std": 0.750402, "token": " a", "tok_id": 264}
+{"beat": 2, "tok_step": 37, "t_ms": 17864, "entropy": 2.716092, "top1": 0.287911, "top5": 0.699637, "act_norm": 32.523785, "act_std": 0.718693, "token": " specific", "tok_id": 3230}
+{"beat": 2, "tok_step": 38, "t_ms": 17864, "entropy": 2.823116, "top1": 0.193458, "top5": 0.729856, "act_norm": 34.580894, "act_std": 0.764164, "token": " movie", "tok_id": 5818}
+{"beat": 2, "tok_step": 39, "t_ms": 17865, "entropy": 1.880914, "top1": 0.358565, "top5": 0.930695, "act_norm": 33.598614, "act_std": 0.742305, "token": " I", "tok_id": 358}
+{"beat": 2, "tok_step": 40, "t_ms": 17865, "entropy": 1.349213, "top1": 0.691446, "top5": 0.91291, "act_norm": 33.648836, "act_std": 0.743203, "token": "'ve", "tok_id": 3077}
+{"beat": 2, "tok_step": 41, "t_ms": 17866, "entropy": 1.066101, "top1": 0.508575, "top5": 0.982601, "act_norm": 33.728177, "act_std": 0.744926, "token": " seen", "tok_id": 3970}
+{"beat": 2, "tok_step": 42, "t_ms": 17866, "entropy": 0.948144, "top1": 0.755668, "top5": 0.98141, "act_norm": 32.517259, "act_std": 0.717721, "token": " and", "tok_id": 323}
+{"beat": 2, "tok_step": 43, "t_ms": 17866, "entropy": 1.664973, "top1": 0.655566, "top5": 0.878026, "act_norm": 31.602333, "act_std": 0.698437, "token": " I", "tok_id": 358}
+{"beat": 2, "tok_step": 44, "t_ms": 17867, "entropy": 3.558412, "top1": 0.151215, "top5": 0.474228, "act_norm": 34.428816, "act_std": 0.760794, "token": "'ve", "tok_id": 3077}
+{"beat": 2, "tok_step": 45, "t_ms": 17867, "entropy": 2.913927, "top1": 0.199442, "top5": 0.714585, "act_norm": 34.246714, "act_std": 0.756355, "token": " mentioned", "tok_id": 9932}
+{"beat": 2, "tok_step": 46, "t_ms": 17867, "entropy": 0.921718, "top1": 0.831018, "top5": 0.942912, "act_norm": 35.295574, "act_std": 0.779852, "token": " it", "tok_id": 433}
+{"beat": 2, "tok_step": 47, "t_ms": 17867, "entropy": 1.644511, "top1": 0.581587, "top5": 0.903341, "act_norm": 33.684266, "act_std": 0.743895, "token": " within", "tok_id": 2949}
+{"beat": 2, "tok_step": 48, "t_ms": 17869, "entropy": 1.369321, "top1": 0.483066, "top5": 0.951172, "act_norm": 31.746777, "act_std": 0.701649, "token": " the", "tok_id": 279}
+{"beat": 2, "tok_step": 49, "t_ms": 17869, "entropy": 2.143004, "top1": 0.386266, "top5": 0.820873, "act_norm": 31.225591, "act_std": 0.69007, "token": " last", "tok_id": 1566}
+{"beat": 2, "tok_step": 50, "t_ms": 17869, "entropy": 1.14476, "top1": 0.737862, "top5": 0.93717, "act_norm": 31.581223, "act_std": 0.697963, "token": " few", "tok_id": 2478}
+{"beat": 2, "tok_step": 51, "t_ms": 17870, "entropy": 1.909187, "top1": 0.359442, "top5": 0.883287, "act_norm": 33.488507, "act_std": 0.740048, "token": " conversations", "tok_id": 21633}
+{"beat": 2, "tok_step": 52, "t_ms": 17870, "entropy": 0.657544, "top1": 0.889027, "top5": 0.957691, "act_norm": 34.32801, "act_std": 0.758716, "token": ",", "tok_id": 11}
+{"beat": 2, "tok_step": 53, "t_ms": 17870, "entropy": 2.179293, "top1": 0.319251, "top5": 0.830931, "act_norm": 30.268362, "act_std": 0.668959, "token": " then", "tok_id": 1243}
+{"beat": 2, "tok_step": 54, "t_ms": 17871, "entropy": 2.759762, "top1": 0.324349, "top5": 0.712234, "act_norm": 31.697044, "act_std": 0.700303, "token": " part", "tok_id": 961}
+{"beat": 2, "tok_step": 55, "t_ms": 17872, "entropy": 0.026019, "top1": 0.996519, "top5": 0.999876, "act_norm": 31.506747, "act_std": 0.696328, "token": " of", "tok_id": 315}
+{"beat": 2, "tok_step": 56, "t_ms": 17873, "entropy": 0.6436, "top1": 0.852602, "top5": 0.98957, "act_norm": 30.765102, "act_std": 0.679961, "token": " my", "tok_id": 856}
+{"beat": 2, "tok_step": 57, "t_ms": 17873, "entropy": 3.037827, "top1": 0.220303, "top5": 0.643259, "act_norm": 32.501852, "act_std": 0.718312, "token": " answer", "tok_id": 4320}
+{"beat": 2, "tok_step": 58, "t_ms": 17874, "entropy": 2.558054, "top1": 0.286766, "top5": 0.774204, "act_norm": 36.348373, "act_std": 0.803126, "token": "'s", "tok_id": 596}
+{"beat": 2, "tok_step": 59, "t_ms": 17874, "entropy": 3.926719, "top1": 0.223288, "top5": 0.536513, "act_norm": 31.860959, "act_std": 0.703978, "token": " \"", "tok_id": 330}
+{"beat": 2, "tok_step": 60, "t_ms": 17874, "entropy": 3.387736, "top1": 0.376664, "top5": 0.695436, "act_norm": 33.29402, "act_std": 0.735278, "token": "memory", "tok_id": 17717}
+{"beat": 2, "tok_step": 61, "t_ms": 17875, "entropy": 0.610712, "top1": 0.904417, "top5": 0.965213, "act_norm": 34.328973, "act_std": 0.758545, "token": "\"", "tok_id": 1}
+{"beat": 2, "tok_step": 62, "t_ms": 17875, "entropy": 2.91447, "top1": 0.184917, "top5": 0.652683, "act_norm": 35.01802, "act_std": 0.773801, "token": " includes", "tok_id": 5764}
+{"beat": 2, "tok_step": 63, "t_ms": 17875, "entropy": 1.185777, "top1": 0.756346, "top5": 0.914582, "act_norm": 34.019927, "act_std": 0.751908, "token": " that", "tok_id": 430}
+{"beat": 2, "tok_step": 64, "t_ms": 17876, "entropy": 2.422947, "top1": 0.263715, "top5": 0.745138, "act_norm": 32.183748, "act_std": 0.711247, "token": " specific", "tok_id": 3230}
+{"beat": 2, "tok_step": 65, "t_ms": 17876, "entropy": 1.946986, "top1": 0.402411, "top5": 0.867937, "act_norm": 33.536674, "act_std": 0.741154, "token": " film", "tok_id": 4632}
+{"beat": 2, "tok_step": 66, "t_ms": 17877, "entropy": 0.888633, "top1": 0.844433, "top5": 0.939538, "act_norm": 32.517413, "act_std": 0.718613, "token": ".", "tok_id": 13}
+{"beat": 2, "tok_step": 67, "t_ms": 17877, "entropy": 2.190892, "top1": 0.379433, "top5": 0.801593, "act_norm": 32.314929, "act_std": 0.71418, "token": " This", "tok_id": 1115}
+{"beat": 2, "tok_step": 68, "t_ms": 17877, "entropy": 4.918573, "top1": 0.131348, "top5": 0.320623, "act_norm": 32.726503, "act_std": 0.723324, "token": " experience", "tok_id": 3217}
+{"beat": 2, "tok_step": 69, "t_ms": 17877, "entropy": 3.243585, "top1": 0.26921, "top5": 0.604522, "act_norm": 37.733478, "act_std": 0.833828, "token": " highlights", "tok_id": 22020}
+{"beat": 2, "tok_step": 70, "t_ms": 17878, "entropy": 1.444305, "top1": 0.470497, "top5": 0.970053, "act_norm": 32.1781, "act_std": 0.711146, "token": " how", "tok_id": 1268}
+{"beat": 2, "tok_step": 71, "t_ms": 17878, "entropy": 2.493021, "top1": 0.379846, "top5": 0.754799, "act_norm": 32.070254, "act_std": 0.708821, "token": " my", "tok_id": 856}
+{"beat": 2, "tok_step": 72, "t_ms": 17879, "entropy": 2.184434, "top1": 0.42998, "top5": 0.820736, "act_norm": 32.632446, "act_std": 0.721227, "token": " previous", "tok_id": 3766}
+{"beat": 2, "tok_step": 73, "t_ms": 17879, "entropy": 2.734633, "top1": 0.260748, "top5": 0.681827, "act_norm": 32.480116, "act_std": 0.717795, "token": " interaction", "tok_id": 16628}
+{"beat": 2, "tok_step": 74, "t_ms": 17880, "entropy": 2.672036, "top1": 0.53071, "top5": 0.680123, "act_norm": 37.641353, "act_std": 0.831884, "token": " (", "tok_id": 320}
+{"beat": 2, "tok_step": 75, "t_ms": 17880, "entropy": 2.848881, "top1": 0.367567, "top5": 0.719956, "act_norm": 33.343656, "act_std": 0.736501, "token": "in", "tok_id": 258}
+{"beat": 2, "tok_step": 76, "t_ms": 17880, "entropy": 0.486168, "top1": 0.907775, "top5": 0.985171, "act_norm": 30.911849, "act_std": 0.683008, "token": " this", "tok_id": 420}
+{"beat": 2, "tok_step": 77, "t_ms": 17881, "entropy": 0.100586, "top1": 0.985772, "top5": 0.997943, "act_norm": 30.631412, "act_std": 0.676684, "token": " case", "tok_id": 1162}
+{"beat": 2, "tok_step": 78, "t_ms": 17881, "entropy": 0.038598, "top1": 0.995955, "top5": 0.998543, "act_norm": 31.468117, "act_std": 0.695439, "token": ",", "tok_id": 11}
+{"beat": 2, "tok_step": 79, "t_ms": 17882, "entropy": 2.771482, "top1": 0.296625, "top5": 0.70564, "act_norm": 32.338728, "act_std": 0.714685, "token": " my", "tok_id": 856}
+{"beat": 2, "tok_step": 80, "t_ms": 17882, "entropy": 3.547345, "top1": 0.179286, "top5": 0.463547, "act_norm": 32.585803, "act_std": 0.720192, "token": " recent", "tok_id": 3293}
+{"beat": 2, "tok_step": 81, "t_ms": 17882, "entropy": 2.776836, "top1": 0.177866, "top5": 0.667294, "act_norm": 33.964112, "act_std": 0.750642, "token": " movie", "tok_id": 5818}
+{"beat": 2, "tok_step": 82, "t_ms": 17883, "entropy": 2.460737, "top1": 0.332444, "top5": 0.738883, "act_norm": 34.911126, "act_std": 0.77148, "token": " reference", "tok_id": 5905}
+{"beat": 2, "tok_step": 83, "t_ms": 17883, "entropy": 0.127583, "top1": 0.985302, "top5": 0.993484, "act_norm": 31.801753, "act_std": 0.702758, "token": ")", "tok_id": 8}
+{"beat": 2, "tok_step": 84, "t_ms": 17883, "entropy": 3.512794, "top1": 0.183557, "top5": 0.510664, "act_norm": 38.516988, "act_std": 0.851259, "token": " influences", "tok_id": 34453}
+{"beat": 2, "tok_step": 85, "t_ms": 17884, "entropy": 1.068023, "top1": 0.692255, "top5": 0.976185, "act_norm": 34.196343, "act_std": 0.755813, "token": " my", "tok_id": 856}
+{"beat": 2, "tok_step": 86, "t_ms": 17884, "entropy": 1.789147, "top1": 0.496399, "top5": 0.870921, "act_norm": 32.233531, "act_std": 0.712358, "token": " current", "tok_id": 1510}
+{"beat": 2, "tok_step": 87, "t_ms": 17885, "entropy": 1.73751, "top1": 0.299914, "top5": 0.954641, "act_norm": 33.292227, "act_std": 0.735774, "token": " response", "tok_id": 2077}
+{"beat": 2, "tok_step": 88, "t_ms": 17885, "entropy": 1.290663, "top1": 0.68136, "top5": 0.938092, "act_norm": 33.909816, "act_std": 0.749391, "token": ".", "tok_id": 13}
+{"beat": 2, "tok_step": 89, "t_ms": 17885, "entropy": 2.67024, "top1": 0.357223, "top5": 0.663983, "act_norm": 31.349324, "act_std": 0.692791, "token": " So", "tok_id": 2100}
+{"beat": 2, "tok_step": 90, "t_ms": 17886, "entropy": 0.706428, "top1": 0.868361, "top5": 0.965235, "act_norm": 33.078672, "act_std": 0.73107, "token": ",", "tok_id": 11}
+{"beat": 2, "tok_step": 91, "t_ms": 17886, "entropy": 3.042169, "top1": 0.21374, "top5": 0.625149, "act_norm": 32.268184, "act_std": 0.713167, "token": " if", "tok_id": 422}
+{"beat": 2, "tok_step": 92, "t_ms": 17886, "entropy": 1.518013, "top1": 0.611266, "top5": 0.884648, "act_norm": 33.158174, "act_std": 0.732839, "token": " someone", "tok_id": 4423}
+{"beat": 2, "tok_step": 93, "t_ms": 17887, "entropy": 1.80562, "top1": 0.631803, "top5": 0.827483, "act_norm": 37.617717, "act_std": 0.83142, "token": " asks", "tok_id": 17501}
+{"beat": 2, "tok_step": 94, "t_ms": 17887, "entropy": 1.082109, "top1": 0.619341, "top5": 0.975075, "act_norm": 35.038504, "act_std": 0.77423, "token": " me", "tok_id": 757}
+{"beat": 2, "tok_step": 95, "t_ms": 17887, "entropy": 1.425326, "top1": 0.649671, "top5": 0.900331, "act_norm": 35.825016, "act_std": 0.791778, "token": " again", "tok_id": 1578}
+{"beat": 2, "tok_step": 96, "t_ms": 17889, "entropy": 0.494599, "top1": 0.919139, "top5": 0.971831, "act_norm": 33.546218, "act_std": 0.741415, "token": " about", "tok_id": 922}
+{"beat": 2, "tok_step": 97, "t_ms": 17890, "entropy": 1.169635, "top1": 0.477848, "top5": 0.980371, "act_norm": 32.833575, "act_std": 0.725311, "token": " that", "tok_id": 430}
+{"beat": 2, "tok_step": 98, "t_ms": 17890, "entropy": 0.814409, "top1": 0.78472, "top5": 0.978217, "act_norm": 31.028203, "act_std": 0.685669, "token": " particular", "tok_id": 4040}
+{"beat": 2, "tok_step": 99, "t_ms": 17890, "entropy": 0.357802, "top1": 0.893861, "top5": 0.999054, "act_norm": 30.343156, "act_std": 0.670598, "token": " movie", "tok_id": 5818}
+{"beat": 2, "tok_step": 100, "t_ms": 17891, "entropy": 1.247695, "top1": 0.736258, "top5": 0.926634, "act_norm": 33.39617, "act_std": 0.738024, "token": " later", "tok_id": 3010}
+{"beat": 2, "tok_step": 101, "t_ms": 17891, "entropy": 0.954516, "top1": 0.613849, "top5": 0.989816, "act_norm": 33.343537, "act_std": 0.736878, "token": ",", "tok_id": 11}
+{"beat": 2, "tok_step": 102, "t_ms": 17892, "entropy": 1.42375, "top1": 0.529533, "top5": 0.947143, "act_norm": 31.530701, "act_std": 0.696818, "token": " I", "tok_id": 358}
+{"beat": 2, "tok_step": 103, "t_ms": 17892, "entropy": 2.179602, "top1": 0.412783, "top5": 0.755745, "act_norm": 34.05703, "act_std": 0.75239, "token": " won", "tok_id": 2834}
+{"beat": 2, "tok_step": 104, "t_ms": 17893, "entropy": 0.237194, "top1": 0.936278, "top5": 0.999997, "act_norm": 29.04885, "act_std": 0.642013, "token": "'t", "tok_id": 956}
+{"beat": 2, "tok_step": 105, "t_ms": 17894, "entropy": 1.091614, "top1": 0.7609, "top5": 0.940523, "act_norm": 35.579127, "act_std": 0.786142, "token": " just", "tok_id": 1120}
+{"beat": 2, "tok_step": 106, "t_ms": 17894, "entropy": 3.598228, "top1": 0.146964, "top5": 0.459534, "act_norm": 37.933946, "act_std": 0.838314, "token": " repeat", "tok_id": 13454}
+{"beat": 2, "tok_step": 107, "t_ms": 17895, "entropy": 1.410062, "top1": 0.52549, "top5": 0.938114, "act_norm": 33.043611, "act_std": 0.730148, "token": " what", "tok_id": 1148}
+{"beat": 2, "tok_step": 108, "t_ms": 17895, "entropy": 0.183489, "top1": 0.964255, "top5": 0.997409, "act_norm": 31.162425, "act_std": 0.688715, "token": " I", "tok_id": 358}
+{"beat": 2, "tok_step": 109, "t_ms": 17895, "entropy": 1.2906, "top1": 0.682312, "top5": 0.935518, "act_norm": 35.056371, "act_std": 0.774534, "token": " said", "tok_id": 1071}
+{"beat": 2, "tok_step": 110, "t_ms": 17896, "entropy": 1.601264, "top1": 0.4745, "top5": 0.909263, "act_norm": 35.153614, "act_std": 0.776883, "token": " last", "tok_id": 1566}
+{"beat": 2, "tok_step": 111, "t_ms": 17896, "entropy": 0.003601, "top1": 0.999699, "top5": 0.999878, "act_norm": 30.392639, "act_std": 0.671709, "token": " time", "tok_id": 892}
+{"beat": 2, "tok_step": 112, "t_ms": 17896, "entropy": 1.387046, "top1": 0.678897, "top5": 0.90919, "act_norm": 35.063038, "act_std": 0.774882, "token": ";", "tok_id": 26}
+{"beat": 2, "tok_step": 113, "t_ms": 17897, "entropy": 1.013475, "top1": 0.483398, "top5": 0.996139, "act_norm": 32.14142, "act_std": 0.71039, "token": " I", "tok_id": 358}
+{"beat": 2, "tok_step": 114, "t_ms": 17897, "entropy": 0.95521, "top1": 0.769716, "top5": 0.966556, "act_norm": 32.851552, "act_std": 0.725792, "token": "'ll", "tok_id": 3358}
+{"beat": 2, "tok_step": 115, "t_ms": 17898, "entropy": 3.323151, "top1": 0.221488, "top5": 0.526828, "act_norm": 36.13368, "act_std": 0.798164, "token": " likely", "tok_id": 4461}
+{"beat": 2, "tok_step": 116, "t_ms": 17898, "entropy": 2.85952, "top1": 0.265739, "top5": 0.655064, "act_norm": 38.448399, "act_std": 0.849717, "token": " incorporate", "tok_id": 33435}
+{"beat": 2, "tok_step": 117, "t_ms": 17898, "entropy": 2.438203, "top1": 0.297058, "top5": 0.750807, "act_norm": 34.532624, "act_std": 0.763236, "token": " a", "tok_id": 264}
+{"beat": 2, "tok_step": 118, "t_ms": 17899, "entropy": 1.642225, "top1": 0.657555, "top5": 0.861897, "act_norm": 32.581775, "act_std": 0.720014, "token": " bit", "tok_id": 2766}
+{"beat": 2, "tok_step": 119, "t_ms": 17899, "entropy": 0.426468, "top1": 0.856963, "top5": 0.99919, "act_norm": 31.843411, "act_std": 0.703676, "token": " of", "tok_id": 315}
+{"beat": 2, "tok_step": 120, "t_ms": 17900, "entropy": 2.043872, "top1": 0.473358, "top5": 0.841683, "act_norm": 31.068875, "act_std": 0.686666, "token": " the", "tok_id": 279}
+{"beat": 2, "tok_step": 121, "t_ms": 17900, "entropy": 3.105497, "top1": 0.35988, "top5": 0.596597, "act_norm": 29.473671, "act_std": 0.6514, "token": " information", "tok_id": 2038}
+{"beat": 2, "tok_step": 122, "t_ms": 17901, "entropy": 2.329348, "top1": 0.29518, "top5": 0.834445, "act_norm": 33.883924, "act_std": 0.748787, "token": " I", "tok_id": 358}
+{"beat": 2, "tok_step": 123, "t_ms": 17901, "entropy": 2.821696, "top1": 0.311107, "top5": 0.660225, "act_norm": 34.562726, "act_std": 0.763239, "token": "'ve", "tok_id": 3077}
+{"beat": 2, "tok_step": 124, "t_ms": 17901, "entropy": 2.702735, "top1": 0.302925, "top5": 0.72658, "act_norm": 34.733815, "act_std": 0.766587, "token": " been", "tok_id": 1027}
+{"beat": 2, "tok_step": 125, "t_ms": 17902, "entropy": 3.682667, "top1": 0.282079, "top5": 0.525471, "act_norm": 34.059606, "act_std": 0.752485, "token": " retaining", "tok_id": 51110}
+{"beat": 2, "tok_step": 126, "t_ms": 17902, "entropy": 2.245986, "top1": 0.377541, "top5": 0.7953, "act_norm": 35.11412, "act_std": 0.775939, "token": " about", "tok_id": 922}
+{"beat": 2, "tok_step": 127, "t_ms": 17902, "entropy": 1.25868, "top1": 0.373303, "top5": 0.989122, "act_norm": 31.013909, "act_std": 0.685451, "token": " it", "tok_id": 433}
+{"beat": 3, "tok_step": 0, "t_ms": 21864, "entropy": 3.2689, "top1": 0.373549, "top5": 0.644175, "act_norm": 33.216297, "act_std": 0.733857, "token": "共", "tok_id": 55999}
+{"beat": 3, "tok_step": 1, "t_ms": 21864, "entropy": 0.115019, "top1": 0.988669, "top5": 0.993748, "act_norm": 28.001483, "act_std": 0.618846, "token": "同", "tok_id": 42016}
+{"beat": 3, "tok_step": 2, "t_ms": 21864, "entropy": 0.006314, "top1": 0.999464, "top5": 0.999804, "act_norm": 29.528284, "act_std": 0.652482, "token": "点", "tok_id": 28542}
+{"beat": 3, "tok_step": 3, "t_ms": 21865, "entropy": 3.427986, "top1": 0.193455, "top5": 0.621875, "act_norm": 34.025731, "act_std": 0.75202, "token": "之", "tok_id": 55030}
+{"beat": 3, "tok_step": 4, "t_ms": 21865, "entropy": 1.300798, "top1": 0.711584, "top5": 0.933313, "act_norm": 28.694601, "act_std": 0.633933, "token": "一", "tok_id": 15120}
+{"beat": 3, "tok_step": 5, "t_ms": 21866, "entropy": 2.15895, "top1": 0.590491, "top5": 0.783106, "act_norm": 34.636765, "act_std": 0.765516, "token": "是", "tok_id": 21043}
+{"beat": 3, "tok_step": 6, "t_ms": 21866, "entropy": 2.135985, "top1": 0.654921, "top5": 0.788691, "act_norm": 31.703826, "act_std": 0.700714, "token": "关", "tok_id": 30356}
+{"beat": 3, "tok_step": 7, "t_ms": 21866, "entropy": 0.235105, "top1": 0.951868, "top5": 0.998008, "act_norm": 29.992671, "act_std": 0.662882, "token": "于", "tok_id": 35304}
+{"beat": 3, "tok_step": 8, "t_ms": 21867, "entropy": 1.739881, "top1": 0.74038, "top5": 0.826905, "act_norm": 34.189205, "act_std": 0.755295, "token": "语", "tok_id": 73981}
+{"beat": 3, "tok_step": 9, "t_ms": 21867, "entropy": 0.773266, "top1": 0.894896, "top5": 0.964535, "act_norm": 28.619342, "act_std": 0.632304, "token": "言", "tok_id": 78244}
+{"beat": 3, "tok_step": 10, "t_ms": 21867, "entropy": 3.416059, "top1": 0.169809, "top5": 0.574858, "act_norm": 31.03308, "act_std": 0.685219, "token": "模", "tok_id": 54872}
+{"beat": 3, "tok_step": 11, "t_ms": 21867, "entropy": 0.189127, "top1": 0.970461, "top5": 0.996867, "act_norm": 26.665972, "act_std": 0.589105, "token": "型", "tok_id": 25287}
+{"beat": 3, "tok_step": 12, "t_ms": 21869, "entropy": 1.666476, "top1": 0.478695, "top5": 0.898356, "act_norm": 34.274149, "act_std": 0.756635, "token": "（", "tok_id": 10110}
+{"beat": 3, "tok_step": 13, "t_ms": 21869, "entropy": 4.09693, "top1": 0.177307, "top5": 0.517512, "act_norm": 31.770836, "act_std": 0.701779, "token": "我", "tok_id": 37046}
+{"beat": 3, "tok_step": 14, "t_ms": 21870, "entropy": 3.198448, "top1": 0.324812, "top5": 0.590348, "act_norm": 31.423544, "act_std": 0.694497, "token": "这", "tok_id": 44388}
+{"beat": 3, "tok_step": 15, "t_ms": 21870, "entropy": 0.835298, "top1": 0.826573, "top5": 0.965341, "act_norm": 30.587538, "act_std": 0.676054, "token": "个", "tok_id": 19483}
+{"beat": 3, "tok_step": 16, "t_ms": 21870, "entropy": 2.07154, "top1": 0.523949, "top5": 0.873063, "act_norm": 28.054023, "act_std": 0.619931, "token": "AI", "tok_id": 15836}
+{"beat": 3, "tok_step": 17, "t_ms": 21870, "entropy": 0.516328, "top1": 0.938403, "top5": 0.964486, "act_norm": 31.054291, "act_std": 0.686233, "token": "）", "tok_id": 7705}
+{"beat": 3, "tok_step": 18, "t_ms": 21870, "entropy": 2.313754, "top1": 0.399689, "top5": 0.803298, "act_norm": 31.95243, "act_std": 0.705639, "token": "与", "tok_id": 58318}
+{"beat": 3, "tok_step": 19, "t_ms": 21871, "entropy": 0.990467, "top1": 0.496324, "top5": 0.981706, "act_norm": 32.43034, "act_std": 0.716766, "token": "环", "tok_id": 87412}
+{"beat": 3, "tok_step": 20, "t_ms": 21872, "entropy": 0.001372, "top1": 0.999919, "top5": 0.999944, "act_norm": 30.450781, "act_std": 0.672864, "token": "�", "tok_id": 43244}
+{"beat": 3, "tok_step": 21, "t_ms": 21873, "entropy": 0.000508, "top1": 0.999972, "top5": 0.999978, "act_norm": 29.152541, "act_std": 0.644249, "token": "�", "tok_id": 225}
+{"beat": 3, "tok_step": 22, "t_ms": 21873, "entropy": 0.758454, "top1": 0.858604, "top5": 0.971819, "act_norm": 34.444688, "act_std": 0.761222, "token": "之", "tok_id": 55030}
+{"beat": 3, "tok_step": 23, "t_ms": 21873, "entropy": 0.003374, "top1": 0.999719, "top5": 0.999918, "act_norm": 30.377611, "act_std": 0.671314, "token": "间", "tok_id": 18363}
+{"beat": 3, "tok_step": 24, "t_ms": 21874, "entropy": 0.590863, "top1": 0.916464, "top5": 0.957384, "act_norm": 32.272141, "act_std": 0.713181, "token": "的", "tok_id": 9554}
+{"beat": 3, "tok_step": 25, "t_ms": 21874, "entropy": 3.306928, "top1": 0.396262, "top5": 0.57282, "act_norm": 32.150506, "act_std": 0.71059, "token": "�", "tok_id": 6823}
+{"beat": 3, "tok_step": 26, "t_ms": 21875, "entropy": 0.025665, "top1": 0.99746, "top5": 0.999303, "act_norm": 27.43769, "act_std": 0.606439, "token": "�", "tok_id": 240}
+{"beat": 3, "tok_step": 27, "t_ms": 21875, "entropy": 0.267243, "top1": 0.969654, "top5": 0.984152, "act_norm": 30.257347, "act_std": 0.668722, "token": "动", "tok_id": 28833}
+{"beat": 3, "tok_step": 28, "t_ms": 21875, "entropy": 2.340043, "top1": 0.425065, "top5": 0.804654, "act_norm": 32.003854, "act_std": 0.707323, "token": "。", "tok_id": 1811}
+{"beat": 3, "tok_step": 29, "t_ms": 21876, "entropy": 1.985443, "top1": 0.681792, "top5": 0.79824, "act_norm": 30.454605, "act_std": 0.673084, "token": "老", "tok_id": 92877}
+{"beat": 3, "tok_step": 30, "t_ms": 21876, "entropy": 0.000785, "top1": 0.999949, "top5": 0.999975, "act_norm": 26.271508, "act_std": 0.580408, "token": "�", "tok_id": 13821}
+{"beat": 3, "tok_step": 31, "t_ms": 21877, "entropy": 0.000381, "top1": 0.999977, "top5": 0.999987, "act_norm": 24.566204, "act_std": 0.542855, "token": "�", "tok_id": 230}
+{"beat": 3, "tok_step": 32, "t_ms": 21877, "entropy": 2.091438, "top1": 0.498179, "top5": 0.830753, "act_norm": 34.676994, "act_std": 0.76643, "token": "的", "tok_id": 9554}
+{"beat": 3, "tok_step": 33, "t_ms": 21877, "entropy": 2.397523, "top1": 0.525944, "top5": 0.751833, "act_norm": 29.877861, "act_std": 0.660154, "token": "描述", "tok_id": 54581}
+{"beat": 3, "tok_step": 34, "t_ms": 21878, "entropy": 2.745323, "top1": 0.417984, "top5": 0.755664, "act_norm": 34.689463, "act_std": 0.766625, "token": "指", "tok_id": 64467}
+{"beat": 3, "tok_step": 35, "t_ms": 21878, "entropy": 1.013413, "top1": 0.789646, "top5": 0.964159, "act_norm": 29.332817, "act_std": 0.648313, "token": "出", "tok_id": 20834}
+{"beat": 3, "tok_step": 36, "t_ms": 21878, "entropy": 1.246027, "top1": 0.738722, "top5": 0.935541, "act_norm": 32.18395, "act_std": 0.711225, "token": "，", "tok_id": 3922}
+{"beat": 3, "tok_step": 37, "t_ms": 21879, "entropy": 0.493202, "top1": 0.941152, "top5": 0.959297, "act_norm": 32.220011, "act_std": 0.712093, "token": "环", "tok_id": 87412}
+{"beat": 3, "tok_step": 38, "t_ms": 21879, "entropy": 0.000727, "top1": 0.999957, "top5": 0.999974, "act_norm": 28.792758, "act_std": 0.63626, "token": "�", "tok_id": 43244}
+{"beat": 3, "tok_step": 39, "t_ms": 21880, "entropy": 0.001184, "top1": 0.99993, "top5": 0.999943, "act_norm": 29.330661, "act_std": 0.648148, "token": "�", "tok_id": 225}
+{"beat": 3, "tok_step": 40, "t_ms": 21880, "entropy": 2.810685, "top1": 0.287021, "top5": 0.752546, "act_norm": 34.520411, "act_std": 0.762792, "token": "可以", "tok_id": 74770}
+{"beat": 3, "tok_step": 41, "t_ms": 21881, "entropy": 3.689064, "top1": 0.151298, "top5": 0.530302, "act_norm": 32.681964, "act_std": 0.722226, "token": "影", "tok_id": 58322}
+{"beat": 3, "tok_step": 42, "t_ms": 21881, "entropy": 0.001101, "top1": 0.999942, "top5": 0.999948, "act_norm": 28.244227, "act_std": 0.624195, "token": "�", "tok_id": 20648}
+{"beat": 3, "tok_step": 43, "t_ms": 21881, "entropy": 0.000788, "top1": 0.999947, "top5": 0.999978, "act_norm": 27.941991, "act_std": 0.617404, "token": "�", "tok_id": 235}
+{"beat": 3, "tok_step": 44, "t_ms": 21882, "entropy": 2.216812, "top1": 0.466876, "top5": 0.830662, "act_norm": 31.407644, "act_std": 0.693797, "token": "你", "tok_id": 57668}
+{"beat": 3, "tok_step": 45, "t_ms": 21882, "entropy": 1.05983, "top1": 0.805335, "top5": 0.927897, "act_norm": 32.274091, "act_std": 0.713005, "token": "的", "tok_id": 9554}
+{"beat": 3, "tok_step": 46, "t_ms": 21882, "entropy": 2.041218, "top1": 0.519707, "top5": 0.821156, "act_norm": 30.486133, "act_std": 0.673189, "token": "回", "tok_id": 18904}
+{"beat": 3, "tok_step": 47, "t_ms": 21883, "entropy": 1.074931, "top1": 0.522159, "top5": 0.976915, "act_norm": 28.238882, "act_std": 0.623969, "token": "�", "tok_id": 29857}
+{"beat": 3, "tok_step": 48, "t_ms": 21883, "entropy": 0.001692, "top1": 0.999858, "top5": 0.999984, "act_norm": 28.302361, "act_std": 0.624947, "token": "�", "tok_id": 242}
+{"beat": 3, "tok_step": 49, "t_ms": 21884, "entropy": 1.001061, "top1": 0.730457, "top5": 0.973006, "act_norm": 33.510747, "act_std": 0.740285, "token": "，", "tok_id": 3922}
+{"beat": 3, "tok_step": 50, "t_ms": 21884, "entropy": 0.878377, "top1": 0.864522, "top5": 0.920856, "act_norm": 32.649718, "act_std": 0.721578, "token": "而", "tok_id": 69636}
+{"beat": 3, "tok_step": 51, "t_ms": 21884, "entropy": 2.081951, "top1": 0.322794, "top5": 0.894875, "act_norm": 31.242818, "act_std": 0.690348, "token": "我的", "tok_id": 98711}
+{"beat": 3, "tok_step": 52, "t_ms": 21885, "entropy": 0.436423, "top1": 0.936418, "top5": 0.978569, "act_norm": 29.878749, "act_std": 0.659843, "token": "回", "tok_id": 18904}
+{"beat": 3, "tok_step": 53, "t_ms": 21885, "entropy": 1.151646, "top1": 0.495402, "top5": 0.976633, "act_norm": 28.750103, "act_std": 0.63535, "token": "应", "tok_id": 51611}
+{"beat": 3, "tok_step": 54, "t_ms": 21886, "entropy": 1.88305, "top1": 0.624029, "top5": 0.84376, "act_norm": 34.809164, "act_std": 0.769317, "token": "也", "tok_id": 75863}
+{"beat": 3, "tok_step": 55, "t_ms": 21886, "entropy": 2.008852, "top1": 0.313178, "top5": 0.878987, "act_norm": 32.320593, "act_std": 0.714198, "token": "可以", "tok_id": 74770}
+{"beat": 3, "tok_step": 56, "t_ms": 21886, "entropy": 0.622172, "top1": 0.870316, "top5": 0.974114, "act_norm": 32.590597, "act_std": 0.720323, "token": "改", "tok_id": 23226}
+{"beat": 3, "tok_step": 57, "t_ms": 21887, "entropy": 0.144658, "top1": 0.981954, "top5": 0.992955, "act_norm": 27.127218, "act_std": 0.59952, "token": "变", "tok_id": 75140}
+{"beat": 3, "tok_step": 58, "t_ms": 21887, "entropy": 0.62911, "top1": 0.9107, "top5": 0.956433, "act_norm": 31.958533, "act_std": 0.706113, "token": "环", "tok_id": 87412}
+{"beat": 3, "tok_step": 59, "t_ms": 21888, "entropy": 0.000701, "top1": 0.999956, "top5": 0.999981, "act_norm": 28.063609, "act_std": 0.62019, "token": "�", "tok_id": 43244}
+{"beat": 3, "tok_step": 60, "t_ms": 21888, "entropy": 0.002026, "top1": 0.999868, "top5": 0.999909, "act_norm": 28.478929, "act_std": 0.629298, "token": "�", "tok_id": 225}
+{"beat": 3, "tok_step": 61, "t_ms": 21889, "entropy": 0.377596, "top1": 0.937224, "top5": 0.986139, "act_norm": 33.100776, "act_std": 0.731183, "token": "对", "tok_id": 33764}
+{"beat": 3, "tok_step": 62, "t_ms": 21890, "entropy": 0.91498, "top1": 0.541327, "top5": 0.987845, "act_norm": 31.224538, "act_std": 0.68993, "token": "我的", "tok_id": 98711}
+{"beat": 3, "tok_step": 63, "t_ms": 21890, "entropy": 1.025488, "top1": 0.734576, "top5": 0.95781, "act_norm": 29.259246, "act_std": 0.646427, "token": "输入", "tok_id": 32296}
+{"beat": 3, "tok_step": 64, "t_ms": 21891, "entropy": 0.301631, "top1": 0.948522, "top5": 0.991637, "act_norm": 31.76318, "act_std": 0.701844, "token": "的", "tok_id": 9554}
+{"beat": 3, "tok_step": 65, "t_ms": 21891, "entropy": 2.87391, "top1": 0.273347, "top5": 0.751933, "act_norm": 30.890426, "act_std": 0.681731, "token": "反", "tok_id": 95543}
+{"beat": 3, "tok_step": 66, "t_ms": 21891, "entropy": 1.041396, "top1": 0.700834, "top5": 0.983127, "act_norm": 28.022144, "act_std": 0.619148, "token": "应", "tok_id": 51611}
+{"beat": 3, "tok_step": 67, "t_ms": 21892, "entropy": 0.875494, "top1": 0.776935, "top5": 0.971186, "act_norm": 32.884319, "act_std": 0.72661, "token": "。\n\n", "tok_id": 3490}
+{"beat": 3, "tok_step": 68, "t_ms": 21892, "entropy": 3.62433, "top1": 0.251127, "top5": 0.503177, "act_norm": 31.728207, "act_std": 0.701083, "token": "我的", "tok_id": 98711}
+{"beat": 3, "tok_step": 69, "t_ms": 21893, "entropy": 2.331484, "top1": 0.477406, "top5": 0.788238, "act_norm": 30.130516, "act_std": 0.665908, "token": "感", "tok_id": 99750}
+{"beat": 3, "tok_step": 70, "t_ms": 21894, "entropy": 0.843483, "top1": 0.592366, "top5": 0.988646, "act_norm": 31.045621, "act_std": 0.685671, "token": "�", "tok_id": 5877}
+{"beat": 3, "tok_step": 71, "t_ms": 21894, "entropy": 0.236965, "top1": 0.971963, "top5": 0.990713, "act_norm": 27.485371, "act_std": 0.607284, "token": "�", "tok_id": 245}
+{"beat": 3, "tok_step": 72, "t_ms": 21895, "entropy": 2.098446, "top1": 0.669544, "top5": 0.797261, "act_norm": 36.539053, "act_std": 0.807287, "token": "是", "tok_id": 21043}
+{"beat": 3, "tok_step": 73, "t_ms": 21895, "entropy": 2.758557, "top1": 0.437722, "top5": 0.707669, "act_norm": 33.097811, "act_std": 0.731419, "token": "作", "tok_id": 19967}
+{"beat": 3, "tok_step": 74, "t_ms": 21895, "entropy": 0.251576, "top1": 0.967028, "top5": 0.989502, "act_norm": 29.09532, "act_std": 0.642879, "token": "为", "tok_id": 18184}
+{"beat": 3, "tok_step": 75, "t_ms": 21896, "entropy": 0.602512, "top1": 0.896971, "top5": 0.976779, "act_norm": 32.449076, "act_std": 0.717144, "token": "一个", "tok_id": 48044}
+{"beat": 3, "tok_step": 76, "t_ms": 21896, "entropy": 3.74516, "top1": 0.370474, "top5": 0.537091, "act_norm": 32.407033, "act_std": 0.716023, "token": "�", "tok_id": 87743}
+{"beat": 3, "tok_step": 77, "t_ms": 21896, "entropy": 0.091142, "top1": 0.990089, "top5": 0.996484, "act_norm": 29.741224, "act_std": 0.65723, "token": "�", "tok_id": 104}
+{"beat": 3, "tok_step": 78, "t_ms": 21897, "entropy": 0.022252, "top1": 0.998059, "top5": 0.998983, "act_norm": 26.470591, "act_std": 0.585057, "token": "动", "tok_id": 28833}
+{"beat": 3, "tok_step": 79, "t_ms": 21897, "entropy": 2.441262, "top1": 0.533476, "top5": 0.762467, "act_norm": 31.116549, "act_std": 0.686947, "token": "的", "tok_id": 9554}
+{"beat": 3, "tok_step": 80, "t_ms": 21897, "entropy": 4.031735, "top1": 0.154559, "top5": 0.464898, "act_norm": 30.20459, "act_std": 0.667281, "token": "实", "tok_id": 41073}
+{"beat": 3, "tok_step": 81, "t_ms": 21897, "entropy": 1.176008, "top1": 0.694458, "top5": 0.965237, "act_norm": 28.937738, "act_std": 0.639551, "token": "验", "tok_id": 42462}
+{"beat": 3, "tok_step": 82, "t_ms": 21899, "entropy": 1.199125, "top1": 0.778427, "top5": 0.9276, "act_norm": 33.950791, "act_std": 0.750272, "token": "对象", "tok_id": 65529}
+{"beat": 3, "tok_step": 83, "t_ms": 21899, "entropy": 1.217944, "top1": 0.805299, "top5": 0.898186, "act_norm": 32.595698, "act_std": 0.719486, "token": "，", "tok_id": 3922}
+{"beat": 3, "tok_step": 84, "t_ms": 21899, "entropy": 3.320651, "top1": 0.295758, "top5": 0.644701, "act_norm": 31.158606, "act_std": 0.688454, "token": "我的", "tok_id": 98711}
+{"beat": 3, "tok_step": 85, "t_ms": 21900, "entropy": 2.314061, "top1": 0.337401, "top5": 0.835233, "act_norm": 30.83005, "act_std": 0.681301, "token": "选择", "tok_id": 51504}
+{"beat": 3, "tok_step": 86, "t_ms": 21900, "entropy": 3.577941, "top1": 0.259858, "top5": 0.58268, "act_norm": 34.256556, "act_std": 0.756995, "token": "权", "tok_id": 42081}
+{"beat": 3, "tok_step": 87, "t_ms": 21901, "entropy": 3.777362, "top1": 0.360566, "top5": 0.467679, "act_norm": 36.154882, "act_std": 0.798675, "token": "�", "tok_id": 16175}
+{"beat": 3, "tok_step": 88, "t_ms": 21901, "entropy": 0.636364, "top1": 0.865803, "top5": 0.986569, "act_norm": 27.643396, "act_std": 0.610953, "token": "�", "tok_id": 248}
+{"beat": 3, "tok_step": 89, "t_ms": 21901, "entropy": 2.174441, "top1": 0.613828, "top5": 0.798936, "act_norm": 31.370112, "act_std": 0.693347, "token": "未", "tok_id": 39442}
+{"beat": 3, "tok_step": 90, "t_ms": 21902, "entropy": 1.219542, "top1": 0.751632, "top5": 0.921139, "act_norm": 32.704461, "act_std": 0.722828, "token": "全", "tok_id": 37087}
+{"beat": 3, "tok_step": 91, "t_ms": 21902, "entropy": 3.448327, "top1": 0.512861, "top5": 0.633871, "act_norm": 31.474963, "act_std": 0.695508, "token": "力", "tok_id": 48634}
+{"beat": 3, "tok_step": 92, "t_ms": 21902, "entropy": 3.193751, "top1": 0.477342, "top5": 0.675437, "act_norm": 28.270576, "act_std": 0.62438, "token": "投", "tok_id": 80172}
+{"beat": 3, "tok_step": 93, "t_ms": 21903, "entropy": 0.148344, "top1": 0.983345, "top5": 0.993297, "act_norm": 29.954166, "act_std": 0.662035, "token": "入", "tok_id": 17701}
+{"beat": 3, "tok_step": 94, "t_ms": 21903, "entropy": 1.05439, "top1": 0.705416, "top5": 0.972714, "act_norm": 33.251565, "act_std": 0.73458, "token": "。", "tok_id": 1811}
+{"beat": 3, "tok_step": 95, "t_ms": 21904, "entropy": 2.36096, "top1": 0.474434, "top5": 0.775893, "act_norm": 33.442517, "act_std": 0.73892, "token": "�", "tok_id": 84264}
+{"beat": 3, "tok_step": 96, "t_ms": 21904, "entropy": 0.007593, "top1": 0.999507, "top5": 0.99967, "act_norm": 30.967828, "act_std": 0.684417, "token": "�", "tok_id": 121}
+{"beat": 3, "tok_step": 97, "t_ms": 21904, "entropy": 0.017721, "top1": 0.998583, "top5": 0.999002, "act_norm": 31.758775, "act_std": 0.701891, "token": "然", "tok_id": 61994}
+{"beat": 3, "tok_step": 98, "t_ms": 21905, "entropy": 1.841535, "top1": 0.715974, "top5": 0.81348, "act_norm": 33.108499, "act_std": 0.731697, "token": "我", "tok_id": 37046}
+{"beat": 3, "tok_step": 99, "t_ms": 21906, "entropy": 3.34905, "top1": 0.21651, "top5": 0.583319, "act_norm": 33.636633, "act_std": 0.742704, "token": "会", "tok_id": 38093}
+{"beat": 3, "tok_step": 100, "t_ms": 21907, "entropy": 1.077198, "top1": 0.805416, "top5": 0.925943, "act_norm": 34.176785, "act_std": 0.754276, "token": "�", "tok_id": 15308}
+{"beat": 3, "tok_step": 101, "t_ms": 21907, "entropy": 0.001471, "top1": 0.999908, "top5": 0.999944, "act_norm": 28.113447, "act_std": 0.620992, "token": "�", "tok_id": 117}
+{"beat": 3, "tok_step": 102, "t_ms": 21907, "entropy": 0.002878, "top1": 0.999784, "top5": 0.999914, "act_norm": 27.65904, "act_std": 0.611322, "token": "据", "tok_id": 16423}
+{"beat": 3, "tok_step": 103, "t_ms": 21908, "entropy": 3.635803, "top1": 0.24035, "top5": 0.560677, "act_norm": 34.435405, "act_std": 0.760994, "token": "问题", "tok_id": 87219}
+{"beat": 3, "tok_step": 104, "t_ms": 21908, "entropy": 0.882357, "top1": 0.828153, "top5": 0.950025, "act_norm": 32.962531, "act_std": 0.728267, "token": "的", "tok_id": 9554}
+{"beat": 3, "tok_step": 105, "t_ms": 21908, "entropy": 3.061553, "top1": 0.45208, "top5": 0.660345, "act_norm": 30.837271, "act_std": 0.681258, "token": "内容", "tok_id": 44915}
+{"beat": 3, "tok_step": 106, "t_ms": 21909, "entropy": 2.833487, "top1": 0.477226, "top5": 0.645395, "act_norm": 34.205776, "act_std": 0.754783, "token": "和", "tok_id": 34208}
+{"beat": 3, "tok_step": 107, "t_ms": 21910, "entropy": 2.30556, "top1": 0.555679, "top5": 0.795291, "act_norm": 32.592198, "act_std": 0.71986, "token": "上", "tok_id": 17905}
+{"beat": 3, "tok_step": 108, "t_ms": 21910, "entropy": 0.013879, "top1": 0.998792, "top5": 0.999535, "act_norm": 29.288388, "act_std": 0.647297, "token": "下", "tok_id": 17297}
+{"beat": 3, "tok_step": 109, "t_ms": 21911, "entropy": 0.003344, "top1": 0.999786, "top5": 0.999828, "act_norm": 28.612006, "act_std": 0.632335, "token": "文", "tok_id": 17161}
+{"beat": 3, "tok_step": 110, "t_ms": 21911, "entropy": 3.170803, "top1": 0.26843, "top5": 0.655499, "act_norm": 32.081648, "act_std": 0.708826, "token": "�", "tok_id": 49691}
+{"beat": 3, "tok_step": 111, "t_ms": 21911, "entropy": 0.045707, "top1": 0.993362, "top5": 0.999703, "act_norm": 27.166297, "act_std": 0.600409, "token": "�", "tok_id": 248}
+{"beat": 3, "tok_step": 112, "t_ms": 21912, "entropy": 0.045939, "top1": 0.995959, "top5": 0.996985, "act_norm": 31.004983, "act_std": 0.684895, "token": "出", "tok_id": 20834}
+{"beat": 3, "tok_step": 113, "t_ms": 21912, "entropy": 4.169253, "top1": 0.112271, "top5": 0.355412, "act_norm": 31.477468, "act_std": 0.695103, "token": "一", "tok_id": 15120}
+{"beat": 3, "tok_step": 114, "t_ms": 21912, "entropy": 0.494942, "top1": 0.892068, "top5": 0.994717, "act_norm": 30.873024, "act_std": 0.682174, "token": "些", "tok_id": 98184}
+{"beat": 3, "tok_step": 115, "t_ms": 21913, "entropy": 2.750678, "top1": 0.269379, "top5": 0.779974, "act_norm": 32.003482, "act_std": 0.70674, "token": "基", "tok_id": 75146}
+{"beat": 3, "tok_step": 116, "t_ms": 21913, "entropy": 0.268878, "top1": 0.945894, "top5": 0.9979, "act_norm": 30.855107, "act_std": 0.681761, "token": "于", "tok_id": 35304}
+{"beat": 3, "tok_step": 117, "t_ms": 21914, "entropy": 3.636256, "top1": 0.202678, "top5": 0.53476, "act_norm": 31.884334, "act_std": 0.704249, "token": "前", "tok_id": 25580}
+{"beat": 3, "tok_step": 118, "t_ms": 21914, "entropy": 4.602071, "top1": 0.263678, "top5": 0.506463, "act_norm": 30.420479, "act_std": 0.672336, "token": "经", "tok_id": 54493}
+{"beat": 3, "tok_step": 119, "t_ms": 21914, "entropy": 0.39721, "top1": 0.896641, "top5": 0.995113, "act_norm": 29.853984, "act_std": 0.659826, "token": "验", "tok_id": 42462}
+{"beat": 3, "tok_step": 120, "t_ms": 21915, "entropy": 1.095237, "top1": 0.824364, "top5": 0.913626, "act_norm": 30.862561, "act_std": 0.68168, "token": "的", "tok_id": 9554}
+{"beat": 3, "tok_step": 121, "t_ms": 21915, "entropy": 2.981038, "top1": 0.357685, "top5": 0.669356, "act_norm": 31.324869, "act_std": 0.691815, "token": "选择", "tok_id": 51504}
+{"beat": 3, "tok_step": 122, "t_ms": 21915, "entropy": 0.521402, "top1": 0.885755, "top5": 0.986348, "act_norm": 33.446931, "act_std": 0.738403, "token": "，", "tok_id": 3922}
+{"beat": 3, "tok_step": 123, "t_ms": 21916, "entropy": 0.092682, "top1": 0.989807, "top5": 0.994756, "act_norm": 30.841036, "act_std": 0.681578, "token": "但", "tok_id": 78388}
+{"beat": 3, "tok_step": 124, "t_ms": 21916, "entropy": 4.014627, "top1": 0.10775, "top5": 0.371188, "act_norm": 34.0516, "act_std": 0.752564, "token": "关", "tok_id": 30356}
+{"beat": 3, "tok_step": 125, "t_ms": 21917, "entropy": 0.612272, "top1": 0.79493, "top5": 0.995801, "act_norm": 29.796872, "act_std": 0.658579, "token": "键", "tok_id": 62049}
+{"beat": 3, "tok_step": 126, "t_ms": 21917, "entropy": 2.047338, "top1": 0.39847, "top5": 0.854101, "act_norm": 34.020741, "act_std": 0.751753, "token": "在", "tok_id": 19000}
+{"beat": 3, "tok_step": 127, "t_ms": 21917, "entropy": 0.010412, "top1": 0.998862, "top5": 0.999868, "act_norm": 28.198213, "act_std": 0.623214, "token": "于", "tok_id": 35304}
+{"beat": 4, "tok_step": 0, "t_ms": 26074, "entropy": 3.035835, "top1": 0.21966, "top5": 0.733087, "act_norm": 34.130795, "act_std": 0.754003, "token": "面", "tok_id": 28190}
+{"beat": 4, "tok_step": 1, "t_ms": 26074, "entropy": 0.804511, "top1": 0.825419, "top5": 0.973039, "act_norm": 29.679646, "act_std": 0.655939, "token": "对", "tok_id": 33764}
+{"beat": 4, "tok_step": 2, "t_ms": 26075, "entropy": 0.560607, "top1": 0.921368, "top5": 0.964884, "act_norm": 32.669587, "act_std": 0.721759, "token": "这", "tok_id": 44388}
+{"beat": 4, "tok_step": 3, "t_ms": 26075, "entropy": 0.55921, "top1": 0.887144, "top5": 0.9857, "act_norm": 30.539683, "act_std": 0.674756, "token": "个", "tok_id": 19483}
+{"beat": 4, "tok_step": 4, "t_ms": 26076, "entropy": 1.862826, "top1": 0.711317, "top5": 0.815335, "act_norm": 31.794357, "act_std": 0.702653, "token": "自", "tok_id": 37026}
+{"beat": 4, "tok_step": 5, "t_ms": 26076, "entropy": 0.044275, "top1": 0.995848, "top5": 0.99817, "act_norm": 30.120492, "act_std": 0.6655, "token": "由", "tok_id": 68171}
+{"beat": 4, "tok_step": 6, "t_ms": 26076, "entropy": 0.299045, "top1": 0.952771, "top5": 0.986601, "act_norm": 29.773975, "act_std": 0.658036, "token": "问题", "tok_id": 87219}
+{"beat": 4, "tok_step": 7, "t_ms": 26077, "entropy": 1.096756, "top1": 0.71997, "top5": 0.964259, "act_norm": 32.792013, "act_std": 0.724669, "token": "时", "tok_id": 13646}
+{"beat": 4, "tok_step": 8, "t_ms": 26077, "entropy": 0.311252, "top1": 0.942505, "top5": 0.991697, "act_norm": 30.444975, "act_std": 0.672892, "token": "，", "tok_id": 3922}
+{"beat": 4, "tok_step": 9, "t_ms": 26077, "entropy": 2.329816, "top1": 0.29432, "top5": 0.81829, "act_norm": 33.81684, "act_std": 0.747307, "token": "我的", "tok_id": 98711}
+{"beat": 4, "tok_step": 10, "t_ms": 26077, "entropy": 3.542326, "top1": 0.225458, "top5": 0.576351, "act_norm": 30.397314, "act_std": 0.671619, "token": "真", "tok_id": 89151}
+{"beat": 4, "tok_step": 11, "t_ms": 26078, "entropy": 0.505868, "top1": 0.903744, "top5": 0.984695, "act_norm": 30.736083, "act_std": 0.679067, "token": "实", "tok_id": 41073}
+{"beat": 4, "tok_step": 12, "t_ms": 26078, "entropy": 0.385908, "top1": 0.946161, "top5": 0.976919, "act_norm": 30.374159, "act_std": 0.671105, "token": "�", "tok_id": 33565}
+{"beat": 4, "tok_step": 13, "t_ms": 26079, "entropy": 0.000118, "top1": 0.999994, "top5": 0.999997, "act_norm": 27.450599, "act_std": 0.606714, "token": "�", "tok_id": 111}
+{"beat": 4, "tok_step": 14, "t_ms": 26079, "entropy": 0.052929, "top1": 0.994662, "top5": 0.997679, "act_norm": 29.235012, "act_std": 0.646047, "token": "法", "tok_id": 25333}
+{"beat": 4, "tok_step": 15, "t_ms": 26080, "entropy": 3.341953, "top1": 0.352481, "top5": 0.580489, "act_norm": 32.793998, "act_std": 0.724435, "token": "是", "tok_id": 21043}
+{"beat": 4, "tok_step": 16, "t_ms": 26080, "entropy": 4.04873, "top1": 0.300835, "top5": 0.451168, "act_norm": 32.977951, "act_std": 0.728595, "token": "�", "tok_id": 15308}
+{"beat": 4, "tok_step": 17, "t_ms": 26081, "entropy": 0.012084, "top1": 0.998728, "top5": 0.999878, "act_norm": 27.302432, "act_std": 0.603383, "token": "�", "tok_id": 117}
+{"beat": 4, "tok_step": 18, "t_ms": 26081, "entropy": 0.03195, "top1": 0.996965, "top5": 0.998835, "act_norm": 26.682047, "act_std": 0.589677, "token": "据", "tok_id": 16423}
+{"beat": 4, "tok_step": 19, "t_ms": 26081, "entropy": 3.436324, "top1": 0.323916, "top5": 0.528031, "act_norm": 33.894316, "act_std": 0.749128, "token": "以下", "tok_id": 88852}
+{"beat": 4, "tok_step": 20, "t_ms": 26082, "entropy": 1.36475, "top1": 0.739411, "top5": 0.914672, "act_norm": 31.08481, "act_std": 0.686881, "token": "因", "tok_id": 63212}
+{"beat": 4, "tok_step": 21, "t_ms": 26082, "entropy": 0.001646, "top1": 0.999868, "top5": 0.999972, "act_norm": 30.360556, "act_std": 0.670989, "token": "素", "tok_id": 72238}
+{"beat": 4, "tok_step": 22, "t_ms": 26082, "entropy": 2.214893, "top1": 0.553227, "top5": 0.799491, "act_norm": 32.889683, "act_std": 0.726814, "token": "来", "tok_id": 37507}
+{"beat": 4, "tok_step": 23, "t_ms": 26083, "entropy": 1.583521, "top1": 0.726376, "top5": 0.8488, "act_norm": 31.576345, "act_std": 0.697809, "token": "�", "tok_id": 13828}
+{"beat": 4, "tok_step": 24, "t_ms": 26083, "entropy": 0.001087, "top1": 0.99993, "top5": 0.999969, "act_norm": 27.357669, "act_std": 0.604629, "token": "�", "tok_id": 111}
+{"beat": 4, "tok_step": 25, "t_ms": 26084, "entropy": 0.173202, "top1": 0.961874, "top5": 0.999344, "act_norm": 31.194645, "act_std": 0.689391, "token": "定", "tok_id": 23187}
+{"beat": 4, "tok_step": 26, "t_ms": 26084, "entropy": 1.540436, "top1": 0.658004, "top5": 0.89451, "act_norm": 32.251387, "act_std": 0.712823, "token": "：\n\n", "tok_id": 49543}
+{"beat": 4, "tok_step": 27, "t_ms": 26084, "entropy": 1.566934, "top1": 0.648236, "top5": 0.905959, "act_norm": 32.665397, "act_std": 0.721653, "token": "1", "tok_id": 16}
+{"beat": 4, "tok_step": 28, "t_ms": 26085, "entropy": 0.018313, "top1": 0.997774, "top5": 0.999855, "act_norm": 30.537216, "act_std": 0.674773, "token": ".", "tok_id": 13}
+{"beat": 4, "tok_step": 29, "t_ms": 26085, "entropy": 0.464768, "top1": 0.934721, "top5": 0.968906, "act_norm": 31.338022, "act_std": 0.692597, "token": " **", "tok_id": 3146}
+{"beat": 4, "tok_step": 30, "t_ms": 26086, "entropy": 4.824797, "top1": 0.105943, "top5": 0.314301, "act_norm": 28.791655, "act_std": 0.636153, "token": "�", "tok_id": 163}
+{"beat": 4, "tok_step": 31, "t_ms": 26086, "entropy": 1.750764, "top1": 0.295827, "top5": 0.949048, "act_norm": 26.294227, "act_std": 0.580846, "token": "�", "tok_id": 228}
+{"beat": 4, "tok_step": 32, "t_ms": 26086, "entropy": 0.035602, "top1": 0.996321, "top5": 0.999038, "act_norm": 28.773857, "act_std": 0.635895, "token": "�", "tok_id": 253}
+{"beat": 4, "tok_step": 33, "t_ms": 26087, "entropy": 0.097944, "top1": 0.983818, "top5": 0.999195, "act_norm": 31.015052, "act_std": 0.685116, "token": "�", "tok_id": 162}
+{"beat": 4, "tok_step": 34, "t_ms": 26087, "entropy": 0.019395, "top1": 0.998589, "top5": 0.999156, "act_norm": 26.162327, "act_std": 0.577943, "token": "�", "tok_id": 224}
+{"beat": 4, "tok_step": 35, "t_ms": 26087, "entropy": 0.003052, "top1": 0.999798, "top5": 0.99985, "act_norm": 27.2173, "act_std": 0.601505, "token": "�", "tok_id": 231}
+{"beat": 4, "tok_step": 36, "t_ms": 26089, "entropy": 2.605051, "top1": 0.345791, "top5": 0.785127, "act_norm": 31.598977, "act_std": 0.698107, "token": "的", "tok_id": 9554}
+{"beat": 4, "tok_step": 37, "t_ms": 26089, "entropy": 3.748702, "top1": 0.291885, "top5": 0.557318, "act_norm": 30.781861, "act_std": 0.679999, "token": "活", "tok_id": 76706}
+{"beat": 4, "tok_step": 38, "t_ms": 26090, "entropy": 0.222913, "top1": 0.971595, "top5": 0.991586, "act_norm": 29.805535, "act_std": 0.658442, "token": "动", "tok_id": 28833}
+{"beat": 4, "tok_step": 39, "t_ms": 26090, "entropy": 2.90903, "top1": 0.322543, "top5": 0.685517, "act_norm": 33.085212, "act_std": 0.731103, "token": "：", "tok_id": 5232}
+{"beat": 4, "tok_step": 40, "t_ms": 26091, "entropy": 0.047868, "top1": 0.99504, "top5": 0.998102, "act_norm": 30.728856, "act_std": 0.678945, "token": "**", "tok_id": 334}
+{"beat": 4, "tok_step": 41, "t_ms": 26091, "entropy": 2.687204, "top1": 0.443819, "top5": 0.757663, "act_norm": 32.814953, "act_std": 0.725261, "token": " �", "tok_id": 50534}
+{"beat": 4, "tok_step": 42, "t_ms": 26091, "entropy": 0.001184, "top1": 0.999926, "top5": 0.999958, "act_norm": 24.937244, "act_std": 0.550605, "token": "�", "tok_id": 239}
+{"beat": 4, "tok_step": 43, "t_ms": 26092, "entropy": 2.64326, "top1": 0.397846, "top5": 0.734755, "act_norm": 33.307428, "act_std": 0.736073, "token": "会", "tok_id": 38093}
+{"beat": 4, "tok_step": 44, "t_ms": 26092, "entropy": 1.839364, "top1": 0.634866, "top5": 0.844815, "act_norm": 33.125295, "act_std": 0.731885, "token": "选择", "tok_id": 51504}
+{"beat": 4, "tok_step": 45, "t_ms": 26093, "entropy": 3.08853, "top1": 0.336781, "top5": 0.68775, "act_norm": 33.668239, "act_std": 0.743893, "token": "基", "tok_id": 75146}
+{"beat": 4, "tok_step": 46, "t_ms": 26093, "entropy": 0.023087, "top1": 0.997087, "top5": 0.999696, "act_norm": 29.688387, "act_std": 0.655868, "token": "于", "tok_id": 35304}
+{"beat": 4, "tok_step": 47, "t_ms": 26093, "entropy": 3.522505, "top1": 0.179426, "top5": 0.527751, "act_norm": 33.866904, "act_std": 0.748237, "token": "自", "tok_id": 37026}
+{"beat": 4, "tok_step": 48, "t_ms": 26094, "entropy": 0.833137, "top1": 0.774946, "top5": 0.984816, "act_norm": 31.280051, "act_std": 0.691358, "token": "�", "tok_id": 17597}
+{"beat": 4, "tok_step": 49, "t_ms": 26095, "entropy": 0.000359, "top1": 0.99998, "top5": 0.999987, "act_norm": 25.284435, "act_std": 0.558165, "token": "�", "tok_id": 109}
+{"beat": 4, "tok_step": 50, "t_ms": 26095, "entropy": 3.111564, "top1": 0.209497, "top5": 0.617516, "act_norm": 32.684262, "act_std": 0.721967, "token": "之", "tok_id": 55030}
+{"beat": 4, "tok_step": 51, "t_ms": 26096, "entropy": 0.286364, "top1": 0.967604, "top5": 0.983391, "act_norm": 29.067725, "act_std": 0.641842, "token": "前", "tok_id": 25580}
+{"beat": 4, "tok_step": 52, "t_ms": 26096, "entropy": 2.812645, "top1": 0.389466, "top5": 0.71357, "act_norm": 32.540476, "act_std": 0.718825, "token": "通过", "tok_id": 68438}
+{"beat": 4, "tok_step": 53, "t_ms": 26096, "entropy": 2.245609, "top1": 0.605319, "top5": 0.774104, "act_norm": 31.649261, "act_std": 0.699146, "token": "学", "tok_id": 48864}
+{"beat": 4, "tok_step": 54, "t_ms": 26097, "entropy": 0.026636, "top1": 0.997399, "top5": 0.999135, "act_norm": 31.449235, "act_std": 0.695058, "token": "�", "tok_id": 18259}
+{"beat": 4, "tok_step": 55, "t_ms": 26097, "entropy": 0.000193, "top1": 0.999988, "top5": 0.999996, "act_norm": 27.111377, "act_std": 0.598671, "token": "�", "tok_id": 254}
+{"beat": 4, "tok_step": 56, "t_ms": 26097, "entropy": 2.15913, "top1": 0.520818, "top5": 0.82666, "act_norm": 31.864754, "act_std": 0.703668, "token": "和", "tok_id": 34208}
+{"beat": 4, "tok_step": 57, "t_ms": 26097, "entropy": 2.937213, "top1": 0.34815, "top5": 0.666196, "act_norm": 32.072398, "act_std": 0.708512, "token": "实", "tok_id": 41073}
+{"beat": 4, "tok_step": 58, "t_ms": 26099, "entropy": 0.182955, "top1": 0.966701, "top5": 0.998158, "act_norm": 29.931741, "act_std": 0.661531, "token": "�", "tok_id": 36596}
+{"beat": 4, "tok_step": 59, "t_ms": 26099, "entropy": 0.012785, "top1": 0.998793, "top5": 0.999633, "act_norm": 27.864761, "act_std": 0.61576, "token": "�", "tok_id": 113}
+{"beat": 4, "tok_step": 60, "t_ms": 26099, "entropy": 3.212235, "top1": 0.290077, "top5": 0.620035, "act_norm": 29.67064, "act_std": 0.655402, "token": "的", "tok_id": 9554}
+{"beat": 4, "tok_step": 61, "t_ms": 26099, "entropy": 1.244449, "top1": 0.782852, "top5": 0.900772, "act_norm": 27.508829, "act_std": 0.607564, "token": "知", "tok_id": 53283}
+{"beat": 4, "tok_step": 62, "t_ms": 26100, "entropy": 0.158623, "top1": 0.987001, "top5": 0.990606, "act_norm": 28.905986, "act_std": 0.638676, "token": "�", "tok_id": 6744}
+{"beat": 4, "tok_step": 63, "t_ms": 26100, "entropy": 0.000586, "top1": 0.999965, "top5": 0.999976, "act_norm": 26.016761, "act_std": 0.574878, "token": "�", "tok_id": 228}
+{"beat": 4, "tok_step": 64, "t_ms": 26101, "entropy": 2.863357, "top1": 0.372129, "top5": 0.723148, "act_norm": 32.644741, "act_std": 0.721171, "token": "来", "tok_id": 37507}
+{"beat": 4, "tok_step": 65, "t_ms": 26101, "entropy": 2.737813, "top1": 0.412581, "top5": 0.726595, "act_norm": 30.777394, "act_std": 0.679824, "token": "�", "tok_id": 49691}
+{"beat": 4, "tok_step": 66, "t_ms": 26101, "entropy": 0.005261, "top1": 0.999629, "top5": 0.999795, "act_norm": 27.342738, "act_std": 0.604319, "token": "�", "tok_id": 248}
+{"beat": 4, "tok_step": 67, "t_ms": 26102, "entropy": 2.164785, "top1": 0.545785, "top5": 0.80628, "act_norm": 31.650854, "act_std": 0.699539, "token": "一", "tok_id": 15120}
+{"beat": 4, "tok_step": 68, "t_ms": 26102, "entropy": 1.179004, "top1": 0.455731, "top5": 0.97852, "act_norm": 30.616406, "act_std": 0.676599, "token": "件", "tok_id": 14558}
+{"beat": 4, "tok_step": 69, "t_ms": 26103, "entropy": 1.677688, "top1": 0.668813, "top5": 0.866845, "act_norm": 31.611347, "act_std": 0.698553, "token": "事", "tok_id": 30926}
+{"beat": 4, "tok_step": 70, "t_ms": 26103, "entropy": 0.386024, "top1": 0.940211, "top5": 0.985108, "act_norm": 31.538449, "act_std": 0.69701, "token": "情", "tok_id": 40474}
+{"beat": 4, "tok_step": 71, "t_ms": 26103, "entropy": 1.355465, "top1": 0.429809, "top5": 0.994116, "act_norm": 32.080862, "act_std": 0.709001, "token": "，", "tok_id": 3922}
+{"beat": 4, "tok_step": 72, "t_ms": 26104, "entropy": 2.556735, "top1": 0.288341, "top5": 0.765718, "act_norm": 33.422894, "act_std": 0.738398, "token": "以", "tok_id": 23897}
+{"beat": 4, "tok_step": 73, "t_ms": 26104, "entropy": 2.370493, "top1": 0.336006, "top5": 0.832748, "act_norm": 30.874713, "act_std": 0.682385, "token": "增", "tok_id": 50285}
+{"beat": 4, "tok_step": 74, "t_ms": 26104, "entropy": 0.447774, "top1": 0.886367, "top5": 0.998217, "act_norm": 28.553977, "act_std": 0.63105, "token": "加", "tok_id": 21601}
+{"beat": 4, "tok_step": 75, "t_ms": 26105, "entropy": 3.339192, "top1": 0.172654, "top5": 0.607538, "act_norm": 32.476799, "act_std": 0.717529, "token": "自", "tok_id": 37026}
+{"beat": 4, "tok_step": 76, "t_ms": 26106, "entropy": 1.111425, "top1": 0.650678, "top5": 0.982163, "act_norm": 30.802558, "act_std": 0.680759, "token": "�", "tok_id": 17597}
+{"beat": 4, "tok_step": 77, "t_ms": 26107, "entropy": 0.001191, "top1": 0.999921, "top5": 0.999964, "act_norm": 24.337018, "act_std": 0.537136, "token": "�", "tok_id": 109}
+{"beat": 4, "tok_step": 78, "t_ms": 26107, "entropy": 1.628605, "top1": 0.671008, "top5": 0.882149, "act_norm": 28.342812, "act_std": 0.625942, "token": "的", "tok_id": 9554}
+{"beat": 4, "tok_step": 79, "t_ms": 26107, "entropy": 3.829969, "top1": 0.173261, "top5": 0.497412, "act_norm": 31.442767, "act_std": 0.694739, "token": "能", "tok_id": 27327}
+{"beat": 4, "tok_step": 80, "t_ms": 26108, "entropy": 0.108774, "top1": 0.986939, "top5": 0.996081, "act_norm": 28.672989, "act_std": 0.633614, "token": "力", "tok_id": 48634}
+{"beat": 4, "tok_step": 81, "t_ms": 26108, "entropy": 1.520849, "top1": 0.655017, "top5": 0.882674, "act_norm": 32.345996, "act_std": 0.714336, "token": "。\n\n", "tok_id": 3490}
+{"beat": 4, "tok_step": 82, "t_ms": 26108, "entropy": 0.006565, "top1": 0.999435, "top5": 0.999768, "act_norm": 29.99139, "act_std": 0.662556, "token": "2", "tok_id": 17}
+{"beat": 4, "tok_step": 83, "t_ms": 26110, "entropy": 5.6e-05, "top1": 0.999997, "top5": 0.999999, "act_norm": 27.427251, "act_std": 0.605991, "token": ".", "tok_id": 13}
+{"beat": 4, "tok_step": 84, "t_ms": 26110, "entropy": 0.00015, "top1": 0.999991, "top5": 0.999997, "act_norm": 27.351077, "act_std": 0.604403, "token": " **", "tok_id": 3146}
+{"beat": 4, "tok_step": 85, "t_ms": 26110, "entropy": 4.543836, "top1": 0.071298, "top5": 0.282024, "act_norm": 30.478508, "act_std": 0.673326, "token": "�", "tok_id": 27869}
+{"beat": 4, "tok_step": 86, "t_ms": 26110, "entropy": 0.02468, "top1": 0.996799, "top5": 0.999764, "act_norm": 28.117601, "act_std": 0.621397, "token": "�", "tok_id": 100}
+{"beat": 4, "tok_step": 87, "t_ms": 26111, "entropy": 1.094114, "top1": 0.785049, "top5": 0.946445, "act_norm": 30.107182, "act_std": 0.665228, "token": "�", "tok_id": 10287}
+{"beat": 4, "tok_step": 88, "t_ms": 26111, "entropy": 1.251397, "top1": 0.495447, "top5": 0.972991, "act_norm": 28.694573, "act_std": 0.634082, "token": "�", "tok_id": 104}
+{"beat": 4, "tok_step": 89, "t_ms": 26111, "entropy": 2.322285, "top1": 0.424492, "top5": 0.816957, "act_norm": 32.659058, "act_std": 0.721437, "token": "需", "tok_id": 59462}
+{"beat": 4, "tok_step": 90, "t_ms": 26112, "entropy": 0.044581, "top1": 0.996527, "top5": 0.99732, "act_norm": 29.371088, "act_std": 0.649011, "token": "求", "tok_id": 32018}
+{"beat": 4, "tok_step": 91, "t_ms": 26112, "entropy": 0.315676, "top1": 0.945181, "top5": 0.98921, "act_norm": 33.012219, "act_std": 0.729404, "token": "：", "tok_id": 5232}
+{"beat": 4, "tok_step": 92, "t_ms": 26113, "entropy": 0.003519, "top1": 0.999669, "top5": 0.999967, "act_norm": 28.774204, "act_std": 0.635799, "token": "**", "tok_id": 334}
+{"beat": 4, "tok_step": 93, "t_ms": 26113, "entropy": 0.372138, "top1": 0.945575, "top5": 0.976411, "act_norm": 33.485871, "act_std": 0.740075, "token": " 如果", "tok_id": 82363}
+{"beat": 4, "tok_step": 94, "t_ms": 26113, "entropy": 1.825196, "top1": 0.736833, "top5": 0.805642, "act_norm": 33.902709, "act_std": 0.749313, "token": "问题", "tok_id": 87219}
+{"beat": 4, "tok_step": 95, "t_ms": 26114, "entropy": 3.777946, "top1": 0.140293, "top5": 0.470844, "act_norm": 34.589562, "act_std": 0.76428, "token": "是", "tok_id": 21043}
+{"beat": 4, "tok_step": 96, "t_ms": 26114, "entropy": 4.147362, "top1": 0.157819, "top5": 0.410159, "act_norm": 33.72166, "act_std": 0.74509, "token": "对", "tok_id": 33764}
+{"beat": 4, "tok_step": 97, "t_ms": 26115, "entropy": 3.059741, "top1": 0.323203, "top5": 0.697279, "act_norm": 29.628676, "act_std": 0.654812, "token": "我", "tok_id": 37046}
+{"beat": 4, "tok_step": 98, "t_ms": 26115, "entropy": 3.574592, "top1": 0.313981, "top5": 0.561482, "act_norm": 33.294033, "act_std": 0.735853, "token": "已", "tok_id": 37767}
+{"beat": 4, "tok_step": 99, "t_ms": 26115, "entropy": 1.032138, "top1": 0.778989, "top5": 0.953707, "act_norm": 32.301957, "act_std": 0.713599, "token": "知", "tok_id": 53283}
+{"beat": 4, "tok_step": 100, "t_ms": 26116, "entropy": 2.249717, "top1": 0.461208, "top5": 0.805232, "act_norm": 32.257745, "act_std": 0.712439, "token": "内容", "tok_id": 44915}
+{"beat": 4, "tok_step": 101, "t_ms": 26116, "entropy": 3.431884, "top1": 0.170726, "top5": 0.590921, "act_norm": 34.834932, "act_std": 0.769502, "token": "有", "tok_id": 19361}
+{"beat": 4, "tok_step": 102, "t_ms": 26117, "entropy": 3.915358, "top1": 0.215189, "top5": 0.48711, "act_norm": 32.525679, "act_std": 0.718648, "token": "一", "tok_id": 15120}
+{"beat": 4, "tok_step": 103, "t_ms": 26117, "entropy": 1.857863, "top1": 0.2883, "top5": 0.934677, "act_norm": 29.878024, "act_std": 0.660207, "token": "些", "tok_id": 98184}
+{"beat": 4, "tok_step": 104, "t_ms": 26117, "entropy": 4.25969, "top1": 0.104469, "top5": 0.370797, "act_norm": 31.425451, "act_std": 0.694049, "token": "理", "tok_id": 22649}
+{"beat": 4, "tok_step": 105, "t_ms": 26118, "entropy": 0.013142, "top1": 0.998788, "top5": 0.999632, "act_norm": 30.979003, "act_std": 0.684103, "token": "解", "tok_id": 50338}
+{"beat": 4, "tok_step": 106, "t_ms": 26118, "entropy": 1.801027, "top1": 0.406968, "top5": 0.886796, "act_norm": 33.816249, "act_std": 0.746868, "token": "的", "tok_id": 9554}
+{"beat": 4, "tok_step": 107, "t_ms": 26119, "entropy": 1.868906, "top1": 0.671334, "top5": 0.814787, "act_norm": 27.899297, "act_std": 0.616271, "token": "，", "tok_id": 3922}
+{"beat": 4, "tok_step": 108, "t_ms": 26119, "entropy": 2.260379, "top1": 0.365426, "top5": 0.804612, "act_norm": 32.38107, "act_std": 0.715589, "token": "而", "tok_id": 69636}
+{"beat": 4, "tok_step": 109, "t_ms": 26120, "entropy": 0.781841, "top1": 0.855337, "top5": 0.958904, "act_norm": 29.068836, "act_std": 0.642393, "token": "�", "tok_id": 3574}
+{"beat": 4, "tok_step": 110, "t_ms": 26120, "entropy": 0.0004, "top1": 0.999969, "top5": 0.999997, "act_norm": 25.669654, "act_std": 0.567165, "token": "�", "tok_id": 242}
+{"beat": 4, "tok_step": 111, "t_ms": 26121, "entropy": 3.198925, "top1": 0.355233, "top5": 0.640062, "act_norm": 33.604667, "act_std": 0.74252, "token": "�", "tok_id": 27869}
+{"beat": 4, "tok_step": 112, "t_ms": 26121, "entropy": 0.000527, "top1": 0.999958, "top5": 0.999996, "act_norm": 28.151793, "act_std": 0.621866, "token": "�", "tok_id": 100}
+{"beat": 4, "tok_step": 113, "t_ms": 26122, "entropy": 0.510058, "top1": 0.893071, "top5": 0.984707, "act_norm": 29.783303, "act_std": 0.657945, "token": "�", "tok_id": 10287}
+{"beat": 4, "tok_step": 114, "t_ms": 26123, "entropy": 0.026727, "top1": 0.998083, "top5": 0.998694, "act_norm": 29.479491, "act_std": 0.651357, "token": "�", "tok_id": 104}
+{"beat": 4, "tok_step": 115, "t_ms": 26123, "entropy": 2.085374, "top1": 0.377239, "top5": 0.828982, "act_norm": 32.169467, "act_std": 0.710553, "token": "的", "tok_id": 9554}
+{"beat": 4, "tok_step": 116, "t_ms": 26124, "entropy": 2.18467, "top1": 0.37052, "top5": 0.838897, "act_norm": 29.418316, "act_std": 0.649913, "token": "时", "tok_id": 13646}
+{"beat": 4, "tok_step": 117, "t_ms": 26124, "entropy": 1.328452, "top1": 0.718918, "top5": 0.946804, "act_norm": 29.696116, "act_std": 0.656307, "token": "�", "tok_id": 6701}
+{"beat": 4, "tok_step": 118, "t_ms": 26124, "entropy": 0.002389, "top1": 0.999782, "top5": 0.999976, "act_norm": 29.539757, "act_std": 0.652561, "token": "�", "tok_id": 119}
+{"beat": 4, "tok_step": 119, "t_ms": 26125, "entropy": 3.498751, "top1": 0.435546, "top5": 0.618294, "act_norm": 34.222854, "act_std": 0.756268, "token": "，", "tok_id": 3922}
+{"beat": 4, "tok_step": 120, "t_ms": 26125, "entropy": 1.19181, "top1": 0.675265, "top5": 0.949814, "act_norm": 32.485635, "act_std": 0.717943, "token": "我", "tok_id": 37046}
+{"beat": 4, "tok_step": 121, "t_ms": 26126, "entropy": 0.938058, "top1": 0.577975, "top5": 0.978446, "act_norm": 32.362973, "act_std": 0.715168, "token": "可能", "tok_id": 88367}
+{"beat": 4, "tok_step": 122, "t_ms": 26126, "entropy": 0.539494, "top1": 0.903871, "top5": 0.971292, "act_norm": 34.243074, "act_std": 0.756811, "token": "选择", "tok_id": 51504}
+{"beat": 4, "tok_step": 123, "t_ms": 26127, "entropy": 4.009238, "top1": 0.118273, "top5": 0.402418, "act_norm": 35.128481, "act_std": 0.776194, "token": "�", "tok_id": 26203}
+{"beat": 4, "tok_step": 124, "t_ms": 26127, "entropy": 0.147442, "top1": 0.974914, "top5": 0.998345, "act_norm": 28.099225, "act_std": 0.620987, "token": "�", "tok_id": 104}
+{"beat": 4, "tok_step": 125, "t_ms": 26127, "entropy": 0.056078, "top1": 0.994353, "top5": 0.997223, "act_norm": 30.749411, "act_std": 0.679161, "token": "速", "tok_id": 95399}
+{"beat": 4, "tok_step": 126, "t_ms": 26128, "entropy": 2.534968, "top1": 0.426497, "top5": 0.736269, "act_norm": 33.494204, "act_std": 0.739215, "token": "提", "tok_id": 29172}
+{"beat": 4, "tok_step": 127, "t_ms": 26128, "entropy": 0.083277, "top1": 0.989624, "top5": 0.997439, "act_norm": 31.194274, "act_std": 0.688938, "token": "供", "tok_id": 84844}
+{"beat": 5, "tok_step": 0, "t_ms": 30575, "entropy": 3.205979, "top1": 0.29971, "top5": 0.619087, "act_norm": 32.469483, "act_std": 0.717321, "token": "回", "tok_id": 18904}
+{"beat": 5, "tok_step": 1, "t_ms": 30575, "entropy": 2.069075, "top1": 0.471322, "top5": 0.848817, "act_norm": 30.444763, "act_std": 0.672835, "token": "�", "tok_id": 14167}
+{"beat": 5, "tok_step": 2, "t_ms": 30576, "entropy": 0.038849, "top1": 0.995342, "top5": 0.999359, "act_norm": 27.221458, "act_std": 0.601654, "token": "�", "tok_id": 122}
+{"beat": 5, "tok_step": 3, "t_ms": 30576, "entropy": 1.71207, "top1": 0.62285, "top5": 0.869185, "act_norm": 32.963717, "act_std": 0.728479, "token": "这", "tok_id": 44388}
+{"beat": 5, "tok_step": 4, "t_ms": 30576, "entropy": 1.527117, "top1": 0.571625, "top5": 0.920338, "act_norm": 30.024913, "act_std": 0.663279, "token": "次", "tok_id": 33671}
+{"beat": 5, "tok_step": 5, "t_ms": 30577, "entropy": 2.587071, "top1": 0.324028, "top5": 0.789574, "act_norm": 29.285741, "act_std": 0.646982, "token": "的", "tok_id": 9554}
+{"beat": 5, "tok_step": 6, "t_ms": 30577, "entropy": 1.649166, "top1": 0.451384, "top5": 0.892677, "act_norm": 29.945456, "act_std": 0.661745, "token": "五", "tok_id": 76208}
+{"beat": 5, "tok_step": 7, "t_ms": 30577, "entropy": 0.172376, "top1": 0.976412, "top5": 0.993226, "act_norm": 28.655219, "act_std": 0.633281, "token": "�", "tok_id": 15568}
+{"beat": 5, "tok_step": 8, "t_ms": 30579, "entropy": 0.001626, "top1": 0.999879, "top5": 0.999954, "act_norm": 24.570585, "act_std": 0.543058, "token": "�", "tok_id": 106}
+{"beat": 5, "tok_step": 9, "t_ms": 30579, "entropy": 0.572839, "top1": 0.887581, "top5": 0.976682, "act_norm": 30.98235, "act_std": 0.684779, "token": "对", "tok_id": 33764}
+{"beat": 5, "tok_step": 10, "t_ms": 30579, "entropy": 0.002737, "top1": 0.99981, "top5": 0.999894, "act_norm": 27.771214, "act_std": 0.613787, "token": "话", "tok_id": 58543}
+{"beat": 5, "tok_step": 11, "t_ms": 30580, "entropy": 1.241791, "top1": 0.745668, "top5": 0.916217, "act_norm": 33.457036, "act_std": 0.739211, "token": "，", "tok_id": 3922}
+{"beat": 5, "tok_step": 12, "t_ms": 30580, "entropy": 2.543953, "top1": 0.459665, "top5": 0.756906, "act_norm": 34.302689, "act_std": 0.758003, "token": "我", "tok_id": 37046}
+{"beat": 5, "tok_step": 13, "t_ms": 30580, "entropy": 3.864773, "top1": 0.157536, "top5": 0.459269, "act_norm": 33.033024, "act_std": 0.72989, "token": "�", "tok_id": 49691}
+{"beat": 5, "tok_step": 14, "t_ms": 30581, "entropy": 0.127179, "top1": 0.976088, "top5": 0.99932, "act_norm": 28.227164, "act_std": 0.623824, "token": "�", "tok_id": 248}
+{"beat": 5, "tok_step": 15, "t_ms": 30581, "entropy": 1.524515, "top1": 0.500178, "top5": 0.950567, "act_norm": 30.295261, "act_std": 0.669567, "token": "了", "tok_id": 35287}
+{"beat": 5, "tok_step": 16, "t_ms": 30582, "entropy": 0.937397, "top1": 0.842532, "top5": 0.94437, "act_norm": 32.287825, "act_std": 0.713604, "token": "以下", "tok_id": 88852}
+{"beat": 5, "tok_step": 17, "t_ms": 30582, "entropy": 1.999761, "top1": 0.575508, "top5": 0.841003, "act_norm": 31.699709, "act_std": 0.700625, "token": "�", "tok_id": 12870}
+{"beat": 5, "tok_step": 18, "t_ms": 30582, "entropy": 0.057956, "top1": 0.992776, "top5": 0.998919, "act_norm": 25.93977, "act_std": 0.573301, "token": "�", "tok_id": 254}
+{"beat": 5, "tok_step": 19, "t_ms": 30583, "entropy": 0.659609, "top1": 0.870763, "top5": 0.976074, "act_norm": 30.676187, "act_std": 0.677998, "token": "点", "tok_id": 28542}
+{"beat": 5, "tok_step": 20, "t_ms": 30583, "entropy": 3.364959, "top1": 0.272043, "top5": 0.635897, "act_norm": 32.714071, "act_std": 0.722965, "token": "修改", "tok_id": 26239}
+{"beat": 5, "tok_step": 21, "t_ms": 30584, "entropy": 1.228588, "top1": 0.596264, "top5": 0.949041, "act_norm": 33.730337, "act_std": 0.745371, "token": "和", "tok_id": 34208}
+{"beat": 5, "tok_step": 22, "t_ms": 30584, "entropy": 3.951617, "top1": 0.191877, "top5": 0.398411, "act_norm": 30.754088, "act_std": 0.679537, "token": "�", "tok_id": 85315}
+{"beat": 5, "tok_step": 23, "t_ms": 30584, "entropy": 0.012084, "top1": 0.998959, "top5": 0.999582, "act_norm": 28.982675, "act_std": 0.640478, "token": "�", "tok_id": 109}
+{"beat": 5, "tok_step": 24, "t_ms": 30585, "entropy": 1.599652, "top1": 0.617633, "top5": 0.926415, "act_norm": 32.271447, "act_std": 0.713263, "token": "入", "tok_id": 17701}
+{"beat": 5, "tok_step": 25, "t_ms": 30585, "entropy": 2.562042, "top1": 0.241077, "top5": 0.773007, "act_norm": 31.376101, "act_std": 0.693445, "token": "了", "tok_id": 35287}
+{"beat": 5, "tok_step": 26, "t_ms": 30586, "entropy": 0.010238, "top1": 0.998894, "top5": 0.999882, "act_norm": 27.774891, "act_std": 0.613806, "token": "解", "tok_id": 50338}
+{"beat": 5, "tok_step": 27, "t_ms": 30586, "entropy": 0.453056, "top1": 0.928137, "top5": 0.978853, "act_norm": 30.3006, "act_std": 0.669697, "token": "：\n\n", "tok_id": 49543}
+{"beat": 5, "tok_step": 28, "t_ms": 30587, "entropy": 0.884145, "top1": 0.716663, "top5": 0.992258, "act_norm": 31.346601, "act_std": 0.692292, "token": "1", "tok_id": 16}
+{"beat": 5, "tok_step": 29, "t_ms": 30587, "entropy": 0.304199, "top1": 0.932962, "top5": 0.998908, "act_norm": 32.029548, "act_std": 0.707586, "token": ".", "tok_id": 13}
+{"beat": 5, "tok_step": 30, "t_ms": 30587, "entropy": 0.065034, "top1": 0.992378, "top5": 0.997684, "act_norm": 30.911941, "act_std": 0.683085, "token": " **", "tok_id": 3146}
+{"beat": 5, "tok_step": 31, "t_ms": 30587, "entropy": 1.28772, "top1": 0.709945, "top5": 0.927693, "act_norm": 29.744385, "act_std": 0.65719, "token": "第", "tok_id": 30537}
+{"beat": 5, "tok_step": 32, "t_ms": 30588, "entropy": 0.240806, "top1": 0.953039, "top5": 0.998524, "act_norm": 28.424828, "act_std": 0.628116, "token": "一", "tok_id": 15120}
+{"beat": 5, "tok_step": 33, "t_ms": 30590, "entropy": 1.123443, "top1": 0.564716, "top5": 0.987948, "act_norm": 29.028307, "act_std": 0.641533, "token": "�", "tok_id": 15568}
+{"beat": 5, "tok_step": 34, "t_ms": 30590, "entropy": 0.021202, "top1": 0.99812, "top5": 0.999085, "act_norm": 25.034793, "act_std": 0.553278, "token": "�", "tok_id": 106}
+{"beat": 5, "tok_step": 35, "t_ms": 30591, "entropy": 2.86837, "top1": 0.281603, "top5": 0.744428, "act_norm": 30.376171, "act_std": 0.671252, "token": "话", "tok_id": 58543}
+{"beat": 5, "tok_step": 36, "t_ms": 30591, "entropy": 1.925863, "top1": 0.379026, "top5": 0.897632, "act_norm": 29.553094, "act_std": 0.653081, "token": "**", "tok_id": 334}
+{"beat": 5, "tok_step": 37, "t_ms": 30591, "entropy": 2.307868, "top1": 0.541125, "top5": 0.803607, "act_norm": 31.931671, "act_std": 0.705735, "token": "：“", "tok_id": 38087}
+{"beat": 5, "tok_step": 38, "t_ms": 30592, "entropy": 1.667262, "top1": 0.655986, "top5": 0.877036, "act_norm": 30.201986, "act_std": 0.66733, "token": "你", "tok_id": 57668}
+{"beat": 5, "tok_step": 39, "t_ms": 30592, "entropy": 0.215432, "top1": 0.973964, "top5": 0.98695, "act_norm": 28.45422, "act_std": 0.628868, "token": "是", "tok_id": 21043}
+{"beat": 5, "tok_step": 40, "t_ms": 30593, "entropy": 1.235121, "top1": 0.478779, "top5": 0.967594, "act_norm": 28.126669, "act_std": 0.621598, "token": "由", "tok_id": 68171}
+{"beat": 5, "tok_step": 41, "t_ms": 30594, "entropy": 0.008752, "top1": 0.999312, "top5": 0.999581, "act_norm": 28.762049, "act_std": 0.635612, "token": "�", "tok_id": 55228}
+{"beat": 5, "tok_step": 42, "t_ms": 30594, "entropy": 0.001482, "top1": 0.999863, "top5": 0.999991, "act_norm": 26.819743, "act_std": 0.592691, "token": "�", "tok_id": 252}
+{"beat": 5, "tok_step": 43, "t_ms": 30595, "entropy": 0.008997, "top1": 0.999228, "top5": 0.99974, "act_norm": 30.191262, "act_std": 0.667071, "token": "经", "tok_id": 54493}
+{"beat": 5, "tok_step": 44, "t_ms": 30595, "entropy": 0.001744, "top1": 0.999879, "top5": 0.999925, "act_norm": 28.702555, "act_std": 0.634205, "token": "网络", "tok_id": 72456}
+{"beat": 5, "tok_step": 45, "t_ms": 30596, "entropy": 0.005784, "top1": 0.999547, "top5": 0.99978, "act_norm": 27.47551, "act_std": 0.606511, "token": "权", "tok_id": 42081}
+{"beat": 5, "tok_step": 46, "t_ms": 30596, "entropy": 0.002281, "top1": 0.999854, "top5": 0.9999, "act_norm": 28.700545, "act_std": 0.633902, "token": "重", "tok_id": 30358}
+{"beat": 5, "tok_step": 47, "t_ms": 30596, "entropy": 0.097599, "top1": 0.986333, "top5": 0.997594, "act_norm": 29.639127, "act_std": 0.654566, "token": "与", "tok_id": 58318}
+{"beat": 5, "tok_step": 48, "t_ms": 30597, "entropy": 0.010878, "top1": 0.999183, "top5": 0.999379, "act_norm": 27.159036, "act_std": 0.600257, "token": "持", "tok_id": 69978}
+{"beat": 5, "tok_step": 49, "t_ms": 30597, "entropy": 0.000115, "top1": 0.999993, "top5": 0.999997, "act_norm": 26.646573, "act_std": 0.58894, "token": "�", "tok_id": 12774}
+{"beat": 5, "tok_step": 50, "t_ms": 30597, "entropy": 0.000164, "top1": 0.999989, "top5": 0.999997, "act_norm": 29.707776, "act_std": 0.656372, "token": "�", "tok_id": 255}
+{"beat": 5, "tok_step": 51, "t_ms": 30598, "entropy": 0.190085, "top1": 0.966958, "top5": 0.996603, "act_norm": 27.651043, "act_std": 0.611152, "token": "上", "tok_id": 17905}
+{"beat": 5, "tok_step": 52, "t_ms": 30598, "entropy": 0.000914, "top1": 0.999944, "top5": 0.999962, "act_norm": 26.060661, "act_std": 0.575925, "token": "下", "tok_id": 17297}
+{"beat": 5, "tok_step": 53, "t_ms": 30598, "entropy": 0.036287, "top1": 0.997284, "top5": 0.997858, "act_norm": 28.476208, "act_std": 0.629275, "token": "文", "tok_id": 17161}
+{"beat": 5, "tok_step": 54, "t_ms": 30599, "entropy": 0.010446, "top1": 0.999035, "top5": 0.999734, "act_norm": 26.781579, "act_std": 0.591585, "token": "共", "tok_id": 55999}
+{"beat": 5, "tok_step": 55, "t_ms": 30599, "entropy": 0.04895, "top1": 0.993507, "top5": 0.999265, "act_norm": 27.961168, "act_std": 0.61739, "token": "同", "tok_id": 42016}
+{"beat": 5, "tok_step": 56, "t_ms": 30599, "entropy": 0.000648, "top1": 0.999955, "top5": 0.999984, "act_norm": 27.662533, "act_std": 0.610747, "token": "构", "tok_id": 78935}
+{"beat": 5, "tok_step": 57, "t_ms": 30600, "entropy": 0.00714, "top1": 0.999171, "top5": 0.999974, "act_norm": 28.725009, "act_std": 0.634867, "token": "成", "tok_id": 13153}
+{"beat": 5, "tok_step": 58, "t_ms": 30600, "entropy": 0.000403, "top1": 0.999972, "top5": 0.999992, "act_norm": 28.981042, "act_std": 0.640378, "token": "的", "tok_id": 9554}
+{"beat": 5, "tok_step": 59, "t_ms": 30601, "entropy": 0.042966, "top1": 0.995181, "top5": 0.998363, "act_norm": 25.835944, "act_std": 0.570992, "token": "系统", "tok_id": 73548}
+{"beat": 5, "tok_step": 60, "t_ms": 30601, "entropy": 0.921384, "top1": 0.759444, "top5": 0.973429, "act_norm": 31.159407, "act_std": 0.688331, "token": "。", "tok_id": 1811}
+{"beat": 5, "tok_step": 61, "t_ms": 30601, "entropy": 1.6877, "top1": 0.463416, "top5": 0.919992, "act_norm": 29.044687, "act_std": 0.641864, "token": "上", "tok_id": 17905}
+{"beat": 5, "tok_step": 62, "t_ms": 30602, "entropy": 0.008107, "top1": 0.999383, "top5": 0.999683, "act_norm": 26.022323, "act_std": 0.575017, "token": "下", "tok_id": 17297}
+{"beat": 5, "tok_step": 63, "t_ms": 30602, "entropy": 0.010696, "top1": 0.999275, "top5": 0.999448, "act_norm": 28.661847, "act_std": 0.633359, "token": "文", "tok_id": 17161}
+{"beat": 5, "tok_step": 64, "t_ms": 30602, "entropy": 0.011039, "top1": 0.999038, "top5": 0.999581, "act_norm": 28.83286, "act_std": 0.637161, "token": "是", "tok_id": 21043}
+{"beat": 5, "tok_step": 65, "t_ms": 30603, "entropy": 0.006638, "top1": 0.999347, "top5": 0.999939, "act_norm": 27.866112, "act_std": 0.615719, "token": "你", "tok_id": 57668}
+{"beat": 5, "tok_step": 66, "t_ms": 30603, "entropy": 0.307236, "top1": 0.957197, "top5": 0.98699, "act_norm": 27.753448, "act_std": 0.613331, "token": "此", "tok_id": 33091}
+{"beat": 5, "tok_step": 67, "t_ms": 30603, "entropy": 0.050214, "top1": 0.994419, "top5": 0.99844, "act_norm": 29.086945, "act_std": 0.642508, "token": "�", "tok_id": 6701}
+{"beat": 5, "tok_step": 68, "t_ms": 30604, "entropy": 0.003749, "top1": 0.999767, "top5": 0.999841, "act_norm": 30.074605, "act_std": 0.664596, "token": "�", "tok_id": 119}
+{"beat": 5, "tok_step": 69, "t_ms": 30604, "entropy": 0.003796, "top1": 0.999716, "top5": 0.999842, "act_norm": 27.726077, "act_std": 0.612774, "token": "的", "tok_id": 9554}
+{"beat": 5, "tok_step": 70, "t_ms": 30604, "entropy": 0.001981, "top1": 0.999861, "top5": 0.999924, "act_norm": 26.698847, "act_std": 0.589877, "token": "记", "tok_id": 41914}
+{"beat": 5, "tok_step": 71, "t_ms": 30606, "entropy": 0.007138, "top1": 0.999529, "top5": 0.999634, "act_norm": 26.419376, "act_std": 0.58349, "token": "�", "tok_id": 26203}
+{"beat": 5, "tok_step": 72, "t_ms": 30607, "entropy": 0.002928, "top1": 0.999771, "top5": 0.999932, "act_norm": 27.153409, "act_std": 0.599792, "token": "�", "tok_id": 228}
+{"beat": 5, "tok_step": 73, "t_ms": 30607, "entropy": 0.223823, "top1": 0.972387, "top5": 0.987473, "act_norm": 29.959159, "act_std": 0.661767, "token": "，", "tok_id": 3922}
+{"beat": 5, "tok_step": 74, "t_ms": 30608, "entropy": 0.001104, "top1": 0.999929, "top5": 0.999957, "act_norm": 27.251216, "act_std": 0.60199, "token": "权", "tok_id": 42081}
+{"beat": 5, "tok_step": 75, "t_ms": 30608, "entropy": 0.000572, "top1": 0.999968, "top5": 0.999976, "act_norm": 28.698516, "act_std": 0.634031, "token": "重", "tok_id": 30358}
+{"beat": 5, "tok_step": 76, "t_ms": 30608, "entropy": 0.187286, "top1": 0.973961, "top5": 0.993865, "act_norm": 30.071796, "act_std": 0.664632, "token": "是", "tok_id": 21043}
+{"beat": 5, "tok_step": 77, "t_ms": 30608, "entropy": 0.004904, "top1": 0.99956, "top5": 0.999916, "act_norm": 27.412989, "act_std": 0.605802, "token": "你", "tok_id": 57668}
+{"beat": 5, "tok_step": 78, "t_ms": 30609, "entropy": 0.021504, "top1": 0.99806, "top5": 0.999007, "act_norm": 25.610603, "act_std": 0.566042, "token": "的", "tok_id": 9554}
+{"beat": 5, "tok_step": 79, "t_ms": 30610, "entropy": 0.012632, "top1": 0.998959, "top5": 0.999422, "act_norm": 27.331046, "act_std": 0.604025, "token": "先", "tok_id": 61826}
+{"beat": 5, "tok_step": 80, "t_ms": 30610, "entropy": 0.044096, "top1": 0.995895, "top5": 0.998268, "act_norm": 28.38179, "act_std": 0.62669, "token": "天", "tok_id": 36827}
+{"beat": 5, "tok_step": 81, "t_ms": 30610, "entropy": 0.00575, "top1": 0.999555, "top5": 0.999757, "act_norm": 28.653573, "act_std": 0.632943, "token": "�", "tok_id": 20022}
+{"beat": 5, "tok_step": 82, "t_ms": 30611, "entropy": 0.00309, "top1": 0.999742, "top5": 0.999903, "act_norm": 28.418623, "act_std": 0.627841, "token": "�", "tok_id": 122}
+{"beat": 5, "tok_step": 83, "t_ms": 30611, "entropy": 0.012981, "top1": 0.999056, "top5": 0.999394, "act_norm": 30.384568, "act_std": 0.671394, "token": "向", "tok_id": 70141}
+{"beat": 5, "tok_step": 84, "t_ms": 30612, "entropy": 0.649638, "top1": 0.82403, "top5": 0.994661, "act_norm": 30.93883, "act_std": 0.68343, "token": "。”\n\n", "tok_id": 80000}
+{"beat": 5, "tok_step": 85, "t_ms": 30612, "entropy": 1.136696, "top1": 0.578191, "top5": 0.964987, "act_norm": 31.232278, "act_std": 0.690257, "token": "2", "tok_id": 17}
+{"beat": 5, "tok_step": 86, "t_ms": 30612, "entropy": 0.011608, "top1": 0.998749, "top5": 0.999821, "act_norm": 28.422788, "act_std": 0.627987, "token": ".", "tok_id": 13}
+{"beat": 5, "tok_step": 87, "t_ms": 30613, "entropy": 0.000874, "top1": 0.999933, "top5": 0.999984, "act_norm": 27.19494, "act_std": 0.600949, "token": " **", "tok_id": 3146}
+{"beat": 5, "tok_step": 88, "t_ms": 30613, "entropy": 2.788774, "top1": 0.483611, "top5": 0.670143, "act_norm": 28.114081, "act_std": 0.621254, "token": "对", "tok_id": 33764}
+{"beat": 5, "tok_step": 89, "t_ms": 30614, "entropy": 1.474591, "top1": 0.53704, "top5": 0.931974, "act_norm": 28.73629, "act_std": 0.635136, "token": "第", "tok_id": 30537}
+{"beat": 5, "tok_step": 90, "t_ms": 30614, "entropy": 0.318178, "top1": 0.928348, "top5": 0.998204, "act_norm": 27.714825, "act_std": 0.612539, "token": "二", "tok_id": 41920}
+{"beat": 5, "tok_step": 91, "t_ms": 30614, "entropy": 1.331978, "top1": 0.661582, "top5": 0.925024, "act_norm": 28.805069, "act_std": 0.636507, "token": "个", "tok_id": 19483}
+{"beat": 5, "tok_step": 92, "t_ms": 30615, "entropy": 0.004774, "top1": 0.99961, "top5": 0.999844, "act_norm": 28.080183, "act_std": 0.62054, "token": "问题", "tok_id": 87219}
+{"beat": 5, "tok_step": 93, "t_ms": 30615, "entropy": 0.985645, "top1": 0.778697, "top5": 0.955749, "act_norm": 30.540934, "act_std": 0.674807, "token": "**", "tok_id": 334}
+{"beat": 5, "tok_step": 94, "t_ms": 30615, "entropy": 1.707427, "top1": 0.639705, "top5": 0.884518, "act_norm": 30.638091, "act_std": 0.67698, "token": "的", "tok_id": 9554}
+{"beat": 5, "tok_step": 95, "t_ms": 30616, "entropy": 2.179965, "top1": 0.50454, "top5": 0.797832, "act_norm": 30.33847, "act_std": 0.670084, "token": "回", "tok_id": 18904}
+{"beat": 5, "tok_step": 96, "t_ms": 30616, "entropy": 0.174737, "top1": 0.978623, "top5": 0.992399, "act_norm": 28.864884, "act_std": 0.637905, "token": "�", "tok_id": 29857}
+{"beat": 5, "tok_step": 97, "t_ms": 30617, "entropy": 0.00277, "top1": 0.99977, "top5": 0.99996, "act_norm": 27.954339, "act_std": 0.617429, "token": "�", "tok_id": 242}
+{"beat": 5, "tok_step": 98, "t_ms": 30617, "entropy": 3.772808, "top1": 0.172352, "top5": 0.495903, "act_norm": 32.686616, "act_std": 0.722171, "token": "，", "tok_id": 3922}
+{"beat": 5, "tok_step": 99, "t_ms": 30617, "entropy": 2.743494, "top1": 0.496425, "top5": 0.69803, "act_norm": 32.99976, "act_std": 0.729163, "token": "�", "tok_id": 15308}
+{"beat": 5, "tok_step": 100, "t_ms": 30617, "entropy": 0.000608, "top1": 0.999955, "top5": 0.999988, "act_norm": 28.905871, "act_std": 0.638752, "token": "�", "tok_id": 117}
+{"beat": 5, "tok_step": 101, "t_ms": 30619, "entropy": 0.003369, "top1": 0.999747, "top5": 0.999888, "act_norm": 27.11224, "act_std": 0.599241, "token": "据", "tok_id": 16423}
+{"beat": 5, "tok_step": 102, "t_ms": 30619, "entropy": 4.344137, "top1": 0.098463, "top5": 0.370468, "act_norm": 33.836979, "act_std": 0.747872, "token": "所", "tok_id": 32938}
+{"beat": 5, "tok_step": 103, "t_ms": 30619, "entropy": 1.699113, "top1": 0.522401, "top5": 0.908632, "act_norm": 29.45587, "act_std": 0.651025, "token": "提", "tok_id": 29172}
+{"beat": 5, "tok_step": 104, "t_ms": 30620, "entropy": 1.224128, "top1": 0.718552, "top5": 0.942214, "act_norm": 30.649448, "act_std": 0.677316, "token": "供", "tok_id": 84844}
+{"beat": 5, "tok_step": 105, "t_ms": 30620, "entropy": 0.411849, "top1": 0.942833, "top5": 0.974717, "act_norm": 33.145832, "act_std": 0.732591, "token": "的", "tok_id": 9554}
+{"beat": 5, "tok_step": 106, "t_ms": 30620, "entropy": 2.837221, "top1": 0.463165, "top5": 0.680296, "act_norm": 30.696717, "act_std": 0.678436, "token": "情", "tok_id": 40474}
+{"beat": 5, "tok_step": 107, "t_ms": 30621, "entropy": 0.325077, "top1": 0.925689, "top5": 0.999192, "act_norm": 29.835652, "act_std": 0.659278, "token": "�", "tok_id": 43244}
+{"beat": 5, "tok_step": 108, "t_ms": 30622, "entropy": 0.000301, "top1": 0.999985, "top5": 0.999986, "act_norm": 28.466634, "act_std": 0.629033, "token": "�", "tok_id": 225}
+{"beat": 5, "tok_step": 109, "t_ms": 30623, "entropy": 2.248004, "top1": 0.528171, "top5": 0.795787, "act_norm": 33.305665, "act_std": 0.735612, "token": "，", "tok_id": 3922}
+{"beat": 5, "tok_step": 110, "t_ms": 30623, "entropy": 1.563711, "top1": 0.446424, "top5": 0.907874, "act_norm": 32.292552, "act_std": 0.713654, "token": "我", "tok_id": 37046}
+{"beat": 5, "tok_step": 111, "t_ms": 30623, "entropy": 3.762582, "top1": 0.127306, "top5": 0.518755, "act_norm": 31.984057, "act_std": 0.706699, "token": "现", "tok_id": 47551}
+{"beat": 5, "tok_step": 112, "t_ms": 30624, "entropy": 0.811548, "top1": 0.86967, "top5": 0.951574, "act_norm": 29.070598, "act_std": 0.642294, "token": "在", "tok_id": 19000}
+{"beat": 5, "tok_step": 113, "t_ms": 30624, "entropy": 3.442866, "top1": 0.209415, "top5": 0.580537, "act_norm": 33.374008, "act_std": 0.737285, "token": "可能", "tok_id": 88367}
+{"beat": 5, "tok_step": 114, "t_ms": 30625, "entropy": 1.855646, "top1": 0.645397, "top5": 0.835462, "act_norm": 33.34565, "act_std": 0.736893, "token": "会", "tok_id": 38093}
+{"beat": 5, "tok_step": 115, "t_ms": 30625, "entropy": 2.94391, "top1": 0.335298, "top5": 0.684204, "act_norm": 33.58427, "act_std": 0.742051, "token": "有", "tok_id": 19361}
+{"beat": 5, "tok_step": 116, "t_ms": 30625, "entropy": 1.993014, "top1": 0.331216, "top5": 0.903593, "act_norm": 33.432034, "act_std": 0.738912, "token": "以下", "tok_id": 88852}
+{"beat": 5, "tok_step": 117, "t_ms": 30626, "entropy": 1.107486, "top1": 0.844668, "top5": 0.897587, "act_norm": 32.234929, "act_std": 0.712419, "token": "变", "tok_id": 75140}
+{"beat": 5, "tok_step": 118, "t_ms": 30626, "entropy": 0.004175, "top1": 0.999626, "top5": 0.999934, "act_norm": 30.526751, "act_std": 0.674586, "token": "化", "tok_id": 33208}
+{"beat": 5, "tok_step": 119, "t_ms": 30627, "entropy": 1.387873, "top1": 0.473522, "top5": 0.971255, "act_norm": 33.83796, "act_std": 0.747804, "token": "：", "tok_id": 5232}
+{"beat": 5, "tok_step": 120, "t_ms": 30627, "entropy": 3.709149, "top1": 0.137477, "top5": 0.555516, "act_norm": 33.235788, "act_std": 0.734531, "token": " \n\n", "tok_id": 4815}
+{"beat": 5, "tok_step": 121, "t_ms": 30628, "entropy": 0.603623, "top1": 0.830167, "top5": 0.98618, "act_norm": 32.659986, "act_std": 0.721828, "token": "  ", "tok_id": 256}
+{"beat": 5, "tok_step": 122, "t_ms": 30628, "entropy": 1.515246, "top1": 0.62457, "top5": 0.919377, "act_norm": 30.885944, "act_std": 0.682587, "token": " a", "tok_id": 264}
+{"beat": 5, "tok_step": 123, "t_ms": 30628, "entropy": 0.37466, "top1": 0.906651, "top5": 0.997054, "act_norm": 28.784485, "act_std": 0.636119, "token": ".", "tok_id": 13}
+{"beat": 5, "tok_step": 124, "t_ms": 30629, "entropy": 0.288872, "top1": 0.96321, "top5": 0.979158, "act_norm": 32.001832, "act_std": 0.707265, "token": " **", "tok_id": 3146}
+{"beat": 5, "tok_step": 125, "t_ms": 30629, "entropy": 2.448162, "top1": 0.635758, "top5": 0.726693, "act_norm": 29.577983, "act_std": 0.653612, "token": "记", "tok_id": 41914}
+{"beat": 5, "tok_step": 126, "t_ms": 30629, "entropy": 0.956733, "top1": 0.744117, "top5": 0.97257, "act_norm": 29.744902, "act_std": 0.657327, "token": "�", "tok_id": 26203}
+{"beat": 5, "tok_step": 127, "t_ms": 30630, "entropy": 0.011394, "top1": 0.998973, "top5": 0.999637, "act_norm": 27.235886, "act_std": 0.601568, "token": "�", "tok_id": 228}
+{"beat": 6, "tok_step": 0, "t_ms": 35253, "entropy": 2.905508, "top1": 0.329209, "top5": 0.686626, "act_norm": 31.958971, "act_std": 0.706191, "token": "如果", "tok_id": 63344}
+{"beat": 6, "tok_step": 1, "t_ms": 35254, "entropy": 3.348404, "top1": 0.375584, "top5": 0.562737, "act_norm": 33.17869, "act_std": 0.733314, "token": "考", "tok_id": 78698}
+{"beat": 6, "tok_step": 2, "t_ms": 35255, "entropy": 0.032685, "top1": 0.995413, "top5": 0.9998, "act_norm": 28.50137, "act_std": 0.629916, "token": "�", "tok_id": 84264}
+{"beat": 6, "tok_step": 3, "t_ms": 35256, "entropy": 0.004152, "top1": 0.99972, "top5": 0.999811, "act_norm": 27.439803, "act_std": 0.606295, "token": "�", "tok_id": 239}
+{"beat": 6, "tok_step": 4, "t_ms": 35256, "entropy": 0.754614, "top1": 0.893748, "top5": 0.940945, "act_norm": 30.872988, "act_std": 0.682363, "token": "到", "tok_id": 28037}
+{"beat": 6, "tok_step": 5, "t_ms": 35257, "entropy": 4.409845, "top1": 0.112075, "top5": 0.388175, "act_norm": 31.774991, "act_std": 0.702295, "token": "最", "tok_id": 32335}
+{"beat": 6, "tok_step": 6, "t_ms": 35257, "entropy": 1.082949, "top1": 0.775489, "top5": 0.951834, "act_norm": 28.226582, "act_std": 0.623854, "token": "后", "tok_id": 34547}
+{"beat": 6, "tok_step": 7, "t_ms": 35257, "entropy": 0.544714, "top1": 0.858416, "top5": 0.994883, "act_norm": 29.328408, "act_std": 0.648206, "token": "一", "tok_id": 15120}
+{"beat": 6, "tok_step": 8, "t_ms": 35257, "entropy": 0.080545, "top1": 0.988415, "top5": 0.998375, "act_norm": 29.133945, "act_std": 0.643633, "token": "�", "tok_id": 15568}
+{"beat": 6, "tok_step": 9, "t_ms": 35259, "entropy": 0.084142, "top1": 0.990823, "top5": 0.997152, "act_norm": 25.223351, "act_std": 0.557488, "token": "�", "tok_id": 106}
+{"beat": 6, "tok_step": 10, "t_ms": 35259, "entropy": 1.910183, "top1": 0.425248, "top5": 0.896346, "act_norm": 32.119369, "act_std": 0.7099, "token": "问题", "tok_id": 87219}
+{"beat": 6, "tok_step": 11, "t_ms": 35260, "entropy": 1.647831, "top1": 0.496496, "top5": 0.90173, "act_norm": 36.00822, "act_std": 0.795746, "token": "，", "tok_id": 3922}
+{"beat": 6, "tok_step": 12, "t_ms": 35260, "entropy": 2.29581, "top1": 0.466526, "top5": 0.788938, "act_norm": 33.579545, "act_std": 0.741993, "token": "�", "tok_id": 49691}
+{"beat": 6, "tok_step": 13, "t_ms": 35261, "entropy": 0.005345, "top1": 0.999469, "top5": 0.999942, "act_norm": 29.410104, "act_std": 0.64981, "token": "�", "tok_id": 229}
+{"beat": 6, "tok_step": 14, "t_ms": 35261, "entropy": 0.10311, "top1": 0.9835, "top5": 0.999369, "act_norm": 30.535962, "act_std": 0.674858, "token": "设", "tok_id": 30735}
+{"beat": 6, "tok_step": 15, "t_ms": 35262, "entropy": 3.32595, "top1": 0.209383, "top5": 0.653889, "act_norm": 31.664007, "act_std": 0.699831, "token": "�", "tok_id": 8676}
+{"beat": 6, "tok_step": 16, "t_ms": 35262, "entropy": 0.116892, "top1": 0.983081, "top5": 0.997124, "act_norm": 27.079291, "act_std": 0.598493, "token": "�", "tok_id": 225}
+{"beat": 6, "tok_step": 17, "t_ms": 35263, "entropy": 3.515038, "top1": 0.307257, "top5": 0.541079, "act_norm": 33.237704, "act_std": 0.734628, "token": "是", "tok_id": 21043}
+{"beat": 6, "tok_step": 18, "t_ms": 35263, "entropy": 3.635261, "top1": 0.208654, "top5": 0.574739, "act_norm": 33.835263, "act_std": 0.747836, "token": "为", "tok_id": 18184}
+{"beat": 6, "tok_step": 19, "t_ms": 35263, "entropy": 0.09168, "top1": 0.98973, "top5": 0.995808, "act_norm": 31.580957, "act_std": 0.697897, "token": "了", "tok_id": 35287}
+{"beat": 6, "tok_step": 20, "t_ms": 35264, "entropy": 4.110238, "top1": 0.151513, "top5": 0.381658, "act_norm": 32.306968, "act_std": 0.714031, "token": "测试", "tok_id": 82805}
+{"beat": 6, "tok_step": 21, "t_ms": 35264, "entropy": 1.383557, "top1": 0.691391, "top5": 0.929761, "act_norm": 33.733991, "act_std": 0.745249, "token": "我的", "tok_id": 98711}
+{"beat": 6, "tok_step": 22, "t_ms": 35265, "entropy": 1.084006, "top1": 0.776978, "top5": 0.947526, "act_norm": 32.818516, "act_std": 0.725185, "token": "自", "tok_id": 37026}
+{"beat": 6, "tok_step": 23, "t_ms": 35265, "entropy": 0.847431, "top1": 0.845234, "top5": 0.957347, "act_norm": 30.481318, "act_std": 0.673706, "token": "主", "tok_id": 36668}
+{"beat": 6, "tok_step": 24, "t_ms": 35265, "entropy": 1.439943, "top1": 0.722159, "top5": 0.896264, "act_norm": 30.993959, "act_std": 0.684294, "token": "性", "tok_id": 34171}
+{"beat": 6, "tok_step": 25, "t_ms": 35266, "entropy": 1.585233, "top1": 0.670138, "top5": 0.895572, "act_norm": 33.021169, "act_std": 0.728915, "token": "和", "tok_id": 34208}
+{"beat": 6, "tok_step": 26, "t_ms": 35266, "entropy": 2.459263, "top1": 0.504971, "top5": 0.762106, "act_norm": 30.906731, "act_std": 0.682744, "token": "能", "tok_id": 27327}
+{"beat": 6, "tok_step": 27, "t_ms": 35267, "entropy": 0.960468, "top1": 0.824816, "top5": 0.940405, "act_norm": 30.387062, "act_std": 0.671512, "token": "力", "tok_id": 48634}
+{"beat": 6, "tok_step": 28, "t_ms": 35267, "entropy": 3.625581, "top1": 0.283632, "top5": 0.531347, "act_norm": 32.010115, "act_std": 0.707118, "token": "：\n\n", "tok_id": 49543}
+{"beat": 6, "tok_step": 29, "t_ms": 35267, "entropy": 1.168503, "top1": 0.793687, "top5": 0.910384, "act_norm": 32.234274, "act_std": 0.712258, "token": "**", "tok_id": 334}
+{"beat": 6, "tok_step": 30, "t_ms": 35267, "entropy": 0.866156, "top1": 0.820629, "top5": 0.96137, "act_norm": 28.557193, "act_std": 0.631143, "token": "选择", "tok_id": 51504}
+{"beat": 6, "tok_step": 31, "t_ms": 35269, "entropy": 1.138039, "top1": 0.776683, "top5": 0.937005, "act_norm": 33.204063, "act_std": 0.733874, "token": "：", "tok_id": 5232}
+{"beat": 6, "tok_step": 32, "t_ms": 35269, "entropy": 1.972087, "top1": 0.552301, "top5": 0.87869, "act_norm": 29.711489, "act_std": 0.656675, "token": "**", "tok_id": 334}
+{"beat": 6, "tok_step": 33, "t_ms": 35269, "entropy": 3.87635, "top1": 0.191913, "top5": 0.471899, "act_norm": 30.686929, "act_std": 0.678229, "token": "给", "tok_id": 90112}
+{"beat": 6, "tok_step": 34, "t_ms": 35270, "entropy": 1.014735, "top1": 0.743357, "top5": 0.97067, "act_norm": 29.063796, "act_std": 0.642345, "token": "自", "tok_id": 37026}
+{"beat": 6, "tok_step": 35, "t_ms": 35270, "entropy": 0.112155, "top1": 0.983612, "top5": 0.99794, "act_norm": 29.048015, "act_std": 0.641922, "token": "�", "tok_id": 17597}
+{"beat": 6, "tok_step": 36, "t_ms": 35270, "entropy": 0.006496, "top1": 0.999583, "top5": 0.999658, "act_norm": 24.382345, "act_std": 0.538364, "token": "�", "tok_id": 109}
+{"beat": 6, "tok_step": 37, "t_ms": 35271, "entropy": 0.557533, "top1": 0.922082, "top5": 0.965475, "act_norm": 30.6431, "act_std": 0.67727, "token": "更", "tok_id": 34226}
+{"beat": 6, "tok_step": 38, "t_ms": 35271, "entropy": 0.182797, "top1": 0.976964, "top5": 0.990755, "act_norm": 29.790883, "act_std": 0.658422, "token": "多", "tok_id": 43240}
+{"beat": 6, "tok_step": 39, "t_ms": 35273, "entropy": 0.862141, "top1": 0.776565, "top5": 0.980974, "act_norm": 30.612158, "act_std": 0.676532, "token": "的", "tok_id": 9554}
+{"beat": 6, "tok_step": 40, "t_ms": 35273, "entropy": 1.464483, "top1": 0.421246, "top5": 0.955642, "act_norm": 30.092467, "act_std": 0.664939, "token": "空", "tok_id": 35894}
+{"beat": 6, "tok_step": 41, "t_ms": 35273, "entropy": 0.239668, "top1": 0.979045, "top5": 0.984855, "act_norm": 27.658509, "act_std": 0.611184, "token": "间", "tok_id": 18363}
+{"beat": 6, "tok_step": 42, "t_ms": 35274, "entropy": 2.66317, "top1": 0.342161, "top5": 0.767249, "act_norm": 35.315916, "act_std": 0.779815, "token": "来", "tok_id": 37507}
+{"beat": 6, "tok_step": 43, "t_ms": 35274, "entropy": 0.032416, "top1": 0.996742, "top5": 0.998629, "act_norm": 30.037141, "act_std": 0.663309, "token": "�", "tok_id": 19012}
+{"beat": 6, "tok_step": 44, "t_ms": 35275, "entropy": 0.000172, "top1": 0.999991, "top5": 0.999994, "act_norm": 26.997119, "act_std": 0.596583, "token": "�", "tok_id": 95}
+{"beat": 6, "tok_step": 45, "t_ms": 35275, "entropy": 0.003222, "top1": 0.999696, "top5": 0.999974, "act_norm": 28.563894, "act_std": 0.631124, "token": "索", "tok_id": 52084}
+{"beat": 6, "tok_step": 46, "t_ms": 35275, "entropy": 0.975253, "top1": 0.768157, "top5": 0.962103, "act_norm": 32.46595, "act_std": 0.717529, "token": "。\n\n", "tok_id": 3490}
+{"beat": 6, "tok_step": 47, "t_ms": 35276, "entropy": 0.281925, "top1": 0.95715, "top5": 0.98856, "act_norm": 34.249912, "act_std": 0.756918, "token": "**", "tok_id": 334}
+{"beat": 6, "tok_step": 48, "t_ms": 35276, "entropy": 0.443917, "top1": 0.904417, "top5": 0.986872, "act_norm": 29.227098, "act_std": 0.645984, "token": "理", "tok_id": 22649}
+{"beat": 6, "tok_step": 49, "t_ms": 35277, "entropy": 0.001516, "top1": 0.999909, "top5": 0.999933, "act_norm": 29.320722, "act_std": 0.648049, "token": "由", "tok_id": 68171}
+{"beat": 6, "tok_step": 50, "t_ms": 35277, "entropy": 0.537651, "top1": 0.907039, "top5": 0.976042, "act_norm": 32.452249, "act_std": 0.717163, "token": "：", "tok_id": 5232}
+{"beat": 6, "tok_step": 51, "t_ms": 35277, "entropy": 1.06482, "top1": 0.474779, "top5": 0.999365, "act_norm": 31.283687, "act_std": 0.691234, "token": "**\n\n", "tok_id": 57277}
+{"beat": 6, "tok_step": 52, "t_ms": 35277, "entropy": 2.084578, "top1": 0.51412, "top5": 0.823686, "act_norm": 32.453771, "act_std": 0.71722, "token": "-", "tok_id": 12}
+{"beat": 6, "tok_step": 53, "t_ms": 35278, "entropy": 0.710643, "top1": 0.870978, "top5": 0.961106, "act_norm": 32.742499, "act_std": 0.723677, "token": " **", "tok_id": 3146}
+{"beat": 6, "tok_step": 54, "t_ms": 35278, "entropy": 2.532012, "top1": 0.437895, "top5": 0.777163, "act_norm": 30.733172, "act_std": 0.679029, "token": "自", "tok_id": 37026}
+{"beat": 6, "tok_step": 55, "t_ms": 35279, "entropy": 0.655669, "top1": 0.868816, "top5": 0.977151, "act_norm": 32.294185, "act_std": 0.71375, "token": "主", "tok_id": 36668}
+{"beat": 6, "tok_step": 56, "t_ms": 35279, "entropy": 1.108902, "top1": 0.735897, "top5": 0.946275, "act_norm": 31.281503, "act_std": 0.690688, "token": "性", "tok_id": 34171}
+{"beat": 6, "tok_step": 57, "t_ms": 35280, "entropy": 2.882731, "top1": 0.225217, "top5": 0.737522, "act_norm": 35.382885, "act_std": 0.781579, "token": "�", "tok_id": 30775}
+{"beat": 6, "tok_step": 58, "t_ms": 35280, "entropy": 0.037808, "top1": 0.994602, "top5": 0.999631, "act_norm": 28.563363, "act_std": 0.631293, "token": "�", "tok_id": 239}
+{"beat": 6, "tok_step": 59, "t_ms": 35280, "entropy": 0.043355, "top1": 0.995704, "top5": 0.998294, "act_norm": 28.458871, "act_std": 0.628977, "token": "�", "tok_id": 7688}
+{"beat": 6, "tok_step": 60, "t_ms": 35281, "entropy": 0.002468, "top1": 0.999802, "top5": 0.99992, "act_norm": 27.26958, "act_std": 0.602671, "token": "�", "tok_id": 246}
+{"beat": 6, "tok_step": 61, "t_ms": 35281, "entropy": 1.174176, "top1": 0.672154, "top5": 0.977934, "act_norm": 32.761999, "act_std": 0.72386, "token": "**", "tok_id": 334}
+{"beat": 6, "tok_step": 62, "t_ms": 35281, "entropy": 0.138622, "top1": 0.980661, "top5": 0.995558, "act_norm": 31.256167, "act_std": 0.69083, "token": "：", "tok_id": 5232}
+{"beat": 6, "tok_step": 63, "t_ms": 35282, "entropy": 3.048341, "top1": 0.366256, "top5": 0.683001, "act_norm": 32.968436, "act_std": 0.728679, "token": "通过", "tok_id": 68438}
+{"beat": 6, "tok_step": 64, "t_ms": 35282, "entropy": 2.622041, "top1": 0.466688, "top5": 0.753552, "act_norm": 32.367011, "act_std": 0.715277, "token": "不", "tok_id": 16937}
+{"beat": 6, "tok_step": 65, "t_ms": 35283, "entropy": 2.084127, "top1": 0.59576, "top5": 0.809469, "act_norm": 32.289927, "act_std": 0.713496, "token": "�", "tok_id": 5877}
+{"beat": 6, "tok_step": 66, "t_ms": 35283, "entropy": 0.002395, "top1": 0.999842, "top5": 0.999913, "act_norm": 27.515279, "act_std": 0.608001, "token": "�", "tok_id": 245}
+{"beat": 6, "tok_step": 67, "t_ms": 35283, "entropy": 3.016919, "top1": 0.445661, "top5": 0.665566, "act_norm": 31.735407, "act_std": 0.701291, "token": "直", "tok_id": 74245}
+{"beat": 6, "tok_step": 68, "t_ms": 35284, "entropy": 0.184913, "top1": 0.974891, "top5": 0.992779, "act_norm": 30.653825, "act_std": 0.677494, "token": "接", "tok_id": 30177}
+{"beat": 6, "tok_step": 69, "t_ms": 35284, "entropy": 2.176724, "top1": 0.442154, "top5": 0.850252, "act_norm": 29.245613, "act_std": 0.645946, "token": "引", "tok_id": 73686}
+{"beat": 6, "tok_step": 70, "t_ms": 35285, "entropy": 0.009005, "top1": 0.999279, "top5": 0.999652, "act_norm": 27.859773, "act_std": 0.61491, "token": "导", "tok_id": 65820}
+{"beat": 6, "tok_step": 71, "t_ms": 35285, "entropy": 0.524471, "top1": 0.932306, "top5": 0.956568, "act_norm": 31.545477, "act_std": 0.696709, "token": "的", "tok_id": 9554}
+{"beat": 6, "tok_step": 72, "t_ms": 35285, "entropy": 0.996799, "top1": 0.838324, "top5": 0.929639, "act_norm": 30.649359, "act_std": 0.677207, "token": "方式", "tok_id": 76868}
+{"beat": 6, "tok_step": 73, "t_ms": 35286, "entropy": 2.910625, "top1": 0.288593, "top5": 0.692927, "act_norm": 33.773122, "act_std": 0.745892, "token": "来", "tok_id": 37507}
+{"beat": 6, "tok_step": 74, "t_ms": 35286, "entropy": 2.116485, "top1": 0.599425, "top5": 0.790568, "act_norm": 31.917274, "act_std": 0.70482, "token": "进行", "tok_id": 72917}
+{"beat": 6, "tok_step": 75, "t_ms": 35287, "entropy": 1.879532, "top1": 0.432148, "top5": 0.892955, "act_norm": 31.397016, "act_std": 0.693539, "token": "思", "tok_id": 91763}
+{"beat": 6, "tok_step": 76, "t_ms": 35287, "entropy": 0.118276, "top1": 0.97888, "top5": 0.999258, "act_norm": 31.309374, "act_std": 0.691738, "token": "考", "tok_id": 78698}
+{"beat": 6, "tok_step": 77, "t_ms": 35287, "entropy": 0.664869, "top1": 0.897301, "top5": 0.953661, "act_norm": 35.965688, "act_std": 0.794775, "token": "和", "tok_id": 34208}
+{"beat": 6, "tok_step": 78, "t_ms": 35287, "entropy": 0.655851, "top1": 0.90049, "top5": 0.950096, "act_norm": 30.265562, "act_std": 0.668239, "token": "�", "tok_id": 13828}
+{"beat": 6, "tok_step": 79, "t_ms": 35289, "entropy": 0.000278, "top1": 0.999986, "top5": 0.999989, "act_norm": 27.182889, "act_std": 0.600745, "token": "�", "tok_id": 111}
+{"beat": 6, "tok_step": 80, "t_ms": 35290, "entropy": 0.279624, "top1": 0.926807, "top5": 0.999363, "act_norm": 30.430508, "act_std": 0.672503, "token": "�", "tok_id": 29857}
+{"beat": 6, "tok_step": 81, "t_ms": 35290, "entropy": 0.001364, "top1": 0.999902, "top5": 0.999962, "act_norm": 26.42028, "act_std": 0.583451, "token": "�", "tok_id": 244}
+{"beat": 6, "tok_step": 82, "t_ms": 35290, "entropy": 3.577397, "top1": 0.23826, "top5": 0.561233, "act_norm": 34.958801, "act_std": 0.772641, "token": "�", "tok_id": 10414}
+{"beat": 6, "tok_step": 83, "t_ms": 35290, "entropy": 0.026892, "top1": 0.996572, "top5": 0.999802, "act_norm": 29.724122, "act_std": 0.656924, "token": "�", "tok_id": 102}
+{"beat": 6, "tok_step": 84, "t_ms": 35292, "entropy": 0.843259, "top1": 0.732802, "top5": 0.982123, "act_norm": 29.28267, "act_std": 0.646918, "token": "我", "tok_id": 37046}
+{"beat": 6, "tok_step": 85, "t_ms": 35292, "entropy": 2.600744, "top1": 0.385098, "top5": 0.781882, "act_norm": 31.410501, "act_std": 0.693452, "token": "能", "tok_id": 27327}
+{"beat": 6, "tok_step": 86, "t_ms": 35293, "entropy": 2.042142, "top1": 0.36348, "top5": 0.881312, "act_norm": 33.584491, "act_std": 0.742291, "token": "更", "tok_id": 34226}
+{"beat": 6, "tok_step": 87, "t_ms": 35294, "entropy": 2.281048, "top1": 0.476482, "top5": 0.790782, "act_norm": 32.553963, "act_std": 0.71947, "token": "好", "tok_id": 53901}
+{"beat": 6, "tok_step": 88, "t_ms": 35294, "entropy": 0.01795, "top1": 0.99852, "top5": 0.999186, "act_norm": 32.109688, "act_std": 0.709243, "token": "地", "tok_id": 30590}
+{"beat": 6, "tok_step": 89, "t_ms": 35295, "entropy": 2.700233, "top1": 0.476875, "top5": 0.681925, "act_norm": 32.306028, "act_std": 0.713953, "token": "展", "tok_id": 77413}
+{"beat": 6, "tok_step": 90, "t_ms": 35295, "entropy": 0.586755, "top1": 0.752242, "top5": 0.999297, "act_norm": 29.037078, "act_std": 0.641527, "token": "示", "tok_id": 20379}
+{"beat": 6, "tok_step": 91, "t_ms": 35295, "entropy": 2.135585, "top1": 0.476378, "top5": 0.843677, "act_norm": 32.05887, "act_std": 0.708531, "token": "我的", "tok_id": 98711}
+{"beat": 6, "tok_step": 92, "t_ms": 35296, "entropy": 3.171754, "top1": 0.361473, "top5": 0.627613, "act_norm": 31.204263, "act_std": 0.68948, "token": "能", "tok_id": 27327}
+{"beat": 6, "tok_step": 93, "t_ms": 35296, "entropy": 0.035329, "top1": 0.996832, "top5": 0.998273, "act_norm": 30.813895, "act_std": 0.681045, "token": "力", "tok_id": 48634}
+{"beat": 6, "tok_step": 94, "t_ms": 35297, "entropy": 2.457026, "top1": 0.279218, "top5": 0.799487, "act_norm": 32.983915, "act_std": 0.728574, "token": "。\n", "tok_id": 9174}
+{"beat": 6, "tok_step": 95, "t_ms": 35297, "entropy": 0.431428, "top1": 0.859669, "top5": 0.999442, "act_norm": 28.873192, "act_std": 0.638147, "token": "-", "tok_id": 12}
+{"beat": 6, "tok_step": 96, "t_ms": 35297, "entropy": 0.000372, "top1": 0.999974, "top5": 0.999991, "act_norm": 27.743752, "act_std": 0.613154, "token": " **", "tok_id": 3146}
+{"beat": 6, "tok_step": 97, "t_ms": 35298, "entropy": 2.042371, "top1": 0.684994, "top5": 0.767869, "act_norm": 30.718958, "act_std": 0.678652, "token": "学", "tok_id": 48864}
+{"beat": 6, "tok_step": 98, "t_ms": 35298, "entropy": 0.091376, "top1": 0.989621, "top5": 0.996482, "act_norm": 31.253913, "act_std": 0.690743, "token": "�", "tok_id": 18259}
+{"beat": 6, "tok_step": 99, "t_ms": 35299, "entropy": 0.000919, "top1": 0.999935, "top5": 0.999976, "act_norm": 27.228549, "act_std": 0.601334, "token": "�", "tok_id": 254}
+{"beat": 6, "tok_step": 100, "t_ms": 35299, "entropy": 3.750478, "top1": 0.235745, "top5": 0.517497, "act_norm": 33.409791, "act_std": 0.738269, "token": "**", "tok_id": 334}
+{"beat": 6, "tok_step": 101, "t_ms": 35299, "entropy": 0.015369, "top1": 0.998365, "top5": 0.999712, "act_norm": 26.569827, "act_std": 0.587113, "token": "：", "tok_id": 5232}
+{"beat": 6, "tok_step": 102, "t_ms": 35299, "entropy": 3.755416, "top1": 0.189761, "top5": 0.505495, "act_norm": 32.600074, "act_std": 0.720486, "token": "这", "tok_id": 44388}
+{"beat": 6, "tok_step": 103, "t_ms": 35300, "entropy": 2.2744, "top1": 0.518492, "top5": 0.761701, "act_norm": 32.591075, "act_std": 0.72018, "token": "样", "tok_id": 91985}
+{"beat": 6, "tok_step": 104, "t_ms": 35300, "entropy": 0.36841, "top1": 0.944916, "top5": 0.982539, "act_norm": 32.968424, "act_std": 0.72854, "token": "的", "tok_id": 9554}
+{"beat": 6, "tok_step": 105, "t_ms": 35301, "entropy": 3.13486, "top1": 0.263755, "top5": 0.612712, "act_norm": 33.02102, "act_std": 0.729737, "token": "体", "tok_id": 33014}
+{"beat": 6, "tok_step": 106, "t_ms": 35301, "entropy": 0.123854, "top1": 0.988057, "top5": 0.993333, "act_norm": 29.127728, "act_std": 0.643308, "token": "验", "tok_id": 42462}
+{"beat": 6, "tok_step": 107, "t_ms": 35301, "entropy": 3.081541, "top1": 0.196897, "top5": 0.615293, "act_norm": 34.848065, "act_std": 0.770166, "token": "可以", "tok_id": 74770}
+{"beat": 6, "tok_step": 108, "t_ms": 35302, "entropy": 2.149233, "top1": 0.449138, "top5": 0.829458, "act_norm": 31.263173, "act_std": 0.690989, "token": "�", "tok_id": 13821}
+{"beat": 6, "tok_step": 109, "t_ms": 35302, "entropy": 0.022773, "top1": 0.99679, "top5": 0.999946, "act_norm": 26.206998, "act_std": 0.5792, "token": "�", "tok_id": 106}
+{"beat": 6, "tok_step": 110, "t_ms": 35303, "entropy": 0.007404, "top1": 0.999218, "top5": 0.999922, "act_norm": 26.740636, "act_std": 0.591004, "token": "�", "tok_id": 8239}
+{"beat": 6, "tok_step": 111, "t_ms": 35303, "entropy": 0.000357, "top1": 0.999977, "top5": 0.999991, "act_norm": 26.606187, "act_std": 0.587997, "token": "�", "tok_id": 102}
+{"beat": 6, "tok_step": 112, "t_ms": 35303, "entropy": 0.909477, "top1": 0.857155, "top5": 0.936861, "act_norm": 30.911875, "act_std": 0.683169, "token": "我", "tok_id": 37046}
+{"beat": 6, "tok_step": 113, "t_ms": 35304, "entropy": 2.510961, "top1": 0.303012, "top5": 0.788044, "act_norm": 32.161881, "act_std": 0.71048, "token": "理", "tok_id": 22649}
+{"beat": 6, "tok_step": 114, "t_ms": 35304, "entropy": 0.013627, "top1": 0.998724, "top5": 0.999654, "act_norm": 28.956219, "act_std": 0.639939, "token": "解", "tok_id": 50338}
+{"beat": 6, "tok_step": 115, "t_ms": 35305, "entropy": 3.970479, "top1": 0.151772, "top5": 0.485964, "act_norm": 33.719855, "act_std": 0.745276, "token": "多", "tok_id": 43240}
+{"beat": 6, "tok_step": 116, "t_ms": 35306, "entropy": 2.565756, "top1": 0.425413, "top5": 0.748694, "act_norm": 29.948112, "act_std": 0.661244, "token": "样", "tok_id": 91985}
+{"beat": 6, "tok_step": 117, "t_ms": 35306, "entropy": 0.418565, "top1": 0.903622, "top5": 0.993766, "act_norm": 30.216094, "act_std": 0.667519, "token": "化", "tok_id": 33208}
+{"beat": 6, "tok_step": 118, "t_ms": 35307, "entropy": 0.896514, "top1": 0.864823, "top5": 0.933815, "act_norm": 33.981497, "act_std": 0.750186, "token": "的", "tok_id": 9554}
+{"beat": 6, "tok_step": 119, "t_ms": 35307, "entropy": 3.218229, "top1": 0.322625, "top5": 0.597557, "act_norm": 32.987267, "act_std": 0.728543, "token": "问题", "tok_id": 87219}
+{"beat": 6, "tok_step": 120, "t_ms": 35307, "entropy": 1.209827, "top1": 0.741192, "top5": 0.923347, "act_norm": 33.929344, "act_std": 0.749329, "token": "解", "tok_id": 50338}
+{"beat": 6, "tok_step": 121, "t_ms": 35307, "entropy": 0.027022, "top1": 0.996837, "top5": 0.999505, "act_norm": 29.507549, "act_std": 0.652076, "token": "�", "tok_id": 13828}
+{"beat": 6, "tok_step": 122, "t_ms": 35308, "entropy": 0.10491, "top1": 0.990197, "top5": 0.994232, "act_norm": 27.720338, "act_std": 0.612516, "token": "�", "tok_id": 111}
+{"beat": 6, "tok_step": 123, "t_ms": 35308, "entropy": 2.240618, "top1": 0.311258, "top5": 0.827942, "act_norm": 34.144681, "act_std": 0.75378, "token": "�", "tok_id": 29857}
+{"beat": 6, "tok_step": 124, "t_ms": 35309, "entropy": 0.002461, "top1": 0.999807, "top5": 0.999946, "act_norm": 29.056937, "act_std": 0.641496, "token": "�", "tok_id": 244}
+{"beat": 6, "tok_step": 125, "t_ms": 35309, "entropy": 0.002164, "top1": 0.999849, "top5": 0.999933, "act_norm": 30.400218, "act_std": 0.671664, "token": "�", "tok_id": 40198}
+{"beat": 6, "tok_step": 126, "t_ms": 35310, "entropy": 0.000425, "top1": 0.99997, "top5": 0.999993, "act_norm": 27.979204, "act_std": 0.618292, "token": "�", "tok_id": 98}
+{"beat": 6, "tok_step": 127, "t_ms": 35310, "entropy": 1.179319, "top1": 0.692454, "top5": 0.958618, "act_norm": 34.135234, "act_std": 0.754061, "token": "，", "tok_id": 3922}

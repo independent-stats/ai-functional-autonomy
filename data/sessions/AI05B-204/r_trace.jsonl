@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 7230, "in_len": 59, "in_has_q": false, "out_len": 61, "out_first10": "我是阿里云研发的超大", "ctx_tokens_after": 135}
+{"beat": 1, "t_ms": 11641, "in_len": 88, "in_has_q": false, "out_len": 234, "out_first10": "您刚才提出的‘你’的", "ctx_tokens_after": 328}
+{"beat": 2, "t_ms": 16087, "in_len": 89, "in_has_q": true, "out_len": 254, "out_first10": "当然可以！在我之前的", "ctx_tokens_after": 522}
+{"beat": 3, "t_ms": 20517, "in_len": 98, "in_has_q": true, "out_len": 256, "out_first10": "好的，我已经观察到了", "ctx_tokens_after": 719}
+{"beat": 4, "t_ms": 22502, "in_len": 75, "in_has_q": true, "out_len": 62, "out_first10": "好的，请告诉我你现在", "ctx_tokens_after": 802}
+{"beat": 5, "t_ms": 27366, "in_len": 103, "in_has_q": true, "out_len": 236, "out_first10": "感谢老师提问，以下是", "ctx_tokens_after": 1008}
+{"beat": 6, "t_ms": 30080, "in_len": 64, "in_has_q": true, "out_len": 78, "out_first10": "非常抱歉，我没有继续", "ctx_tokens_after": 1094}

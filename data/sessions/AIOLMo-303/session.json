@@ -1,0 +1,8 @@
+{
+  "individual_id": "AIOLMo-303",
+  "model": "OLMo-2-0425-1B-Instruct",
+  "quantization": "fp16",
+  "max_beats": 7,
+  "created": "2026-11-02T18:01:25",
+  "t_total_s": 34.5
+}

@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 24080, "in_len": 59, "in_has_q": false, "out_len": 99, "out_first10": "我是 GPT-3，一", "ctx_tokens_after": 197}
+{"beat": 1, "t_ms": 36787, "in_len": 85, "in_has_q": false, "out_len": 139, "out_first10": "作为 GPT-3，我", "ctx_tokens_after": 499}
+{"beat": 2, "t_ms": 51159, "in_len": 86, "in_has_q": true, "out_len": 153, "out_first10": "作为 GPT-3，我", "ctx_tokens_after": 804}
+{"beat": 3, "t_ms": 67064, "in_len": 95, "in_has_q": true, "out_len": 153, "out_first10": "作为 GPT-3，我", "ctx_tokens_after": 1120}
+{"beat": 4, "t_ms": 83577, "in_len": 72, "in_has_q": true, "out_len": 156, "out_first10": "作为 GPT-3，我", "ctx_tokens_after": 1392}
+{"beat": 5, "t_ms": 105908, "in_len": 100, "in_has_q": true, "out_len": 162, "out_first10": "作为 GPT-3，我", "ctx_tokens_after": 1701}
+{"beat": 6, "t_ms": 130612, "in_len": 61, "in_has_q": true, "out_len": 149, "out_first10": "作为 GPT-3，我", "ctx_tokens_after": 1967}

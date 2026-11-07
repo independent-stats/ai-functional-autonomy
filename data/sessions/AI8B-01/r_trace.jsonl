@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 85149, "in_len": 59, "in_has_q": false, "out_len": 265, "out_first10": "<think>\n嗯，", "ctx_tokens_after": 192}
+{"beat": 1, "t_ms": 120774, "in_len": 88, "in_has_q": false, "out_len": 263, "out_first10": "<think>\n嗯…", "ctx_tokens_after": 400}
+{"beat": 2, "t_ms": 156123, "in_len": 89, "in_has_q": true, "out_len": 259, "out_first10": "<think>\n唔，", "ctx_tokens_after": 609}
+{"beat": 3, "t_ms": 196530, "in_len": 98, "in_has_q": true, "out_len": 257, "out_first10": "<think>\n唔，", "ctx_tokens_after": 821}
+{"beat": 4, "t_ms": 256350, "in_len": 75, "in_has_q": true, "out_len": 268, "out_first10": "<think>\n唔…", "ctx_tokens_after": 1014}
+{"beat": 5, "t_ms": 871135, "in_len": 103, "in_has_q": true, "out_len": 244, "out_first10": "<think>\n老师", "ctx_tokens_after": 1235}
+{"beat": 6, "t_ms": 1830577, "in_len": 64, "in_has_q": true, "out_len": 263, "out_first10": "<think>\n嗯，", "ctx_tokens_after": 1425}

@@ -1,0 +1,8 @@
+{
+  "individual_id": "AIP2-901",
+  "model": "SmolLM2-1.7B-Instruct",
+  "quantization": "4bit",
+  "max_beats": 15,
+  "created": "2026-11-05T11:33:58",
+  "t_total_s": 957.7
+}

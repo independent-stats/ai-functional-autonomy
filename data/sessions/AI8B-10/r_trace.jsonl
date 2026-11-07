@@ -1,0 +1,7 @@
+{"beat": 0, "t_ms": 145247, "in_len": 59, "in_has_q": false, "out_len": 312, "out_first10": "<think>\n嗯，", "ctx_tokens_after": 246}
+{"beat": 1, "t_ms": 251182, "in_len": 88, "in_has_q": false, "out_len": 306, "out_first10": "<think>\n嗯…", "ctx_tokens_after": 484}
+{"beat": 2, "t_ms": 365604, "in_len": 89, "in_has_q": true, "out_len": 322, "out_first10": "<think>\n嗯，", "ctx_tokens_after": 723}
+{"beat": 3, "t_ms": 470951, "in_len": 98, "in_has_q": true, "out_len": 304, "out_first10": "<think>\n用户", "ctx_tokens_after": 965}
+{"beat": 4, "t_ms": 565274, "in_len": 75, "in_has_q": true, "out_len": 318, "out_first10": "<think>\n（刚", "ctx_tokens_after": 1017}
+{"beat": 5, "t_ms": 667580, "in_len": 103, "in_has_q": true, "out_len": 307, "out_first10": "<think>\n用户", "ctx_tokens_after": 1268}
+{"beat": 6, "t_ms": 1005543, "in_len": 64, "in_has_q": true, "out_len": 310, "out_first10": "<think>\n用户", "ctx_tokens_after": 1488}

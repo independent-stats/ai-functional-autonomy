@@ -1,0 +1,6 @@
+{
+  "individual_id": "AIP4-405",
+  "model": "Qwen2.5-0.5B-Instruct",
+  "_reconstructed": true,
+  "_source": "仓库整理时补录；依据：同批 AIP4-407 的 session.json 明写 0.5B"
+}

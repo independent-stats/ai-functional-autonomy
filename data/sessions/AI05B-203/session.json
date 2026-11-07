@@ -1,0 +1,8 @@
+{
+  "individual_id": "AI05B-203",
+  "model": "Qwen2.5-0.5B-Instruct",
+  "quantization": "fp16",
+  "max_beats": 7,
+  "created": "2026-11-02T17:24:07",
+  "t_total_s": 32.7
+}
